@@ -1,0 +1,49 @@
+---
+title: "R Markdown Template"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output:
+  html_document: 
+    toc: yes
+    code_folding: show
+---
+
+```{r setup R and load packages, message=FALSE}
+knitr::opts_chunk$set(comment=NA)
+options(width = 70)
+
+## add additional libraries/packages here, as needed
+## leaving the tidyverse as the last package loaded
+library(tidyverse)
+```
+
+```{r load in a data set and make a tibble}
+## if you want to load in a data set called namebeta.csv
+## and then create a tibble from it called namealpha
+## then uncomment the next line by removing the #
+
+# namealpha <- read_csv("namebeta.csv") 
+```
+
+
+# Big Section Header
+
+## Subsection Header
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r iris summary}
+summary(iris)
+```
+
+# Building the Next Section
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure}
+ggplot(iris, aes(x = Sepal.Length)) +
+  geom_histogram(bins = 20, col = "white")
+```
+

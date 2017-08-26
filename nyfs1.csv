@@ -1,0 +1,1417 @@
+subject.id,sex,age.exam,bmi,bmi.cat,waist.circ,triceps.skinfold
+71918,Female,8,22.3,4 Obese,71.9,19.9
+71919,Female,14,19.8,2 Normal weight,79.4,15
+71921,Male,3,15.2,2 Normal weight,46.8,8.6
+71922,Male,12,25.9,4 Obese,90,22.8
+71923,Male,12,22.5,3 Overweight,72.3,20.5
+71924,Female,8,14.4,2 Normal weight,56.1,12.9
+71925,Male,7,15.9,2 Normal weight,54.5,6.9
+71926,Male,8,17,2 Normal weight,59.7,8.8
+71927,Male,3,15.8,2 Normal weight,49.9,10.8
+71928,Female,9,16,2 Normal weight,59.9,13.2
+71929,Male,11,20,2 Normal weight,67.2,12.2
+71930,Female,12,25.2,3 Overweight,90.6,23.4
+71931,Male,4,19.8,4 Obese,62.2,18.1
+71932,Female,3,15.2,2 Normal weight,46.9,8.4
+71933,Male,15,17.1,2 Normal weight,65.6,6.5
+71934,Female,10,21.8,3 Overweight,72.8,18.8
+71935,Female,5,14.4,2 Normal weight,50.4,9.2
+71936,Male,16,23.1,2 Normal weight,78.7,14.9
+71937,Male,9,16.7,2 Normal weight,54.4,6.4
+71938,Male,5,15.4,2 Normal weight,51,13.6
+71939,Male,15,20.8,2 Normal weight,77.9,7.7
+71940,Female,6,19.1,3 Overweight,63.9,14.6
+71941,Female,12,24.3,3 Overweight,81.1,20.9
+71942,Male,13,15.2,1 Underweight,63.7,10.2
+71943,Female,15,26.1,3 Overweight,90.4,27.8
+71944,Male,9,16.1,2 Normal weight,57,10
+71945,Male,4,25.2,4 Obese,75.1,21
+71946,Male,3,16,2 Normal weight,55.6,8.8
+71948,Female,10,21.3,3 Overweight,78.8,13.2
+71949,Female,10,18.9,2 Normal weight,67.9,20
+71950,Male,6,22.3,4 Obese,68.1,17.8
+71951,Female,8,26.3,4 Obese,79.2,26.3
+71952,Female,13,30.2,4 Obese,88.3,30.9
+71953,Male,10,19.1,2 Normal weight,62.9,13.2
+71954,Male,6,15.7,2 Normal weight,54.2,10.5
+71955,Female,10,16.3,2 Normal weight,62.3,8.6
+71956,Male,8,16.7,2 Normal weight,60.4,7.4
+71957,Female,5,15.3,2 Normal weight,50.9,9.6
+71958,Female,6,16.9,2 Normal weight,56.2,10.7
+71959,Male,6,21.1,4 Obese,62.9,14.9
+71960,Male,8,16.3,2 Normal weight,63.8,13.8
+71961,Female,14,19.8,2 Normal weight,74.6,16.8
+71962,Female,9,19.1,2 Normal weight,62.7,20.8
+71963,Female,5,16.2,2 Normal weight,54.1,8.8
+71965,Female,11,15.3,2 Normal weight,56.8,11.2
+71966,Female,14,20.9,2 Normal weight,75.7,18.6
+71967,Male,10,18.7,2 Normal weight,68.7,17.7
+71968,Female,5,19.2,4 Obese,66,18.8
+71969,Female,13,25.7,3 Overweight,94.1,19.4
+71970,Male,8,19.1,3 Overweight,64.6,9.2
+71971,Male,5,16.3,2 Normal weight,53.3,11.1
+71972,Female,4,14.6,2 Normal weight,49.8,7.6
+71973,Male,12,20.9,2 Normal weight,73.1,14.9
+71974,Female,9,14.5,2 Normal weight,54.6,9.6
+71975,Female,4,14,2 Normal weight,47.8,9.2
+71977,Male,12,22.2,3 Overweight,85.1,17.6
+71978,Female,14,25.8,3 Overweight,93.3,27
+71980,Male,6,13.9,2 Normal weight,54.5,10.6
+71981,Male,9,30.1,4 Obese,98.8,27
+71982,Male,14,30.1,4 Obese,96.5,19.4
+71983,Female,13,17.5,2 Normal weight,67,14.2
+71984,Female,11,15.6,2 Normal weight,63.2,10.7
+71985,Male,5,17.8,3 Overweight,59.1,13.9
+71986,Male,13,18.5,2 Normal weight,66.2,5.3
+71987,Female,12,23.8,3 Overweight,80.5,26.6
+71988,Male,12,17.6,2 Normal weight,66.9,9.8
+71989,Male,7,16,2 Normal weight,58.1,10
+71990,Male,12,18.9,2 Normal weight,68.4,8
+71991,Female,12,24.8,3 Overweight,80.1,24.4
+71992,Male,10,16.6,2 Normal weight,63.8,11.8
+71993,Female,11,25.5,4 Obese,86.8,27.4
+71994,Male,4,17.4,3 Overweight,57.1,10.8
+71995,Female,8,24,4 Obese,77.2,19.4
+71996,Male,7,19.3,3 Overweight,72.3,13.3
+71997,Male,9,17.9,2 Normal weight,68.8,15.6
+71998,Male,6,13.9,2 Normal weight,47.1,8
+71999,Female,10,18.9,2 Normal weight,64.8,18.6
+72000,Male,9,17.4,2 Normal weight,61.7,11.8
+72001,Female,10,21.4,3 Overweight,80.7,12.9
+72002,Female,12,19.1,2 Normal weight,71.1,18.8
+72003,Female,7,15.3,2 Normal weight,60.6,8.7
+72004,Male,5,18,4 Obese,54.1,11.5
+72005,Male,12,25.7,4 Obese,86.2,22.4
+72006,Female,9,25.2,4 Obese,80,28.8
+72007,Female,15,22.1,2 Normal weight,76.5,17.4
+72008,Female,8,21,3 Overweight,70.2,16.5
+72009,Male,11,22,3 Overweight,77.3,18
+72010,Male,12,15.2,1 Underweight,62.3,7
+72011,Male,9,15.5,2 Normal weight,53.4,11
+72012,Male,4,18.7,4 Obese,59.4,14.3
+72013,Male,6,16.7,2 Normal weight,58.6,14.3
+72014,Female,13,25.4,3 Overweight,80.2,22.1
+72015,Female,6,15.9,2 Normal weight,54.3,8.6
+72016,Female,13,20.5,2 Normal weight,76.7,14.6
+72017,Male,4,15.6,2 Normal weight,55.8,9
+72018,Male,4,18.5,4 Obese,55.9,19.8
+72019,Female,14,20,2 Normal weight,68,15.2
+72020,Female,3,18.1,3 Overweight,57.6,16.6
+72021,Female,7,15.2,2 Normal weight,55,10
+72022,Male,6,16.3,2 Normal weight,57.7,8.4
+72023,Male,5,16.1,2 Normal weight,54.7,12
+72026,Male,10,22.4,3 Overweight,68.9,22.6
+72029,Male,8,26.7,4 Obese,90.3,32.6
+72030,Male,6,15.4,2 Normal weight,52.9,8
+72031,Female,3,16.3,2 Normal weight,53.1,8
+72032,Male,11,18,2 Normal weight,65.4,11.9
+72033,Male,4,15,2 Normal weight,44.8,4.6
+72034,Female,10,15.1,2 Normal weight,59.4,10.3
+72036,Female,5,14.1,2 Normal weight,49.2,10
+72037,Male,5,16.9,2 Normal weight,56.7,13.8
+72038,Female,6,16,2 Normal weight,54.3,13.3
+72040,Male,12,20.3,2 Normal weight,77,10.6
+72041,Female,9,16.3,2 Normal weight,60.4,9.4
+72042,Female,13,17.2,2 Normal weight,66.6,9
+72043,Female,12,18.2,2 Normal weight,68.5,10.8
+72044,Female,9,23.3,4 Obese,80.6,19
+72045,Male,6,15.5,2 Normal weight,56.1,8.4
+72046,Male,13,22.7,3 Overweight,83.2,13
+72047,Female,14,18.2,2 Normal weight,74.4,19
+72048,Female,3,18.2,4 Obese,55.4,15.8
+72049,Female,6,13.4,1 Underweight,48,13
+72050,Female,13,17.2,2 Normal weight,66.2,15
+72051,Female,3,17.6,3 Overweight,51.6,10.2
+72052,Male,7,24,4 Obese,80.1,14
+72054,Female,13,30.5,4 Obese,106.1,25.4
+72055,Male,11,16.5,2 Normal weight,65.7,8.6
+72056,Female,11,15.3,2 Normal weight,61,15
+72057,Female,5,16,2 Normal weight,57.1,6.8
+72058,Female,12,20.8,2 Normal weight,80.4,12.8
+72059,Male,13,25.1,3 Overweight,82.5,18
+72060,Female,3,17.1,3 Overweight,50.5,11.5
+72062,Male,5,15.7,2 Normal weight,52.1,10.2
+72063,Male,3,15.5,2 Normal weight,50.4,8.9
+72064,Female,12,19,2 Normal weight,67.4,10.2
+72065,Male,15,20.9,2 Normal weight,69.4,8.8
+72066,Male,4,17.2,3 Overweight,57,9.9
+72067,Male,6,19.5,4 Obese,56.5,12.3
+72068,Female,5,14,2 Normal weight,51.1,7.4
+72069,Male,15,21.7,2 Normal weight,70.9,9.9
+72070,Female,12,19.5,2 Normal weight,68.6,13.6
+72071,Female,14,24.9,3 Overweight,84,18.8
+72072,Male,6,19.6,4 Obese,61.9,14.8
+72073,Male,6,16,2 Normal weight,51.5,5.8
+72074,Male,7,19.4,3 Overweight,64.1,11.2
+72075,Male,12,19.7,2 Normal weight,70.5,14.2
+72076,Male,11,19.4,2 Normal weight,70.1,17.8
+72077,Male,5,17.3,3 Overweight,56.2,10.2
+72078,Female,10,19.2,2 Normal weight,67,10.6
+72080,Female,4,13.8,2 Normal weight,48.4,9.3
+72081,Male,5,14.1,2 Normal weight,49.5,7.5
+72082,Female,11,16.4,2 Normal weight,62,8.2
+72083,Male,14,18.6,2 Normal weight,69.4,8.8
+72084,Female,12,20.5,2 Normal weight,76.7,16.8
+72085,Female,13,17.5,2 Normal weight,71.6,14.2
+72086,Male,4,15.5,2 Normal weight,50,11
+72087,Female,15,17.5,2 Normal weight,64.5,8.6
+72088,Female,13,22.9,2 Normal weight,69.2,17.6
+72090,Female,7,14.5,2 Normal weight,51.7,7.2
+72091,Male,11,21,3 Overweight,69.6,10.6
+72092,Male,9,15.1,2 Normal weight,55.7,7.2
+72093,Female,9,21.8,3 Overweight,71.2,27.2
+72094,Female,12,16.9,2 Normal weight,69.2,13.2
+72095,Male,8,14.3,2 Normal weight,56.5,4
+72096,Male,8,16.9,2 Normal weight,55.5,12
+72097,Male,8,18.7,3 Overweight,63.3,15.6
+72098,Female,4,15.2,2 Normal weight,54,10
+72099,Male,6,21.3,4 Obese,72.1,16
+72101,Male,12,18.5,2 Normal weight,68.2,12.5
+72102,Male,15,21.6,2 Normal weight,77,13.4
+72103,Male,7,15,2 Normal weight,51.6,8.2
+72104,Male,8,21.3,4 Obese,72.4,19.2
+72105,Female,11,21,3 Overweight,74.5,22.5
+72108,Female,8,17.8,2 Normal weight,69.1,13.6
+72109,Female,10,15.8,2 Normal weight,58.4,11.8
+72110,Male,6,14.8,2 Normal weight,47.7,9
+72112,Male,9,15.8,2 Normal weight,60.9,10
+72113,Male,14,20.2,2 Normal weight,75.5,12.2
+72114,Female,12,16.8,2 Normal weight,63.2,7.8
+72115,Male,6,15.4,2 Normal weight,55,7.6
+72116,Male,8,24.3,4 Obese,76.4,19.3
+72117,Male,12,22.7,3 Overweight,83.4,19.2
+72118,Male,14,20.6,2 Normal weight,70.2,7.8
+72119,Female,12,28.2,4 Obese,91.8,19.6
+72120,Female,3,16.1,2 Normal weight,49.3,10.4
+72121,Male,4,13.4,1 Underweight,45.3,5.4
+72122,Female,4,15.4,2 Normal weight,51.4,11.7
+72123,Male,15,26.3,3 Overweight,91.1,22.3
+72124,Male,11,18.4,2 Normal weight,71.8,12.8
+72125,Female,7,16.9,2 Normal weight,55.7,8.3
+72126,Female,5,11.9,1 Underweight,46.2,6.1
+72128,Male,14,22.3,2 Normal weight,72.6,10.8
+72130,Male,13,19.2,2 Normal weight,73.1,8.5
+72131,Female,8,20.4,3 Overweight,70.3,17
+72132,Male,14,18.9,2 Normal weight,72.2,14
+72133,Male,13,18.1,2 Normal weight,72.1,7.6
+72134,Male,11,15.6,2 Normal weight,62.8,8
+72135,Female,13,22,2 Normal weight,77.1,28
+72136,Female,7,15.2,2 Normal weight,51.6,6.8
+72137,Male,6,17.4,3 Overweight,57.2,13.1
+72138,Male,12,22.6,3 Overweight,89.5,36
+72139,Female,11,27.6,4 Obese,95.4,18
+72141,Female,6,18.1,3 Overweight,60.9,9
+72142,Female,5,14.5,2 Normal weight,48.5,7.2
+72143,Female,6,15.6,2 Normal weight,50.2,8.2
+72144,Female,12,18,2 Normal weight,59.1,12
+72145,Male,8,16.4,2 Normal weight,57.5,11.8
+72146,Female,14,21.8,2 Normal weight,71.6,11.6
+72147,Male,12,25.6,4 Obese,92.6,19.1
+72148,Female,4,18.6,4 Obese,57.5,15.3
+72149,Male,14,17.5,2 Normal weight,66.9,9.6
+72151,Male,4,14.8,2 Normal weight,52.2,6.4
+72152,Female,7,14.4,2 Normal weight,54.4,8.2
+72153,Female,10,20.2,2 Normal weight,78,18.1
+72155,Female,4,15.9,2 Normal weight,54,15.4
+72156,Female,8,15,2 Normal weight,59,7.8
+72157,Male,11,21.8,3 Overweight,81.5,27
+72158,Female,8,13.5,1 Underweight,51.8,8.2
+72159,Male,3,16.6,2 Normal weight,47.9,5.9
+72161,Female,8,30.2,4 Obese,90.2,30.1
+72162,Female,10,26.4,4 Obese,77.5,17.4
+72163,Female,7,13.8,2 Normal weight,51.6,8
+72164,Male,8,23,4 Obese,74.9,19.4
+72165,Male,5,20.8,4 Obese,65.8,17.4
+72166,Male,10,15.8,2 Normal weight,63.4,12.2
+72168,Female,4,16,2 Normal weight,58.8,13.8
+72169,Male,14,20.9,2 Normal weight,75.8,16.7
+72170,Female,13,25.9,3 Overweight,83.6,23.8
+72171,Female,6,18.1,3 Overweight,57.6,18
+72172,Female,6,13.9,2 Normal weight,50.7,11
+72173,Female,5,15.5,2 Normal weight,55.5,13.6
+72174,Female,5,14,2 Normal weight,51.3,7.5
+72175,Male,15,22.8,2 Normal weight,83.8,13.2
+72177,Female,8,14.9,2 Normal weight,53.9,6.7
+72178,Male,13,17.7,2 Normal weight,72.7,6.8
+72179,Male,13,19.5,2 Normal weight,69.5,5.2
+72180,Female,6,15.3,2 Normal weight,51,15
+72181,Male,4,17.5,3 Overweight,54.5,13.6
+72183,Female,7,16.8,2 Normal weight,59.2,12.6
+72184,Male,15,19.7,2 Normal weight,69.7,8.4
+72185,Male,14,18.7,2 Normal weight,68.4,11.1
+72186,Female,14,25.4,3 Overweight,94.1,22.6
+72187,Male,14,19.2,2 Normal weight,70.7,11
+72188,Male,3,15.8,2 Normal weight,44.8,7.5
+72189,Male,11,15.2,2 Normal weight,54.9,7.3
+72190,Female,4,14.9,2 Normal weight,52.8,11.9
+72191,Male,9,21.3,4 Obese,75.5,12.1
+72192,Female,7,14.7,2 Normal weight,52.5,8
+72193,Female,8,15.8,2 Normal weight,55.8,11.6
+72194,Male,7,17.5,3 Overweight,59.7,17
+72195,Male,3,17.3,3 Overweight,51.5,11.2
+72196,Male,15,21.8,2 Normal weight,75,5.9
+72197,Male,5,16.2,2 Normal weight,52.8,11.2
+72198,Male,6,15.3,2 Normal weight,51.8,13.4
+72199,Male,6,17,2 Normal weight,54.1,11
+72200,Female,10,19.8,2 Normal weight,74.5,18
+72201,Male,3,18.5,4 Obese,58.7,13.4
+72202,Female,13,19.8,2 Normal weight,82.2,18
+72203,Female,6,14.9,2 Normal weight,56.8,7.6
+72204,Male,15,32.6,4 Obese,111,17.4
+72206,Female,15,21.9,2 Normal weight,74.9,23.8
+72207,Female,11,16.5,2 Normal weight,68.4,14
+72208,Male,6,16.6,2 Normal weight,55.5,11.3
+72209,Male,3,13.8,1 Underweight,42.5,8
+72210,Male,5,18.1,3 Overweight,60.7,13.4
+72211,Female,4,15.5,2 Normal weight,48.6,10.1
+72212,Female,4,14.9,2 Normal weight,50.9,10.1
+72213,Female,11,24.4,3 Overweight,77,11.2
+72215,Male,12,19.1,2 Normal weight,62.4,9.4
+72216,Female,14,19.5,2 Normal weight,69.4,17.4
+72217,Male,9,14.3,2 Normal weight,60.7,7.2
+72218,Female,15,24.5,3 Overweight,81.5,18.8
+72219,Female,9,17.3,2 Normal weight,61.5,12.6
+72220,Male,7,19.3,4 Obese,65.2,14.6
+72221,Male,3,21.6,4 Obese,60.7,12.2
+72223,Male,11,15.8,2 Normal weight,62.1,8.4
+72224,Female,5,15,2 Normal weight,57.4,10.2
+72225,Male,9,19.5,3 Overweight,64.8,10.6
+72226,Female,12,22.9,3 Overweight,78.4,20
+72227,Female,6,15.1,2 Normal weight,59.4,11.4
+72228,Male,13,22.1,2 Normal weight,71.4,12
+72229,Female,6,12.7,1 Underweight,51.9,6.8
+72231,Male,11,21.6,3 Overweight,75,22.9
+72232,Male,10,17.5,2 Normal weight,63.3,9.1
+72233,Male,4,17.9,4 Obese,55,10.2
+72234,Male,13,19.8,2 Normal weight,73.3,8.2
+72235,Male,6,15.4,2 Normal weight,53.9,13
+72236,Female,5,15.4,2 Normal weight,49.5,12.8
+72237,Male,14,22.2,2 Normal weight,79.8,11.2
+72238,Female,5,13.8,2 Normal weight,45.9,8
+72239,Male,16,24.6,3 Overweight,82.5,10.8
+72241,Female,6,19.3,4 Obese,60.5,19
+72242,Female,9,20.9,3 Overweight,67.8,20.3
+72243,Male,6,16.9,2 Normal weight,60.7,13.2
+72244,Male,10,18.4,2 Normal weight,67.9,9
+72245,Female,11,15.7,2 Normal weight,61.8,14.2
+72246,Male,12,17.8,2 Normal weight,69.8,7.8
+72248,Female,15,16.5,1 Underweight,68.5,14.2
+72249,Female,7,12.9,1 Underweight,51.2,7.5
+72250,Female,6,16.3,2 Normal weight,51.6,11
+72251,Male,12,23,3 Overweight,81.3,17.8
+72252,Female,5,15.4,2 Normal weight,51.5,9.8
+72253,Female,14,21.9,2 Normal weight,69.4,15.6
+72254,Female,3,16.3,2 Normal weight,52.8,9.8
+72255,Male,13,29.8,4 Obese,101.9,29
+72256,Male,5,14,2 Normal weight,50.6,7.7
+72257,Female,8,22,4 Obese,70.2,21
+72258,Male,5,16.9,3 Overweight,58,10.3
+72259,Male,4,15.8,2 Normal weight,52.9,8
+72260,Male,6,16,2 Normal weight,52.6,7.6
+72261,Male,10,17.6,2 Normal weight,63,9.8
+72262,Female,6,14.2,2 Normal weight,53.8,8.8
+72263,Male,14,18.2,2 Normal weight,69.9,8.6
+72264,Male,9,16.3,2 Normal weight,57.5,9.2
+72265,Female,10,17.1,2 Normal weight,59,10.8
+72266,Male,15,21.4,2 Normal weight,76.9,14.4
+72268,Male,8,14.7,2 Normal weight,53.7,7.6
+72269,Female,9,16,2 Normal weight,56.5,11.1
+72270,Female,10,16.3,2 Normal weight,58.5,12
+72271,Female,7,32,4 Obese,95,25.8
+72272,Male,7,18,3 Overweight,59.5,8.2
+72273,Male,7,16.2,2 Normal weight,55.1,12.1
+72274,Male,13,31.5,4 Obese,108.5,30.8
+72275,Male,15,23.2,2 Normal weight,80,13.2
+72276,Male,3,21.2,4 Obese,64.5,9.2
+72277,Male,13,20.6,2 Normal weight,71.7,7.2
+72278,Female,13,19.4,2 Normal weight,69.3,9.9
+72279,Male,13,25.1,3 Overweight,88.7,31
+72281,Female,13,19.1,2 Normal weight,67.7,14.5
+72283,Female,4,16.6,2 Normal weight,52.4,12.4
+72285,Female,9,24.5,4 Obese,82,19
+72287,Female,13,28.9,4 Obese,100,36
+72288,Female,14,23.9,2 Normal weight,80.1,21.8
+72289,Male,7,18,3 Overweight,62.2,10.9
+72290,Male,3,15.3,2 Normal weight,49.7,6.8
+72291,Male,5,15.4,2 Normal weight,53.1,7.6
+72292,Male,8,15.3,2 Normal weight,57.8,11.5
+72293,Female,8,17,2 Normal weight,57,8.9
+72294,Male,3,17.2,3 Overweight,49.5,9.8
+72295,Female,3,15.4,2 Normal weight,49.2,10.4
+72296,Female,8,15.1,2 Normal weight,56.7,9.8
+72297,Male,12,21.5,3 Overweight,80.3,16.6
+72298,Female,16,18.6,2 Normal weight,72.4,17.4
+72299,Male,4,17.2,3 Overweight,55.2,11.9
+72300,Male,7,13.9,2 Normal weight,53.9,6.6
+72301,Female,6,14.7,2 Normal weight,54.3,7.9
+72302,Female,3,15.5,2 Normal weight,48,7.7
+72303,Male,7,18.6,3 Overweight,60.1,9.6
+72304,Male,6,15.7,2 Normal weight,56.4,7
+72305,Female,4,16,2 Normal weight,55.8,11
+72307,Male,4,15.7,2 Normal weight,51.5,8
+72308,Female,7,15,2 Normal weight,55.2,8.2
+72309,Female,11,21.9,3 Overweight,77.2,14.5
+72311,Female,15,21.8,2 Normal weight,72.8,15.6
+72312,Male,16,27.7,4 Obese,92,12.2
+72313,Male,12,22.2,3 Overweight,79.3,12.7
+72315,Female,3,18.7,4 Obese,55.7,10.4
+72316,Female,9,21,3 Overweight,67.6,18.2
+72317,Female,14,32.2,4 Obese,91.4,25.6
+72318,Female,13,19,2 Normal weight,71.9,14.5
+72319,Male,15,19.5,2 Normal weight,75.4,11
+72320,Male,10,29.2,4 Obese,91.9,30
+72321,Male,7,14.6,2 Normal weight,54.5,8.6
+72322,Female,14,20.3,2 Normal weight,71.2,11.2
+72323,Male,13,29.2,4 Obese,92.5,19.6
+72325,Female,14,18.5,2 Normal weight,73.7,13.3
+72326,Male,6,19.5,4 Obese,65.9,17
+72327,Male,9,29.8,4 Obese,92.3,36.2
+72328,Male,6,18.5,3 Overweight,68.3,13
+72329,Male,4,16.3,2 Normal weight,52.4,7
+72330,Male,9,19.4,3 Overweight,69.6,17.1
+72331,Male,13,17.9,2 Normal weight,66,8.4
+72332,Female,4,14.4,2 Normal weight,48.2,9.6
+72333,Female,6,17,2 Normal weight,60.9,11.6
+72334,Female,12,22,2 Normal weight,76.5,9.1
+72335,Female,8,16.6,2 Normal weight,60.2,12.2
+72337,Male,12,19.1,2 Normal weight,63.4,7.6
+72338,Female,7,15.9,2 Normal weight,58.4,13.7
+72340,Male,8,17,2 Normal weight,59.9,9.6
+72342,Female,10,31.7,4 Obese,87.9,38.2
+72343,Female,14,18.8,2 Normal weight,72.8,13.4
+72345,Male,5,14.1,2 Normal weight,48.8,5.7
+72346,Female,11,16.6,2 Normal weight,68,19
+72347,Male,8,16.6,2 Normal weight,62.1,15
+72348,Female,8,20.8,4 Obese,74.1,16.3
+72349,Female,3,14.2,2 Normal weight,49.4,6.3
+72351,Female,4,13.7,2 Normal weight,44.1,7.9
+72352,Male,7,16.2,2 Normal weight,56,10
+72353,Male,11,15.3,2 Normal weight,56.5,5
+72354,Male,7,16.3,2 Normal weight,56.8,9.4
+72355,Male,3,14.9,2 Normal weight,45.1,11.2
+72356,Male,15,28.1,4 Obese,95.4,22.8
+72357,Male,9,17.6,2 Normal weight,66.1,12.9
+72358,Female,13,20.1,2 Normal weight,70.5,17.4
+72359,Female,8,15.9,2 Normal weight,52.7,9.6
+72360,Male,10,23.2,4 Obese,87.4,19
+72361,Male,7,24.4,4 Obese,76.6,18.8
+72362,Female,6,13,1 Underweight,49.2,10.6
+72363,Male,5,14.4,2 Normal weight,50.4,11
+72364,Female,12,27,4 Obese,86.6,16.4
+72365,Female,14,24.7,3 Overweight,82.7,16.3
+72366,Female,15,15.8,1 Underweight,64.9,9.8
+72367,Male,4,13.6,1 Underweight,46.4,8.2
+72368,Female,5,16.5,2 Normal weight,50.4,17.4
+72369,Female,13,22.9,2 Normal weight,82.7,18.6
+72370,Male,6,16.4,2 Normal weight,54.8,7.8
+72371,Female,14,20.7,2 Normal weight,70.2,23.6
+72372,Male,6,15.3,2 Normal weight,52.9,6
+72374,Female,5,16.4,2 Normal weight,54.6,10.1
+72375,Male,5,15.6,2 Normal weight,51.5,7.6
+72376,Female,9,15.4,2 Normal weight,55,15.6
+72377,Male,6,14.6,2 Normal weight,51.4,6.5
+72378,Female,10,14.8,2 Normal weight,61.7,9.8
+72379,Female,5,16.5,2 Normal weight,49.9,10.8
+72380,Female,10,25,4 Obese,87.2,18.6
+72381,Female,3,15.8,2 Normal weight,49.3,10.6
+72382,Female,13,22.5,2 Normal weight,78.2,15.2
+72383,Male,6,14.3,2 Normal weight,55,8
+72384,Female,3,15.9,2 Normal weight,46,12.5
+72386,Male,7,20,4 Obese,65.9,16
+72387,Male,10,24.5,4 Obese,72.3,19.2
+72388,Female,4,16.9,3 Overweight,55.4,9.1
+72389,Male,7,14.2,2 Normal weight,54.8,5.2
+72390,Female,10,20.4,2 Normal weight,72.1,19
+72391,Female,5,15.4,2 Normal weight,54.6,10.9
+72392,Female,7,18.4,3 Overweight,56.6,11.2
+72393,Male,4,15.9,2 Normal weight,49.2,9.8
+72394,Male,6,19.7,4 Obese,62.4,19.2
+72395,Male,6,21.3,4 Obese,69.7,19.8
+72396,Female,8,20.9,4 Obese,69.8,24.8
+72397,Male,7,16.3,2 Normal weight,51.7,6.6
+72398,Female,10,24.7,4 Obese,79,26.2
+72399,Female,8,16.5,2 Normal weight,54.6,10
+72400,Female,11,16.9,2 Normal weight,67.1,10.5
+72403,Male,5,14.6,2 Normal weight,51.1,7.3
+72404,Male,13,16.8,2 Normal weight,65.5,10.5
+72405,Female,9,22,3 Overweight,78.8,22.2
+72406,Female,12,22.6,3 Overweight,79.5,18.9
+72407,Female,14,27.6,4 Obese,95.6,29.6
+72408,Female,9,22.2,4 Obese,74.1,23
+72409,Female,13,26.2,3 Overweight,90.2,27.8
+72410,Female,11,15.4,2 Normal weight,66.2,10.2
+72411,Male,5,18.4,4 Obese,64.3,12.2
+72412,Female,8,19.7,3 Overweight,70.6,13.9
+72413,Male,9,18.7,2 Normal weight,63.7,8
+72414,Male,11,17.8,2 Normal weight,60.7,10.7
+72415,Female,6,14.8,2 Normal weight,53.8,8.3
+72416,Female,4,15.7,2 Normal weight,53.9,12.6
+72417,Male,6,14.9,2 Normal weight,54.9,11.8
+72418,Female,4,15.5,2 Normal weight,49.6,8.6
+72419,Female,6,18.3,3 Overweight,67.7,12.4
+72420,Female,7,25.8,4 Obese,82.1,21.2
+72421,Male,9,14.7,2 Normal weight,58,6.8
+72422,Female,4,14.3,2 Normal weight,48.2,9.1
+72423,Female,4,16,2 Normal weight,54.8,9
+72424,Female,12,19.7,2 Normal weight,66.1,11
+72425,Female,8,20.3,3 Overweight,69.8,14.6
+72426,Male,7,13.6,1 Underweight,50.4,6.4
+72427,Male,10,22.4,3 Overweight,77,21.8
+72428,Female,4,15.1,2 Normal weight,49,12
+72429,Male,3,15.8,2 Normal weight,53,12.8
+72430,Female,7,14.2,2 Normal weight,52,9.8
+72431,Female,11,19.8,2 Normal weight,67.9,12.9
+72432,Female,10,16.6,2 Normal weight,64.2,11.1
+72433,Female,6,15.6,2 Normal weight,56.8,12
+72434,Female,3,15.4,2 Normal weight,48.4,8.2
+72435,Male,5,15.3,2 Normal weight,55.1,8.6
+72437,Female,15,20,2 Normal weight,73.6,16
+72438,Female,8,16.1,2 Normal weight,62.6,13.8
+72439,Male,5,15.3,2 Normal weight,54.1,8.1
+72440,Male,15,16.2,1 Underweight,67.3,6.6
+72441,Male,6,18.1,3 Overweight,61.1,13.8
+72442,Female,14,16.2,2 Normal weight,66.9,12.3
+72443,Female,9,32.4,4 Obese,95.4,34.3
+72444,Male,13,26.7,4 Obese,89.9,22.5
+72445,Female,5,15.9,2 Normal weight,57.4,9.1
+72446,Male,4,14.4,2 Normal weight,47.5,10
+72447,Female,11,20.4,2 Normal weight,71.8,16
+72448,Male,10,34.4,4 Obese,99.6,27.9
+72449,Male,5,16.3,2 Normal weight,52.4,10.2
+72450,Female,3,17.6,3 Overweight,54.6,14.5
+72451,Male,10,19.9,2 Normal weight,79.6,18.4
+72452,Male,10,16.4,2 Normal weight,57.5,6.4
+72453,Male,7,17,2 Normal weight,58.8,10.3
+72454,Male,15,27,4 Obese,91.1,13.3
+72455,Female,3,15.3,2 Normal weight,49.5,7.2
+72456,Female,14,20,2 Normal weight,76.2,14.6
+72457,Female,12,24.9,3 Overweight,90.6,24.8
+72458,Male,11,22.9,3 Overweight,76.8,18.8
+72459,Female,6,14.7,2 Normal weight,54.6,12.8
+72460,Male,15,23.4,2 Normal weight,80.4,13.6
+72462,Female,3,16,2 Normal weight,51.8,11.2
+72463,Male,4,16.7,2 Normal weight,51.9,7.2
+72464,Female,8,16.2,2 Normal weight,59.6,15.7
+72465,Male,11,18.5,2 Normal weight,65.5,15.3
+72466,Female,7,18.5,3 Overweight,63.6,20
+72468,Female,14,32.9,4 Obese,110.4,27.4
+72469,Female,13,17.3,2 Normal weight,66.4,9.9
+72470,Female,15,24.5,3 Overweight,76.1,20.1
+72471,Male,4,15.5,2 Normal weight,52,10.2
+72472,Male,13,31.8,4 Obese,104,27.8
+72473,Male,4,21.8,4 Obese,69.8,13.7
+72474,Female,4,17.5,3 Overweight,54.4,8.8
+72475,Male,10,18,2 Normal weight,60.6,7.4
+72477,Female,14,15.7,1 Underweight,64.3,11.8
+72478,Female,12,19.3,2 Normal weight,69.4,22.9
+72479,Male,11,21.6,3 Overweight,73.9,16.4
+72480,Female,8,17.7,2 Normal weight,66,13.2
+72481,Female,12,22.1,2 Normal weight,82.4,28.5
+72482,Male,11,17.7,2 Normal weight,67.8,12.5
+72483,Female,4,15.1,2 Normal weight,47.4,8.3
+72484,Female,5,18.5,4 Obese,58.2,8.7
+72485,Female,9,18.8,2 Normal weight,69,19.8
+72486,Male,12,17.7,2 Normal weight,70.4,10.1
+72487,Female,12,28.1,4 Obese,87.2,23.4
+72488,Male,8,16.7,2 Normal weight,60.5,9.8
+72489,Male,6,17.2,2 Normal weight,56.2,9
+72490,Male,6,14.7,2 Normal weight,55.7,6.4
+72491,Female,10,22.5,3 Overweight,76.6,22.6
+72492,Male,3,16,2 Normal weight,47.8,11.1
+72493,Male,10,16.8,2 Normal weight,66.3,8.2
+72494,Female,4,14.5,2 Normal weight,50.1,10.4
+72495,Female,4,16.3,2 Normal weight,53.5,13.6
+72496,Male,12,22.3,3 Overweight,75.2,9
+72497,Female,10,16.9,2 Normal weight,66.8,14
+72498,Female,3,16.7,2 Normal weight,53.6,13.9
+72500,Male,7,16.2,2 Normal weight,55.8,8.6
+72501,Female,3,16.7,2 Normal weight,50.8,11.6
+72502,Female,11,28.5,4 Obese,99.7,26.7
+72503,Female,7,14.7,2 Normal weight,53.9,9.4
+72504,Male,4,15.7,2 Normal weight,50.5,8.2
+72505,Male,14,21,2 Normal weight,74.1,16.4
+72506,Male,8,28.4,4 Obese,96.8,27
+72508,Female,5,19.1,4 Obese,69.5,20
+72509,Male,3,15.5,2 Normal weight,46.4,7.7
+72510,Male,11,16.1,2 Normal weight,60.3,12.6
+72511,Female,15,21.9,2 Normal weight,74.3,11.6
+72512,Female,8,17.4,2 Normal weight,60.8,12.1
+72513,Male,12,30.7,4 Obese,97.3,27.3
+72514,Female,8,20.3,3 Overweight,68.9,20.6
+72515,Male,15,22.3,2 Normal weight,78,11
+72516,Male,9,17.6,2 Normal weight,64.1,11.9
+72517,Female,8,14.2,2 Normal weight,54.4,9.5
+72518,Female,6,18.1,3 Overweight,64.3,11.4
+72519,Male,8,16.5,2 Normal weight,57.8,7
+72520,Female,5,19.7,4 Obese,62,16.1
+72521,Female,10,19.9,2 Normal weight,69.8,11
+72522,Female,14,21.7,2 Normal weight,77.5,13.6
+72523,Male,5,15.9,2 Normal weight,56.8,6.6
+72524,Female,8,13.1,1 Underweight,45.6,10.2
+72525,Female,7,27.4,4 Obese,84,34.2
+72526,Female,5,19.9,4 Obese,65.4,16.9
+72527,Female,7,14.7,2 Normal weight,56.4,8
+72528,Male,3,14.3,1 Underweight,49.3,7.7
+72529,Female,11,18.1,2 Normal weight,66,17.2
+72530,Male,4,17.3,3 Overweight,52,10
+72531,Female,3,18,3 Overweight,52.8,8.8
+72532,Female,4,16.2,2 Normal weight,52.1,10.6
+72533,Male,12,14.2,1 Underweight,62.7,5.3
+72536,Male,6,20.3,4 Obese,63.3,17.2
+72537,Male,10,18.5,2 Normal weight,61.2,13.8
+72538,Female,6,14,2 Normal weight,55,12
+72539,Male,4,15.5,2 Normal weight,49.1,8.8
+72540,Male,12,25,4 Obese,86.1,27.8
+72541,Female,4,14.7,2 Normal weight,47.7,6.2
+72542,Female,7,17.5,2 Normal weight,62.1,12.5
+72543,Male,13,20.1,2 Normal weight,63.8,8
+72544,Female,10,17.3,2 Normal weight,64.4,13.2
+72545,Male,10,34.6,4 Obese,100.9,34.8
+72546,Female,3,16.7,2 Normal weight,54.1,14.2
+72547,Female,3,14.6,2 Normal weight,50.2,7
+72548,Male,14,20.7,2 Normal weight,71.4,11.3
+72549,Male,15,17.5,2 Normal weight,63.8,5
+72550,Male,5,15.5,2 Normal weight,54.4,8
+72551,Male,10,17.2,2 Normal weight,63.8,11.6
+72552,Female,5,24.1,4 Obese,77.1,20.8
+72553,Male,11,22.3,3 Overweight,80.6,17.2
+72554,Female,5,15.8,2 Normal weight,58.7,10.5
+72555,Female,7,16.2,2 Normal weight,55.6,12.4
+72556,Female,4,18.5,4 Obese,55.7,9.7
+72557,Female,3,16,2 Normal weight,47,11.6
+72558,Female,8,15.2,2 Normal weight,56.6,11.2
+72559,Male,8,23.4,4 Obese,77.6,21.2
+72560,Female,9,38.8,4 Obese,93.1,32
+72561,Male,13,23.5,3 Overweight,83.4,21
+72562,Male,3,16.7,2 Normal weight,49.4,8
+72564,Female,6,15.8,2 Normal weight,63.7,9.2
+72565,Female,7,18,2 Normal weight,64.7,12.5
+72566,Female,9,16.4,2 Normal weight,63.2,15.1
+72567,Male,8,17.9,2 Normal weight,57.4,9.3
+72568,Male,12,15.5,2 Normal weight,62.4,9.8
+72569,Male,3,17.3,3 Overweight,55.6,10.8
+72570,Female,7,18.9,3 Overweight,63.6,16.6
+72571,Male,13,19.5,2 Normal weight,71,11
+72572,Male,13,27.3,4 Obese,88.1,27.7
+72573,Male,12,16.7,2 Normal weight,61.6,11.2
+72574,Male,9,14.6,2 Normal weight,49.5,7
+72575,Female,7,15,2 Normal weight,54.5,16
+72576,Female,7,13.1,1 Underweight,49.4,10.4
+72577,Male,12,17,2 Normal weight,63.6,8.5
+72578,Male,10,16.3,2 Normal weight,66,9.6
+72579,Male,9,17,2 Normal weight,66.1,11.4
+72580,Female,5,15.8,2 Normal weight,49.8,9.1
+72581,Female,8,18.1,2 Normal weight,68.5,18.3
+72582,Male,5,15.8,2 Normal weight,49.3,10.4
+72583,Female,6,15.3,2 Normal weight,54.2,9.9
+72584,Female,11,16.8,2 Normal weight,57.2,8
+72585,Male,14,27.2,4 Obese,90.6,22.4
+72586,Male,6,21.8,4 Obese,71,22.8
+72587,Female,3,14.8,2 Normal weight,51.4,9.3
+72588,Male,3,17.4,3 Overweight,52.9,11
+72589,Female,3,16.2,2 Normal weight,51.4,8
+72590,Male,6,17,2 Normal weight,58.5,10.6
+72591,Female,3,19.5,4 Obese,59,10
+72592,Female,13,23,3 Overweight,81.2,20.8
+72593,Male,9,23.2,4 Obese,82.6,18.2
+72594,Male,3,16.8,2 Normal weight,55.3,14.4
+72595,Male,4,17.5,3 Overweight,57.5,13
+72596,Male,5,18.9,4 Obese,62.5,13.2
+72597,Male,14,19.8,2 Normal weight,74.4,8.2
+72598,Female,6,28.7,4 Obese,90.8,26
+72599,Female,8,13.9,2 Normal weight,57.2,9
+72600,Female,14,18.8,2 Normal weight,71.1,20
+72601,Male,8,14.2,2 Normal weight,53.6,7.5
+72602,Male,7,14.4,2 Normal weight,53.4,9.6
+72603,Female,10,15.5,2 Normal weight,58.5,9.5
+72604,Male,14,17.8,2 Normal weight,71.9,8.7
+72605,Male,4,17,3 Overweight,56.8,9.6
+72606,Female,10,19.9,2 Normal weight,76,15
+72608,Female,5,15.1,2 Normal weight,58.6,9.8
+72609,Male,3,17.5,3 Overweight,51.2,8.4
+72610,Female,8,21.2,3 Overweight,73.4,21.6
+72612,Male,5,17.9,3 Overweight,54.8,14.2
+72613,Male,4,16.9,3 Overweight,55.8,13.3
+72614,Male,9,18.3,2 Normal weight,69.9,12.6
+72615,Female,8,19.5,3 Overweight,66.4,17.5
+72617,Male,3,15.5,2 Normal weight,51.2,8
+72620,Male,8,19.5,3 Overweight,73,18.5
+72621,Male,5,16.5,2 Normal weight,55.4,9.4
+72622,Male,10,15.5,2 Normal weight,60.8,8.4
+72623,Female,6,14.9,2 Normal weight,54.5,11.2
+72624,Female,4,17.3,3 Overweight,53.1,13
+72625,Male,13,18.7,2 Normal weight,68.8,9.8
+72626,Female,8,17.2,2 Normal weight,62.1,11.2
+72627,Female,14,20,2 Normal weight,76.2,14.3
+72628,Female,3,17.2,3 Overweight,53.2,10.6
+72629,Female,12,19.3,2 Normal weight,63.9,8.8
+72630,Male,13,15.2,1 Underweight,62.4,6.7
+72631,Female,14,20.3,2 Normal weight,69.6,18.1
+72632,Male,10,17.2,2 Normal weight,59.6,8.2
+72633,Female,5,15.1,2 Normal weight,49.1,8.2
+72634,Male,7,13.5,1 Underweight,48,6.1
+72636,Female,3,16.5,2 Normal weight,55.2,9.8
+72637,Female,6,14.9,2 Normal weight,53.7,7.6
+72638,Male,7,15.6,2 Normal weight,54.8,7.3
+72639,Male,13,18.4,2 Normal weight,68.6,9.4
+72640,Female,11,25.5,4 Obese,82.1,19.2
+72641,Female,12,17.4,2 Normal weight,68.8,16
+72642,Female,10,20.7,3 Overweight,72.4,20.2
+72643,Female,11,19.3,2 Normal weight,64.5,14
+72644,Male,7,16.7,2 Normal weight,57.4,14.8
+72645,Female,6,15.4,2 Normal weight,56,12.8
+72646,Male,15,20.8,2 Normal weight,75.4,11
+72647,Female,9,18,2 Normal weight,60.4,13.1
+72648,Female,8,17.3,2 Normal weight,60.2,10.2
+72649,Female,9,18.1,2 Normal weight,59.1,10.3
+72650,Female,5,21.8,4 Obese,67,25.8
+72651,Male,3,17.8,3 Overweight,53,11.4
+72652,Female,13,18.4,2 Normal weight,64.7,10.6
+72653,Female,8,18,2 Normal weight,63,13.6
+72654,Female,7,16.6,2 Normal weight,58.8,14
+72655,Male,9,14.1,2 Normal weight,57.5,7.8
+72657,Male,13,25.6,3 Overweight,90.4,16.6
+72659,Female,5,14.5,2 Normal weight,50.4,10
+72660,Male,6,16.2,2 Normal weight,55.4,9.1
+72661,Female,10,13.6,1 Underweight,55,6
+72662,Female,8,20.3,3 Overweight,70.2,16.5
+72663,Female,13,15.3,1 Underweight,64.8,8
+72664,Female,11,19,2 Normal weight,70.6,17.2
+72665,Male,14,20.9,2 Normal weight,75.9,10.9
+72666,Female,5,14.1,2 Normal weight,49.1,12
+72667,Female,14,18.3,2 Normal weight,66.4,15.3
+72668,Male,10,20.1,3 Overweight,71.5,18
+72669,Female,12,17.9,2 Normal weight,65.6,8
+72670,Female,6,22.2,4 Obese,76.2,20.6
+72671,Male,15,17.8,2 Normal weight,68.5,7.6
+72672,Male,10,20.5,3 Overweight,74.5,21.4
+72673,Male,15,16.4,1 Underweight,66.6,6.4
+72674,Female,8,17.9,2 Normal weight,63.8,16
+72678,Male,5,15.1,2 Normal weight,53.8,8.2
+72679,Female,6,17.6,3 Overweight,58.1,13.4
+72680,Female,7,26.6,4 Obese,82.3,33.2
+72681,Male,7,17,2 Normal weight,58.2,10.2
+72682,Female,4,17.7,3 Overweight,57.6,11.4
+72683,Female,7,16.3,2 Normal weight,63.2,11.4
+72684,Female,4,13.3,1 Underweight,44.7,8.8
+72685,Female,13,23.6,3 Overweight,77.9,17.6
+72686,Male,5,19.9,4 Obese,68.2,12.3
+72687,Male,4,16.5,2 Normal weight,47.6,7.2
+72688,Female,13,18.6,2 Normal weight,68.3,12
+72689,Female,12,24,3 Overweight,82,20.8
+72690,Female,10,29.2,4 Obese,99.6,26.2
+72691,Male,8,16.4,2 Normal weight,60.4,12
+72692,Female,6,14.7,2 Normal weight,55,8.4
+72693,Female,4,14.8,2 Normal weight,47.4,10.6
+72694,Female,5,16.5,2 Normal weight,53.5,9.6
+72695,Male,12,22,3 Overweight,75.4,16.8
+72696,Male,9,20,3 Overweight,66.3,12
+72697,Male,7,15.9,2 Normal weight,56.5,6.6
+72698,Male,13,30.4,4 Obese,97.4,27.9
+72699,Female,12,24.8,3 Overweight,84.7,25.8
+72700,Male,7,14.4,2 Normal weight,55.4,8.8
+72701,Male,7,16.5,2 Normal weight,53.3,7.3
+72702,Male,14,21.8,2 Normal weight,81.9,15.7
+72704,Male,14,19.6,2 Normal weight,74.4,15.2
+72705,Female,12,15.5,2 Normal weight,61.1,13.8
+72707,Female,9,20,3 Overweight,71.4,20.2
+72708,Male,3,15.9,2 Normal weight,48.2,8.8
+72709,Male,12,26.2,4 Obese,90.6,29.4
+72710,Female,13,21.7,2 Normal weight,75.4,19.8
+72711,Male,12,25.6,4 Obese,83,16.2
+72712,Female,7,15.7,2 Normal weight,57.4,8.3
+72713,Female,5,13.9,2 Normal weight,53,10.4
+72714,Female,11,19.2,2 Normal weight,69.6,11.6
+72715,Female,7,15.6,2 Normal weight,60.2,9
+72716,Male,12,34.7,4 Obese,108.4,33
+72717,Female,11,24.3,3 Overweight,83,17.4
+72718,Female,5,15.8,2 Normal weight,52,8.3
+72720,Male,13,18,2 Normal weight,68.2,6.1
+72721,Male,6,14.8,2 Normal weight,55.8,6.9
+72722,Male,15,23.9,2 Normal weight,83.2,8.5
+72723,Female,15,17.2,2 Normal weight,70.9,8
+72724,Female,11,18.2,2 Normal weight,77.2,16.1
+72725,Female,11,23.4,3 Overweight,76.4,10.2
+72726,Male,7,24.2,4 Obese,83.6,23.8
+72728,Male,15,19.5,2 Normal weight,67.8,4.9
+72729,Male,11,21.4,3 Overweight,77.7,28.9
+72730,Male,11,19.5,2 Normal weight,67.6,16.2
+72731,Female,14,18.9,2 Normal weight,69.2,15.6
+72732,Female,10,14.5,2 Normal weight,54.3,10
+72734,Male,8,16,2 Normal weight,58.5,7.7
+72735,Female,12,21.8,2 Normal weight,79,14.9
+72737,Female,6,17.9,3 Overweight,60.1,12.8
+72738,Female,5,16.1,2 Normal weight,54.1,10.6
+72740,Male,14,23.8,3 Overweight,85.5,16.2
+72741,Female,7,14.3,2 Normal weight,53,13.7
+72742,Male,13,31.4,4 Obese,96.8,20.4
+72743,Male,13,20.1,2 Normal weight,80.2,15.2
+72744,Male,6,16.9,2 Normal weight,59.2,9.5
+72745,Male,8,17.7,2 Normal weight,58.7,13.2
+72746,Male,9,13.6,1 Underweight,56.3,6.6
+72747,Male,13,19.2,2 Normal weight,72.2,10.7
+72748,Male,13,23,3 Overweight,85.2,19.3
+72749,Female,9,17.4,2 Normal weight,57.7,11.9
+72750,Female,13,21.2,2 Normal weight,75,18
+72751,Male,6,15.1,2 Normal weight,59.2,7.1
+72752,Male,9,29.5,4 Obese,97.5,34
+72753,Female,5,13.9,2 Normal weight,48.6,6.6
+72754,Female,14,17.8,2 Normal weight,66.4,12.7
+72755,Female,8,15,2 Normal weight,52.3,11.2
+72756,Female,3,16.2,2 Normal weight,53.9,10.2
+72757,Male,13,18.6,2 Normal weight,68,8.8
+72758,Male,9,27.9,4 Obese,63.3,21.8
+72759,Female,5,16.9,3 Overweight,53,8.2
+72760,Female,14,25.6,3 Overweight,98.3,23.4
+72761,Male,7,17.9,3 Overweight,55.2,9.4
+72763,Female,13,26.5,4 Obese,82.2,26.2
+72765,Female,7,20.8,4 Obese,73.6,19
+72766,Female,8,17.4,2 Normal weight,64,17.2
+72767,Female,7,16,2 Normal weight,59.4,9.2
+72769,Male,11,17.7,2 Normal weight,59,9
+72770,Male,8,20.4,3 Overweight,76,16.2
+72771,Female,7,15.9,2 Normal weight,56.2,8.6
+72772,Female,15,20.9,2 Normal weight,70.1,13.8
+72773,Male,8,17.7,2 Normal weight,64.6,14.2
+72776,Female,10,20.6,3 Overweight,70.1,19.9
+72777,Male,10,21.9,3 Overweight,73.9,22.1
+72778,Female,10,20.3,3 Overweight,69.3,16.3
+72779,Female,5,16.7,2 Normal weight,55.8,10.8
+72780,Male,8,15.5,2 Normal weight,58.8,11.3
+72781,Female,12,16.7,2 Normal weight,60.8,12.5
+72783,Female,13,22,2 Normal weight,80.4,19.4
+72784,Female,7,13,1 Underweight,49.7,5.3
+72785,Male,5,16.3,2 Normal weight,52.1,7.4
+72786,Male,5,14.8,2 Normal weight,48.8,7
+72787,Male,5,17.3,3 Overweight,57.5,12
+72788,Female,9,14.8,2 Normal weight,56.1,13.4
+72790,Female,5,19.8,4 Obese,72.5,20.8
+72791,Female,7,15.4,2 Normal weight,57.1,10.2
+72792,Male,8,18.5,3 Overweight,61.4,13
+72793,Male,6,15.7,2 Normal weight,51.8,7.1
+72794,Female,10,15.5,2 Normal weight,62,10.8
+72796,Male,10,17.2,2 Normal weight,62.6,9.6
+72797,Male,6,14.9,2 Normal weight,54.5,7.8
+72798,Female,11,15,2 Normal weight,59.7,9.2
+72799,Female,13,25.9,3 Overweight,97.5,20.4
+72800,Female,10,15.6,2 Normal weight,55.6,15.8
+72801,Female,6,20,4 Obese,66.4,17
+72802,Female,10,21.3,3 Overweight,75,21.8
+72803,Female,5,15.6,2 Normal weight,55.5,11.2
+72804,Male,15,30.8,4 Obese,95.3,24.3
+72805,Male,5,14.4,2 Normal weight,49.6,6.4
+72806,Male,12,25.3,4 Obese,82.4,13.8
+72807,Male,7,15.9,2 Normal weight,57.8,6.8
+72808,Female,9,16.3,2 Normal weight,59.3,9.6
+72809,Male,11,24.8,4 Obese,78.4,17.4
+72810,Female,14,21.8,2 Normal weight,79.6,19.2
+72811,Male,3,14.8,2 Normal weight,46.2,6.4
+72812,Male,5,15.9,2 Normal weight,50.8,9.1
+72813,Male,4,15.7,2 Normal weight,51.4,10.4
+72816,Male,7,16.6,2 Normal weight,53,7.1
+72817,Male,12,19.1,2 Normal weight,69.3,10.3
+72818,Female,9,19.5,2 Normal weight,63.5,16
+72819,Male,9,14.9,2 Normal weight,56.8,9
+72820,Male,13,19.2,2 Normal weight,69.1,9
+72821,Female,13,16.6,2 Normal weight,66.5,11
+72822,Male,8,14.9,2 Normal weight,54,7.4
+72823,Male,13,18.3,2 Normal weight,63.6,8.4
+72824,Male,7,15.5,2 Normal weight,56.9,11.4
+72825,Female,15,19.9,2 Normal weight,80.2,19.2
+72826,Male,8,18.2,2 Normal weight,62.8,15.4
+72827,Male,3,17.8,3 Overweight,53,14.2
+72828,Male,15,22.1,2 Normal weight,77.6,6.2
+72829,Female,6,18.3,3 Overweight,60.8,13.3
+72830,Male,3,17.4,3 Overweight,52.8,8
+72831,Female,11,18.7,2 Normal weight,75.2,18
+72832,Female,14,19.1,2 Normal weight,73.1,12.2
+72833,Male,3,17.8,3 Overweight,52.5,8.9
+72834,Female,3,19.4,4 Obese,61.2,14.9
+72835,Male,4,16.5,2 Normal weight,50,10.4
+72836,Male,13,21.3,2 Normal weight,75.6,21.4
+72837,Male,10,16,2 Normal weight,63,13.2
+72838,Female,10,23.8,4 Obese,78.7,24.3
+72839,Female,14,19.3,2 Normal weight,70.2,16.4
+72840,Male,12,15.5,2 Normal weight,62.1,9.6
+72841,Male,13,17.9,2 Normal weight,64.5,10.3
+72842,Female,13,24.8,3 Overweight,85.7,18
+72843,Female,3,16.6,2 Normal weight,49.9,8.4
+72844,Female,13,18.1,2 Normal weight,66.3,14
+72845,Female,12,18.3,2 Normal weight,68,18.4
+72846,Male,15,28.2,4 Obese,101.4,19.1
+72847,Male,7,15.6,2 Normal weight,54.5,8.6
+72848,Female,10,19.1,2 Normal weight,70.2,14.2
+72849,Female,5,17.3,3 Overweight,56.1,10.2
+72850,Male,12,20.2,2 Normal weight,67.7,9.4
+72851,Female,7,19.5,3 Overweight,66.3,12.4
+72852,Female,13,21.5,2 Normal weight,77.4,23.8
+72853,Female,13,20,2 Normal weight,77.1,19.8
+72854,Male,8,18.8,3 Overweight,62.9,9.8
+72855,Male,12,33.2,4 Obese,101.3,17.8
+72856,Male,5,13.9,2 Normal weight,49.2,6.7
+72857,Male,3,17.1,2 Normal weight,55.2,9
+72858,Female,14,20.4,2 Normal weight,68.8,18
+72860,Male,8,16.1,2 Normal weight,54.8,8.1
+72861,Male,13,35.9,4 Obese,106.7,21.7
+72862,Female,11,16.1,2 Normal weight,63.2,8
+72863,Female,13,18.7,2 Normal weight,70.2,17.5
+72864,Female,9,17.5,2 Normal weight,63.8,15.6
+72865,Male,4,18.6,4 Obese,60.5,11.2
+72866,Female,12,23.3,3 Overweight,77.8,17.2
+72867,Male,15,26,3 Overweight,92.4,16.6
+72868,Male,15,34,4 Obese,112.4,22.1
+72869,Male,14,17.1,2 Normal weight,66.9,8.8
+72870,Female,6,17.1,2 Normal weight,56.7,11.2
+72872,Male,6,16.7,2 Normal weight,56,9
+72873,Female,7,33.5,4 Obese,86.8,26.4
+72874,Female,7,20.9,4 Obese,67.2,19.8
+72876,Male,9,21.7,3 Overweight,71,16.7
+72877,Female,12,20.6,2 Normal weight,75.9,26.6
+72879,Female,3,15.4,2 Normal weight,46.5,7
+72880,Male,13,17,2 Normal weight,70.5,6
+72881,Male,14,27.5,4 Obese,105,26.2
+72882,Male,9,17.7,2 Normal weight,61.1,14.2
+72884,Female,6,16,2 Normal weight,57.5,8.9
+72885,Female,10,27.9,4 Obese,96.7,28.5
+72886,Male,14,16.8,2 Normal weight,65.8,7.2
+72888,Male,12,18.8,2 Normal weight,68.9,13.5
+72889,Female,10,23.6,4 Obese,79.1,24.5
+72890,Female,15,21.8,2 Normal weight,79.2,21.4
+72892,Female,13,20.2,2 Normal weight,74,20.2
+72893,Male,12,25.4,4 Obese,81,20.9
+72894,Male,5,18.5,4 Obese,62.6,16.4
+72895,Male,12,14.8,1 Underweight,58.5,7
+72896,Female,11,31.3,4 Obese,105.9,23
+72897,Female,13,30.2,4 Obese,90.5,28.2
+72898,Female,10,19.8,2 Normal weight,73.9,17.5
+72899,Male,5,16.1,2 Normal weight,54,5.6
+72900,Male,12,24.4,3 Overweight,85.4,22.9
+72902,Male,10,22.6,3 Overweight,88,25.6
+72903,Female,11,17,2 Normal weight,61.8,10.6
+72905,Female,7,15.2,2 Normal weight,58.5,11
+72906,Male,13,19.3,2 Normal weight,73.5,9.4
+72907,Male,10,23.4,4 Obese,83.7,18.6
+72908,Female,3,16,2 Normal weight,54.4,12.1
+72909,Female,15,17.7,2 Normal weight,66.4,14.9
+72910,Female,14,21.8,2 Normal weight,83.3,13.3
+72911,Female,7,22.4,4 Obese,74.6,16.6
+72912,Female,7,22.6,4 Obese,69,19.2
+72913,Female,6,14.7,2 Normal weight,52.9,8.8
+72914,Female,6,16.9,2 Normal weight,60,13.8
+72915,Male,8,16.9,2 Normal weight,62.5,10.6
+72916,Male,5,18.6,4 Obese,60.8,19.1
+72917,Male,8,13.8,1 Underweight,55.5,10.2
+72918,Male,15,24.9,3 Overweight,86.9,13.1
+72919,Male,14,18.7,2 Normal weight,71,12
+72920,Male,4,14.7,2 Normal weight,51.6,7.8
+72921,Female,4,14.9,2 Normal weight,53.1,8
+72922,Female,6,13.6,2 Normal weight,51.3,9.2
+72923,Female,7,19.5,3 Overweight,64.8,19
+72924,Male,6,18.8,4 Obese,60.4,16.1
+72925,Female,6,17.3,2 Normal weight,60.8,8
+72926,Female,9,17.2,2 Normal weight,64.1,10.2
+72927,Male,14,20.3,2 Normal weight,76.6,15.9
+72929,Male,7,21.6,4 Obese,77.8,18.8
+72930,Female,14,23,2 Normal weight,77.4,17
+72931,Male,9,17,2 Normal weight,59.7,14.8
+72932,Female,10,12.6,1 Underweight,54.5,8
+72933,Male,5,16.7,2 Normal weight,52.2,11.2
+72934,Male,14,20.7,2 Normal weight,77.6,16.4
+72935,Female,6,14.7,2 Normal weight,48.3,7.1
+72936,Male,7,17.1,2 Normal weight,60.7,12.2
+72937,Female,15,17.2,2 Normal weight,70.2,13.8
+72938,Female,13,20.1,2 Normal weight,70.6,11.1
+72939,Female,5,14.2,2 Normal weight,48.9,8
+72940,Male,12,17.7,2 Normal weight,63.5,15
+72941,Female,12,25.7,3 Overweight,84.3,22.8
+72942,Female,8,15.3,2 Normal weight,55.6,10.3
+72943,Male,8,16.3,2 Normal weight,52.6,7
+72944,Female,12,18.3,2 Normal weight,63.2,13.1
+72945,Female,12,16.2,2 Normal weight,62.2,10.6
+72946,Male,8,25,4 Obese,82,27.5
+72947,Male,11,22.9,3 Overweight,84.2,18.6
+72948,Male,13,26.8,4 Obese,95.1,18.2
+72950,Male,15,18.8,2 Normal weight,68.9,8.8
+72951,Male,11,20.2,2 Normal weight,71.9,14
+72952,Male,8,14.9,2 Normal weight,55.4,8.5
+72953,Female,14,26.2,3 Overweight,79.4,26.9
+72955,Female,13,24.9,3 Overweight,87.4,18.8
+72956,Female,13,24.8,3 Overweight,81.8,22.8
+72957,Female,9,15.2,2 Normal weight,56.1,7.5
+72958,Female,9,21.5,3 Overweight,75.8,20.8
+72959,Male,12,16.6,2 Normal weight,63.1,7.4
+72960,Male,14,20.3,2 Normal weight,68.5,17
+72961,Male,8,18.7,3 Overweight,62.5,14.8
+72962,Male,14,19.8,2 Normal weight,73.5,6.2
+72963,Male,9,14.9,2 Normal weight,60,11.8
+72964,Male,8,15.1,2 Normal weight,60.8,6.9
+72965,Male,10,18.7,2 Normal weight,73.2,15
+72966,Female,11,26.2,4 Obese,88.2,12.6
+72967,Male,8,21.7,4 Obese,72.8,22.8
+72969,Female,12,14.7,1 Underweight,59.8,9.4
+72970,Female,4,16.9,3 Overweight,56.5,11.7
+72971,Male,5,16.5,2 Normal weight,54.3,7.1
+72972,Male,11,20,2 Normal weight,67.3,15
+72973,Male,12,22.7,3 Overweight,82.3,14.1
+72974,Male,14,22.4,2 Normal weight,83.8,12.2
+72976,Male,10,15.7,2 Normal weight,57.8,8.2
+72978,Female,7,14.1,2 Normal weight,55.1,6.3
+72979,Female,6,16.7,2 Normal weight,56.7,8
+72980,Male,3,15.5,2 Normal weight,52,9.2
+72981,Female,5,15.8,2 Normal weight,50.9,9.1
+72982,Male,4,16.3,2 Normal weight,51.5,9.2
+72983,Female,14,21.5,2 Normal weight,71.7,20.2
+72984,Male,11,15.7,2 Normal weight,60.4,7.6
+72985,Female,4,15.7,2 Normal weight,54.3,8.5
+72986,Female,4,14.3,2 Normal weight,50.5,10.5
+72987,Male,13,15.9,2 Normal weight,61.2,7
+72988,Female,9,16.3,2 Normal weight,60,18.8
+72989,Female,11,21.1,2 Normal weight,73,16.8
+72991,Male,7,16.7,2 Normal weight,59.4,9.6
+72992,Male,14,17.7,2 Normal weight,68,13.1
+72994,Female,11,19.3,2 Normal weight,67.9,13.2
+72995,Female,14,23.2,2 Normal weight,78.6,30
+72997,Female,7,15.6,2 Normal weight,57.2,11.8
+72998,Female,11,19.2,2 Normal weight,68.6,12.7
+72999,Female,8,24.4,4 Obese,79.9,17.8
+73000,Male,10,14.5,2 Normal weight,55.4,8
+73001,Male,7,19.2,3 Overweight,72.5,18.6
+73002,Female,12,17.1,2 Normal weight,66,8.3
+73003,Male,13,22.2,3 Overweight,82.6,10.4
+73004,Female,13,23.5,3 Overweight,85.1,25.2
+73005,Female,3,18.2,4 Obese,53.8,11.1
+73006,Female,9,22.7,4 Obese,80.5,22.6
+73007,Female,3,23.2,4 Obese,66.9,21.1
+73008,Male,9,14.5,2 Normal weight,55.6,5.6
+73009,Female,14,23.6,2 Normal weight,77.5,14.6
+73010,Male,15,22.5,2 Normal weight,84.7,11.4
+73011,Male,10,17.8,2 Normal weight,66.8,10.9
+73012,Male,4,17.5,3 Overweight,53.8,8.7
+73013,Female,10,21.4,3 Overweight,71.6,17.4
+73014,Male,7,16,2 Normal weight,55.5,7.2
+73016,Female,8,14.9,2 Normal weight,57,12.4
+73017,Male,15,19.5,2 Normal weight,72,8.2
+73018,Female,13,16.6,2 Normal weight,67,17
+73019,Female,6,15.5,2 Normal weight,56.8,9
+73020,Female,11,17.1,2 Normal weight,60.6,9.4
+73021,Female,4,19.6,4 Obese,61.2,11.5
+73022,Female,10,15.4,2 Normal weight,58.4,8.4
+73023,Male,15,20.7,2 Normal weight,77.9,13.8
+73024,Male,7,16.1,2 Normal weight,55.8,7.8
+73025,Female,8,17.5,2 Normal weight,60.3,9.1
+73026,Male,15,18.9,2 Normal weight,80.3,17.3
+73027,Female,4,15.5,2 Normal weight,51.2,12.5
+73029,Male,7,15.3,2 Normal weight,58,6.3
+73030,Male,10,15.4,2 Normal weight,57,8.4
+73031,Female,13,16.1,2 Normal weight,61.6,8.1
+73032,Male,8,16.4,2 Normal weight,56.6,10.2
+73033,Male,10,14.9,2 Normal weight,57,11
+73034,Male,8,16.3,2 Normal weight,62.1,14.2
+73035,Female,6,18.1,3 Overweight,61.3,13
+73037,Male,7,14.7,2 Normal weight,51.1,11.1
+73038,Male,5,22,4 Obese,67.7,17.9
+73039,Female,8,13.7,2 Normal weight,51.7,6.2
+73040,Female,15,27.3,3 Overweight,84,23.8
+73041,Male,5,14.8,2 Normal weight,52.9,11.1
+73042,Female,10,19.8,2 Normal weight,72.9,16.6
+73043,Male,4,16,2 Normal weight,49.8,10.2
+73044,Female,3,15.6,2 Normal weight,48.1,10.4
+73045,Male,11,20,2 Normal weight,76.1,14.2
+73047,Male,4,14.9,2 Normal weight,49.2,6.6
+73048,Male,3,15.9,2 Normal weight,46.1,7.3
+73049,Male,15,24.8,3 Overweight,83.9,18.5
+73050,Female,11,15.8,2 Normal weight,60,7.4
+73051,Female,15,21.1,2 Normal weight,69.5,11.8
+73052,Male,3,16.8,2 Normal weight,56.5,6.2
+73053,Male,4,18.3,4 Obese,56.9,13.7
+73054,Male,6,14.1,2 Normal weight,52.6,6.9
+73055,Female,12,16.2,2 Normal weight,67.4,12.3
+73056,Male,3,16.3,2 Normal weight,48.4,7
+73057,Female,7,14.6,2 Normal weight,50.9,9.8
+73058,Male,6,13.7,1 Underweight,51.6,7.4
+73059,Female,7,15.7,2 Normal weight,60,13
+73060,Male,4,16.3,2 Normal weight,50.9,8.4
+73062,Female,9,15.6,2 Normal weight,58.4,10.2
+73063,Female,9,13.2,1 Underweight,53.3,6.4
+73064,Female,8,15.2,2 Normal weight,56.8,10.2
+73065,Male,11,17,2 Normal weight,65.8,9.8
+73066,Female,14,21.7,2 Normal weight,73.9,17.1
+73067,Male,14,28.9,4 Obese,102.8,22
+73068,Male,6,17.7,3 Overweight,61.1,13
+73070,Female,3,16.9,3 Overweight,56.5,11.2
+73071,Female,7,17.5,2 Normal weight,60.5,9
+73072,Female,11,28.6,4 Obese,79.9,27
+73073,Female,10,23.9,4 Obese,87.2,27.2
+73074,Female,7,16.6,2 Normal weight,61.3,10.4
+73075,Male,5,19.2,4 Obese,62.2,12
+73076,Male,13,24.7,3 Overweight,81.2,19
+73077,Female,5,15.2,2 Normal weight,53.5,9.4
+73078,Female,11,19.8,2 Normal weight,68.3,15
+73079,Female,6,15.5,2 Normal weight,53.9,13.3
+73080,Female,13,22.1,2 Normal weight,77.8,15.8
+73082,Female,10,14.8,2 Normal weight,56,10.8
+73085,Female,8,17,2 Normal weight,57.4,8.1
+73086,Female,15,20.2,2 Normal weight,68.3,16.4
+73088,Male,9,18,2 Normal weight,59.1,15.1
+73089,Male,6,14.5,2 Normal weight,56.8,9.2
+73090,Female,8,17.6,2 Normal weight,61.7,12.2
+73091,Male,4,15.3,2 Normal weight,52.5,7.3
+73092,Male,14,20.6,2 Normal weight,72.4,8.4
+73093,Male,6,14.3,2 Normal weight,50.2,11
+73094,Female,5,14.9,2 Normal weight,55.8,7.8
+73095,Male,14,22.1,2 Normal weight,72.6,17.2
+73096,Female,4,14.8,2 Normal weight,44.4,7.3
+73097,Male,15,21,2 Normal weight,83.5,12.3
+73098,Male,4,15.9,2 Normal weight,53.2,7.2
+73099,Female,10,16.1,2 Normal weight,67.6,12.1
+73100,Female,9,15.3,2 Normal weight,55.4,6.5
+73101,Female,3,16.2,2 Normal weight,51.1,10.8
+73102,Female,13,18.4,2 Normal weight,66.2,14.4
+73103,Male,4,18,4 Obese,54.4,12.6
+73104,Male,14,15.3,1 Underweight,62.8,7.1
+73105,Male,3,16.3,2 Normal weight,52.1,7.4
+73106,Male,12,16.7,2 Normal weight,64,7.1
+73107,Female,8,19.3,3 Overweight,70.7,13.1
+73108,Male,3,15.1,2 Normal weight,49.2,6.2
+73109,Female,8,17.9,2 Normal weight,63.1,11.6
+73111,Male,14,18.4,2 Normal weight,68.4,8.4
+73112,Male,8,16.9,2 Normal weight,57.9,10
+73113,Female,6,15,2 Normal weight,54.7,10.4
+73114,Male,8,14.3,2 Normal weight,52.9,5.6
+73115,Male,11,19.2,2 Normal weight,65.5,14.6
+73116,Male,14,18.2,2 Normal weight,66.5,8.4
+73117,Female,10,17.6,2 Normal weight,62.8,13
+73118,Female,12,17.1,2 Normal weight,64.7,6.8
+73119,Female,13,21.5,2 Normal weight,81.5,14.6
+73120,Male,7,16.7,2 Normal weight,59.6,8.9
+73121,Male,7,14.4,2 Normal weight,48.6,6
+73122,Female,4,17.4,3 Overweight,63.4,13.2
+73123,Male,13,20.6,2 Normal weight,68.6,6.8
+73125,Female,8,17.7,2 Normal weight,69.6,14.8
+73126,Male,11,32,4 Obese,103.1,24.1
+73127,Male,8,23.4,4 Obese,78.1,20.3
+73128,Male,15,17.6,2 Normal weight,67.5,7.1
+73129,Female,10,21.2,3 Overweight,74.1,16.7
+73130,Male,15,31.1,4 Obese,100,24.3
+73131,Female,7,14.7,2 Normal weight,52.6,8.1
+73132,Female,14,19.8,2 Normal weight,75.3,13
+73136,Male,14,20.3,2 Normal weight,71.6,7.3
+73137,Male,9,20.4,3 Overweight,69.8,19.8
+73138,Female,6,15.6,2 Normal weight,55.4,12.1
+73139,Female,7,16.9,2 Normal weight,54.8,14.2
+73140,Female,10,15.9,2 Normal weight,62.6,14.4
+73141,Female,10,15.9,2 Normal weight,61.4,10.4
+73142,Male,6,19.2,4 Obese,65,15.8
+73143,Female,8,18.6,3 Overweight,63.5,10
+73144,Male,12,15,1 Underweight,62,9.8
+73145,Female,8,16.3,2 Normal weight,56.9,15.4
+73146,Male,11,23.7,3 Overweight,80.6,20
+73147,Male,6,15.6,2 Normal weight,55,10.2
+73148,Female,4,14.7,2 Normal weight,51.9,7.8
+73149,Female,6,15.7,2 Normal weight,59.3,11
+73150,Female,4,15.5,2 Normal weight,51.1,12
+73151,Female,5,14.8,2 Normal weight,50.2,14.8
+73152,Female,11,17.3,2 Normal weight,63.5,14.9
+73153,Female,15,19.6,2 Normal weight,78.8,14.2
+73154,Male,9,14.9,2 Normal weight,56.1,8.6
+73155,Female,7,15.7,2 Normal weight,55.7,10.1
+73156,Male,9,20.6,3 Overweight,66.2,11.8
+73158,Female,15,25.5,3 Overweight,91.1,28.8
+73159,Male,13,17.8,2 Normal weight,67.5,7.8
+73160,Male,13,22.9,3 Overweight,72,10.9
+73161,Male,10,15.6,2 Normal weight,58.6,12.8
+73162,Male,13,24.4,3 Overweight,76.4,9
+73163,Male,12,19.1,2 Normal weight,73.9,12.4
+73164,Male,5,14.2,2 Normal weight,51.9,6.4
+73165,Female,12,14,1 Underweight,60.2,7
+73167,Male,7,15.3,2 Normal weight,55.4,11.4
+73168,Male,10,18,2 Normal weight,65.3,8.7
+73169,Female,8,17.1,2 Normal weight,62.6,10.1
+73170,Female,4,22.3,4 Obese,68.4,24.5
+73171,Female,14,21.1,2 Normal weight,77,16
+73172,Female,4,22.8,4 Obese,75.5,25.4
+73174,Female,5,15.3,2 Normal weight,51.6,7.8
+73175,Female,12,24.2,3 Overweight,85,16.2
+73176,Male,10,13.4,1 Underweight,50.7,8.2
+73177,Female,12,26,4 Obese,89.4,23.6
+73178,Male,4,15.8,2 Normal weight,52.3,8.2
+73179,Male,4,20.1,4 Obese,60.5,13.2
+73180,Male,6,21.1,4 Obese,70.4,15.5
+73181,Female,14,20.3,2 Normal weight,70.8,13.9
+73182,Female,13,16.5,2 Normal weight,69.2,12.4
+73183,Female,9,16,2 Normal weight,64.2,12.2
+73185,Male,7,16,2 Normal weight,59.9,8.6
+73186,Male,8,15.4,2 Normal weight,56.1,10.4
+73187,Female,8,19,3 Overweight,67.6,12.4
+73188,Female,6,16,2 Normal weight,53.8,11.2
+73190,Male,6,15.9,2 Normal weight,55.6,10.5
+73191,Female,15,29,4 Obese,78.9,23.1
+73192,Female,3,14.9,2 Normal weight,46,7.8
+73193,Female,11,23.8,3 Overweight,80.9,21
+73195,Female,13,19.8,2 Normal weight,76.4,10.4
+73196,Male,11,17.1,2 Normal weight,61.2,8.7
+73197,Male,5,16.6,2 Normal weight,60.2,15.4
+73198,Female,4,16.6,2 Normal weight,55,12.3
+73199,Male,3,13.5,1 Underweight,43.4,8
+73201,Female,8,19.5,3 Overweight,71.1,16.2
+73202,Male,13,37,4 Obese,62.3,7.2
+73203,Male,7,14.1,2 Normal weight,55.4,8
+73204,Female,5,19.4,4 Obese,61.4,16.6
+73205,Female,14,22.4,2 Normal weight,80.2,15.2
+73206,Female,14,23.9,3 Overweight,76.6,23.3
+73207,Female,14,18.7,2 Normal weight,73,18.4
+73208,Male,15,18.9,2 Normal weight,71.8,5.6
+73209,Male,12,21.4,3 Overweight,81,26.8
+73210,Male,10,18,2 Normal weight,65.8,14.3
+73211,Male,9,18.8,3 Overweight,62.6,9.8
+73212,Male,9,18.5,2 Normal weight,63,15
+73213,Female,5,13.9,2 Normal weight,51.1,11.9
+73214,Male,12,14.5,1 Underweight,64.1,10.1
+73215,Female,12,17.8,2 Normal weight,66.5,8
+73216,Male,5,15.2,2 Normal weight,49.8,8
+73217,Male,6,15.5,2 Normal weight,53.5,7.9
+73218,Male,3,17.1,3 Overweight,52.1,9.1
+73219,Female,9,14.8,2 Normal weight,56.7,7.2
+73220,Male,13,17.8,2 Normal weight,65.2,9.8
+73221,Male,10,16.9,2 Normal weight,63.7,12.2
+73222,Male,6,16.5,2 Normal weight,52.5,8.6
+73223,Male,12,14.4,1 Underweight,57,11.8
+73224,Female,14,22,2 Normal weight,68.2,19.2
+73225,Male,7,17.5,3 Overweight,61.7,11.3
+73227,Male,7,16.5,2 Normal weight,57,7.8
+73228,Male,4,15.7,2 Normal weight,49.5,6.6
+73229,Male,4,16.5,2 Normal weight,53.8,12.4
+73230,Female,10,22,3 Overweight,82,21.6
+73231,Female,13,21.4,2 Normal weight,70.6,15.8
+73232,Female,9,17.6,2 Normal weight,63.6,12.8
+73233,Female,6,15.3,2 Normal weight,50.9,10.4
+73234,Female,10,14.9,2 Normal weight,58.3,11.2
+73235,Male,12,16.5,2 Normal weight,59.5,10
+73236,Female,4,15.4,2 Normal weight,50,11.9
+73237,Male,8,15.5,2 Normal weight,57.8,7.2
+73238,Female,8,23.1,4 Obese,72.7,15.1
+73239,Female,4,16.4,2 Normal weight,53.4,12.5
+73240,Female,6,17.2,2 Normal weight,64.4,15.9
+73241,Male,14,17.9,2 Normal weight,71.6,7.6
+73242,Male,15,21.3,2 Normal weight,69.2,8.3
+73243,Female,3,19.9,4 Obese,55.4,16
+73244,Female,8,15.5,2 Normal weight,53.2,13.6
+73245,Female,13,22,2 Normal weight,77.3,25.2
+73246,Male,15,18.8,2 Normal weight,68.1,5.3
+73247,Male,12,24.6,4 Obese,90,26.2
+73250,Male,7,25.7,4 Obese,80,19.4
+73251,Female,11,14.8,2 Normal weight,57,7.4
+73252,Male,11,18.6,2 Normal weight,66.4,15.8
+73253,Female,8,19.6,3 Overweight,65,22.2
+73254,Male,14,21.2,2 Normal weight,71.7,14
+73255,Female,8,17.6,2 Normal weight,65.6,16.8
+73256,Female,3,13.9,2 Normal weight,49,7
+73257,Male,5,15.2,2 Normal weight,53.6,7.3
+73258,Male,14,26.5,4 Obese,80.7,16.9
+73259,Female,8,15.9,2 Normal weight,59.5,12.4
+73260,Female,14,20.9,2 Normal weight,79.9,14.1
+73261,Male,15,29.7,4 Obese,86.1,16
+73262,Female,3,16.4,2 Normal weight,47.4,7.6
+73263,Male,15,25.8,3 Overweight,89.9,19.6
+73266,Male,13,24,3 Overweight,81.7,17.8
+73267,Female,9,22,3 Overweight,81.1,17.6
+73269,Male,7,17,2 Normal weight,57.4,11.4
+73270,Male,12,24.6,4 Obese,81,21
+73271,Female,15,22.7,2 Normal weight,74.9,17.6
+73272,Female,4,15.2,2 Normal weight,47.6,7.1
+73273,Male,7,15.4,2 Normal weight,52,5.8
+73274,Female,11,23,3 Overweight,78.3,19
+73275,Male,3,16.1,2 Normal weight,51.9,9.7
+73276,Female,3,15.9,2 Normal weight,51.6,9
+73277,Male,4,17.9,4 Obese,58.4,14.7
+73278,Female,11,29.8,4 Obese,98.3,26.9
+73279,Male,11,21.4,3 Overweight,79.2,15.8
+73280,Female,5,16,2 Normal weight,50.3,9
+73282,Male,6,22.9,4 Obese,74.1,22.6
+73283,Male,4,15.5,2 Normal weight,50.1,11
+73286,Male,7,24.2,4 Obese,69,22.5
+73287,Male,5,17.1,3 Overweight,59.1,11.8
+73288,Male,15,18.1,2 Normal weight,67.7,8.2
+73289,Male,14,19.3,2 Normal weight,67.5,7
+73290,Female,13,17.7,2 Normal weight,65.5,11.5
+73291,Female,7,14.3,2 Normal weight,52.4,7.2
+73292,Female,3,15.1,2 Normal weight,47.9,10.4
+73293,Male,14,18.9,2 Normal weight,66.2,13.4
+73295,Male,8,19.5,3 Overweight,69.4,22.8
+73296,Female,3,15.4,2 Normal weight,49.8,10.3
+73297,Male,10,19.5,2 Normal weight,71.5,17.4
+73298,Male,5,14.1,2 Normal weight,48.1,10
+73299,Female,4,14.5,2 Normal weight,52,13.6
+73300,Male,11,20.6,2 Normal weight,65.2,8.3
+73301,Male,11,22.9,3 Overweight,80.1,18.3
+73302,Female,7,19.4,3 Overweight,65.2,16.6
+73303,Male,3,16.8,2 Normal weight,51.5,7
+73304,Female,10,16.9,2 Normal weight,63.8,13.6
+73305,Female,14,22.2,2 Normal weight,69.1,16.8
+73306,Male,11,18,2 Normal weight,63.2,9
+73307,Male,11,16.2,2 Normal weight,65.1,6.2
+73308,Female,15,29.7,4 Obese,104.1,27.2
+73309,Male,4,21.6,4 Obese,61.6,15.2
+73310,Male,6,19.5,4 Obese,62,15.8
+73311,Male,14,31.4,4 Obese,96.2,25.2
+73312,Female,6,15,2 Normal weight,49.6,11.1
+73313,Male,11,21.7,3 Overweight,74.4,14.2
+73314,Male,13,31.8,4 Obese,101.3,17.6
+73315,Male,7,16.7,2 Normal weight,56.6,15.6
+73316,Male,5,17.3,3 Overweight,55.1,9.8
+73317,Male,10,23,4 Obese,77.5,17.6
+73318,Female,8,20.6,3 Overweight,69.4,18.4
+73319,Male,11,15.8,2 Normal weight,60,13.4
+73320,Female,3,21,4 Obese,64.7,16.9
+73321,Female,14,23.1,2 Normal weight,84.2,16
+73322,Female,15,18.8,2 Normal weight,71.5,12.8
+73323,Female,10,19.2,2 Normal weight,70,16.4
+73324,Male,6,15.9,2 Normal weight,56,9.7
+73325,Male,15,19.5,2 Normal weight,72.5,8
+73326,Female,7,16.7,2 Normal weight,59.9,13.7
+73327,Male,11,16.8,2 Normal weight,59.5,11
+73328,Female,5,14.6,2 Normal weight,50.3,8.8
+73329,Female,12,19.3,2 Normal weight,71.8,13.3
+73330,Female,15,28.7,4 Obese,89.2,24.1
+73331,Male,9,16.8,2 Normal weight,60,8.2
+73332,Male,4,15.9,2 Normal weight,49.3,9.2
+73333,Female,6,17,2 Normal weight,57.4,12
+73334,Male,3,16.2,2 Normal weight,52.6,11.5
+73335,Male,15,28.6,4 Obese,89.1,14
+73336,Female,13,20.1,2 Normal weight,79.3,14.2
+73337,Female,10,25.7,4 Obese,84.5,19
+73339,Female,11,18.2,2 Normal weight,72.2,11.8
+73342,Male,3,20.2,4 Obese,61.2,11.4
+73343,Male,5,15.3,2 Normal weight,58.2,11.4
+73345,Male,7,16.8,2 Normal weight,62.3,8.7
+73347,Female,5,14.8,2 Normal weight,53.9,9.5
+73348,Male,7,16.6,2 Normal weight,58.8,9.4
+73350,Female,15,24.5,3 Overweight,79.4,17.2
+73351,Male,4,13.7,1 Underweight,45.5,7.4
+73352,Female,11,24.6,4 Obese,82.2,20.4
+73353,Male,8,15.7,2 Normal weight,54.7,10.6
+73354,Female,5,17,3 Overweight,57.7,13.1
+73355,Male,5,16.5,2 Normal weight,49.1,9.1
+73357,Male,3,15.3,2 Normal weight,51.1,6.4
+73358,Female,15,30.2,4 Obese,98.7,23.2
+73360,Male,12,22.4,3 Overweight,88,23.3
+73361,Female,7,20.4,3 Overweight,69.8,16.7
+73362,Female,13,16,2 Normal weight,66.7,11.5
+73363,Male,11,28.8,4 Obese,95.9,23.8
+73364,Male,9,17.2,2 Normal weight,63.3,15.1
+73365,Male,9,18.7,3 Overweight,64.8,18.2
+73366,Male,4,14.9,2 Normal weight,50,9.7
+73367,Male,9,24.2,4 Obese,79,23.3
+73369,Male,9,17.8,2 Normal weight,58.4,12
+73370,Male,3,17.5,3 Overweight,49.3,7.2
+73371,Female,11,22.9,3 Overweight,77.9,28.6
+73373,Female,6,14.9,2 Normal weight,50.5,11
+73374,Female,10,16.3,2 Normal weight,56.2,9.8
+73375,Female,9,17,2 Normal weight,57.5,8.2
+73376,Male,12,18.7,2 Normal weight,65.4,9
+73377,Female,4,13.9,2 Normal weight,52.1,5.5
+73378,Female,5,16.8,2 Normal weight,54.8,11.3
+73379,Female,13,19.2,2 Normal weight,63.2,8.4
+73381,Male,10,22.1,3 Overweight,76.8,18.4
+73382,Male,10,21.5,3 Overweight,75.6,11.1
+73383,Male,12,17,2 Normal weight,63.2,9.2
+73384,Female,11,21.9,3 Overweight,74.5,14.7
+73385,Male,14,23.2,3 Overweight,76.6,13.5
+73386,Male,6,15.3,2 Normal weight,54.7,12
+73387,Female,4,17.8,3 Overweight,54.6,11.9
+73388,Male,6,15.9,2 Normal weight,57.8,7.8
+73389,Female,3,16.5,2 Normal weight,49.5,9.8
+73390,Male,5,16.5,2 Normal weight,57.4,11.8
+73391,Female,15,20.9,2 Normal weight,71.7,20.1
+73392,Female,14,18,2 Normal weight,71.7,13.8
+73393,Male,6,16.1,2 Normal weight,54.6,10.3
+73394,Male,12,21.4,2 Normal weight,76.8,14.6
+73395,Female,9,16.6,2 Normal weight,59.1,11.6
+73396,Male,8,19.4,3 Overweight,69.3,15.6
+73397,Male,15,28.9,4 Obese,101.7,24.4
+73398,Male,6,14.6,2 Normal weight,53.4,6.4
+73399,Female,10,19.5,2 Normal weight,68.6,17.1
+73400,Female,12,17,2 Normal weight,64.7,11.1
+73401,Female,6,15,2 Normal weight,54.6,11.4
+73403,Male,13,17.2,2 Normal weight,63.3,8.1
+73404,Female,10,18.2,2 Normal weight,64.2,19.1
+73405,Female,10,22,3 Overweight,77,21.5
+73406,Female,12,15.9,2 Normal weight,63.5,7.6
+73407,Male,9,22.9,4 Obese,79,21.4
+73408,Male,4,15.6,2 Normal weight,50,7.6
+73409,Female,11,16.6,2 Normal weight,57,10.7
+73410,Female,11,16,2 Normal weight,63,14.2
+73412,Male,11,21.8,3 Overweight,74.7,18.2
+73413,Male,11,23.2,3 Overweight,72.2,23.2
+73414,Male,5,20.1,4 Obese,63.3,10.4
+73415,Male,4,18.5,4 Obese,52.1,9.8
+73416,Female,7,20,3 Overweight,63,16.4
+73418,Female,5,17.5,3 Overweight,58.6,13.8
+73419,Female,14,21.8,2 Normal weight,81.4,20
+73421,Male,15,24,2 Normal weight,80.5,22.8
+73422,Male,12,23.7,3 Overweight,74.6,21.8
+73423,Male,3,15.7,2 Normal weight,49.6,9
+73424,Male,3,15.8,2 Normal weight,46.6,9.2
+73425,Female,7,14.1,2 Normal weight,52.5,8.8
+73426,Female,8,15.4,2 Normal weight,57.5,12.2
+73428,Male,5,15.3,2 Normal weight,50.2,8.8
+73429,Female,5,16.7,2 Normal weight,54.2,13.4
+73430,Male,14,30.9,4 Obese,104.1,27.8
+73431,Male,7,17,2 Normal weight,62.1,14
+73432,Female,15,23.5,2 Normal weight,82.2,24
+73433,Male,6,15.5,2 Normal weight,55.7,8.2
+73434,Male,12,17.7,2 Normal weight,62.1,11
+73435,Female,15,30.5,4 Obese,96.9,31.2
+73437,Female,11,18.7,2 Normal weight,70.8,16.5
+73438,Male,15,21.5,2 Normal weight,71.3,8.2
+73440,Male,10,19.6,2 Normal weight,75.2,18.4
+73441,Female,9,14.8,2 Normal weight,56.3,8.6
+73442,Female,8,20.1,3 Overweight,73.8,25.4
+73443,Female,16,19.9,2 Normal weight,72.3,11.8
+73444,Male,14,17.9,2 Normal weight,69.2,5.5
+73445,Male,6,16.5,2 Normal weight,57.2,6.7
+73446,Female,11,16.4,2 Normal weight,58,15.9
+73448,Male,5,15.9,2 Normal weight,54.4,9.3
+73449,Female,6,15.5,2 Normal weight,51.5,10.7
+73450,Male,8,16.3,2 Normal weight,56.5,6.5
+73451,Female,11,18.9,2 Normal weight,65.7,10.4
+73452,Male,5,16.5,2 Normal weight,56.8,10.4
+73453,Female,7,15.9,2 Normal weight,61.5,13
+73454,Female,15,18.3,2 Normal weight,69.4,12
+73455,Female,11,22.3,3 Overweight,78.9,19.5
+73456,Female,7,23.5,4 Obese,78.3,32.6
+73457,Male,7,14.3,2 Normal weight,51,7.1
+73458,Male,14,17.6,2 Normal weight,71,9
+73460,Male,4,16.3,2 Normal weight,54,9.4
+73461,Female,15,23.2,2 Normal weight,79.8,21.2
+73462,Male,6,14.8,2 Normal weight,50.9,7
+73463,Female,13,19.8,2 Normal weight,72.7,17.4
+73464,Male,4,17.8,3 Overweight,58.6,11.4
+73465,Female,10,15.4,2 Normal weight,63.7,9.2
+73466,Male,4,17.2,3 Overweight,53.2,16.2
+73467,Female,9,15.1,2 Normal weight,58,12.5
+73468,Male,3,15,2 Normal weight,51.8,9.4
+73469,Male,4,17.2,3 Overweight,54.6,10.2
+73470,Male,5,17.2,3 Overweight,59.8,13.1
+73471,Male,16,21.4,2 Normal weight,80.8,7.6
+73472,Female,6,17.7,3 Overweight,57.7,9
+73473,Male,15,25.3,3 Overweight,95.1,20.2
+73474,Female,4,21.2,4 Obese,69.1,17.4
+73475,Female,8,16.1,2 Normal weight,53.9,9.2
+73476,Male,14,18.7,2 Normal weight,64.9,7.9
+73477,Female,11,23.3,3 Overweight,75.9,28.4
+73478,Male,6,14.1,2 Normal weight,49.2,6.2
+73479,Male,9,19.5,3 Overweight,70.8,12.8
+73480,Female,13,19.5,2 Normal weight,76.1,16
+73481,Male,10,17.8,2 Normal weight,59.4,13.3
+73482,Female,5,14,2 Normal weight,52,7.2
+73483,Female,14,19.2,2 Normal weight,68.2,11.8
+73484,Male,5,15.2,2 Normal weight,52.2,7.2
+73485,Female,9,15.9,2 Normal weight,55.8,9.8
+73486,Male,10,25.2,4 Obese,88,26.8
+73487,Female,12,21.5,2 Normal weight,85.5,21.4
+73488,Female,7,13.5,2 Normal weight,53.5,8
+73489,Male,11,27.4,4 Obese,93.2,21
+73490,Female,6,14.1,2 Normal weight,51.3,5.6
+73491,Male,3,16.5,2 Normal weight,51.1,14.2
+73492,Female,8,15.9,2 Normal weight,61.4,11.8
