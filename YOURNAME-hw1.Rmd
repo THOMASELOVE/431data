@@ -1,0 +1,100 @@
+---
+title: "YOURNAME-hw1"
+author: "YOUR NAME"
+date: "Due 2017-09-15 at noon. Generated `r Sys.Date()`"
+output:
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+  html_document:
+    toc: yes
+---
+
+```{r setup R to load needed libraries, message=FALSE}
+knitr::opts_chunk$set(comment=NA)
+options(width = 70)
+
+library(MASS); library(tidyverse)
+## make sure these libraries are installed in R
+```
+
+```{r load the data file for questions 1-10 into the hw1 tibble}
+hw1 <- tbl_df(faithful)
+hw1
+```
+
+# Question 1
+
+Begin typing your answer to Question 1 here. Use complete sentences.
+
+If you need to build some code to answer a question, create a chunk of code like the one below, which looks at eruption times, rather than waiting times, so it's not helpful to us. It's also not very attractive, and not labeled effectively.
+
+```{r question 1}
+ggplot(hw1, aes(x = eruptions)) +
+  geom_histogram()
+```
+
+# Question 2
+
+Here's where you should type in your answer to Question 2. You might want to include some code again. Here's an approach that yields the mean of the middle 80% of the eruption durations (also not useful to us directly, of course.)
+
+```{r question 2 calculate trimmed mean for eruption durations}
+mean(hw1$eruptions, trim = 0.1)
+```
+
+# Question 3
+
+Answer to Question 3 goes here.
+
+# Question 4
+
+# Question 5
+
+# Question 6
+
+# Question 7
+
+# Question 8
+
+Now, you need to build a scatterplot. I'm looking for you to use the ggplot2 library again, so that might start out as something like this chunk.
+
+```{r question 8}
+ggplot(hw1, aes(x = eruptions, y = waiting)) +
+  geom_point()
+```
+
+And that's a reasonable start, although it could use a title and some more meaningful axis titles, certainly. In question 10, you'll need to add a straight line model to the plot - you might consider whether a loess smooth would be useful here.
+
+# Question 9
+
+To get a correlation of waiting time with eruption duration, you would probably use a function like the one shown in the chunk below. 
+
+```{r question 9 get Pearson correlation}
+cor(hw1$waiting, hw1$eruptions)
+```
+
+Of course, you'd then need to interpret that result. It might help to know that this numerical summary goes from -1 (indicating a perfect inverse linear relationship) to +1 (indicating a perfect direct linear relationship) with 0 indicating no linear relationship. You'll probably want to think about whether the relationship you saw in the scatterplot above was well matched by a straight line model.
+
+# Question 10
+
+Replace this text with your Question 10 answer here.
+
+# Question 11
+
+You'll need to insert a chunk of code here to create the `hw1extra` file, using the suggestion from the Assignment itself.
+
+Next, you'll need to redo the last three questions.
+
+## 11a. Question 8 for the new data
+
+Replace this text with your code and text to address question 8 using the new data.
+
+## 11b. Question 9 for the new data
+
+Replace this text with your code and text to address question 9 using the new data.
+
+## 11c. Question 10 for the new data
+
+Replace this text with your code and text to address question 10 using the new data.
+
