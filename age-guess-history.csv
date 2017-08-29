@@ -1,0 +1,41 @@
+card,label,true.age,sex,facing,year,mean.estimate,error,absolute.error,squared.error,detailed description,jpeg
+1,Chong,21,M,R,2016,25.1,4.1,4.1,16.81,"Eric Chong, Master Chef Canada winner, in April 2014",ageguess01
+2,Archuleta,64,F,L,2016,50.9,-13.1,13.1,171.61,"Katherine Archuleta, former U.S. OPM Director, in 2013",ageguess02
+3,Mayfield,28,F,L,2016,28.4,0.4,0.4,0.16,"Elise Mayfield, Chef, http://elisemayfield.com in 2014",ageguess03
+4,Love,14,M,L,2016,14.5,0.5,0.5,0.25,"Kevin Love, taken June 2014",ageguess04
+5,McGinn,54,F,R,2016,55.6,1.6,1.6,2.56,"Rosemary McGinn, in July 2013",ageguess05
+6,Chaney,74,M,L,2016,69.4,-4.6,4.6,21.16,"Basketball Coach John Chaney, in 2006",ageguess06
+7,Storm,44,M,R,2016,45.8,1.8,1.8,3.24,"David Storm, in August 2014",ageguess07
+8,Glantz,83,F,L,2016,74.5,-8.5,8.5,72.25,"Writer Margo Glantz, in 2013",ageguess08
+9,Honey,24,M,L,2016,35,11,11,121,"Fugitive Quade Ross Honey, in 2012",ageguess09
+10,Lawson,34,F,R,2016,27.7,-6.3,6.3,39.69,"Actress Bianca Lawson, in 2013",ageguess10
+1,Chong,21,M,R,2015,25.1,4.1,5,23.1,"Eric Chong, Master Chef Canada winner, in April 2014",ageguess01
+2,Archuleta,64,F,L,2015,52.2,-11.8,11.2,148.4,"Katherine Archuleta, former U.S. OPM Director, in 2013",ageguess02
+3,Mayfield,28,F,L,2015,26.7,-1.3,2.8,10.1,"Elise Mayfield, Chef, http://elisemayfield.com in 2014",ageguess03
+4,Love,14,M,L,2015,14.3,0.3,1.3,0.9,"Kevin Love, taken June 2014",ageguess04
+5,McGinn,54,F,R,2015,49.5,-4.5,5.2,42.9,"Rosemary McGinn, in July 2013",ageguess05
+6,Chaney,74,M,L,2015,67.7,-6.3,5.8,50.1,"Basketball Coach John Chaney, in 2006",ageguess06
+7,Storm,44,M,R,2015,47.1,3.1,3.6,19.5,"David Storm, in August 2014",ageguess07
+8,Glantz,83,F,L,2015,75.6,-7.4,8.6,70.6,"Writer Margo Glantz, in 2013",ageguess08
+9,Honey,24,M,L,2015,32.8,8.8,10,79.2,"Fugitive Quade Ross Honey, in 2012",ageguess09
+10,Lawson,34,F,R,2015,26.6,-7.4,7.9,59,"Actress Bianca Lawson, in 2013",ageguess10
+1,Chong,21,M,R,2014,26.6,5.6,5.6,40.2,"Eric Chong, Master Chef Canada winner, in April 2014",ageguess01
+2,Archuleta,64,F,L,2014,53.5,-10.5,10.5,136.5,"Katherine Archuleta, former U.S. OPM Director, in 2013",ageguess02
+3,Mayfield,28,F,L,2014,27.4,-0.6,2.6,9.2,"Elise Mayfield, Chef, http://elisemayfield.com in 2014",ageguess03
+4,Love,14,M,L,2014,14.3,0.3,1.9,4.5,"Kevin Love, taken June 2014",ageguess04
+5,McGinn,54,F,R,2014,53.3,-0.7,5.3,36.1,"Rosemary McGinn, in July 2013",ageguess05
+6,Chaney,74,M,L,2014,69.9,-4.1,5.1,44.5,"Basketball Coach John Chaney, in 2006",ageguess06
+7,Storm,44,M,R,2014,46.8,2.8,4,23,"David Storm, in August 2014",ageguess07
+8,Glantz,83,F,L,2014,74.7,-8.3,9.3,115.7,"Writer Margo Glantz, in 2013",ageguess08
+9,Honey,24,M,L,2014,35.1,11.1,11.1,140.9,"Fugitive Quade Ross Honey, in 2012",ageguess09
+10,Lawson,34,F,R,2014,25.9,-8.1,8.3,94.1,"Actress Bianca Lawson, in 2013",ageguess10
+1,Chong,21,M,R,robot,27,6,6,36,"Eric Chong, Master Chef Canada winner, in April 2014",ageguess01
+2,Archuleta,64,F,L,robot,44,-20,20,400,"Katherine Archuleta, former U.S. OPM Director, in 2013",ageguess02
+3,Mayfield,28,F,L,robot,22,-6,6,36,"Elise Mayfield, Chef, http://elisemayfield.com in 2014",ageguess03
+4,Love,14,M,L,robot,19,5,5,25,"Kevin Love, taken June 2014",ageguess04
+5,McGinn,54,F,R,robot,36,-18,18,324,"Rosemary McGinn, in July 2013",ageguess05
+6,Chaney,74,M,L,robot,63,-11,11,121,"Basketball Coach John Chaney, in 2006",ageguess06
+7,Storm,44,M,R,robot,55,11,11,121,"David Storm, in August 2014",ageguess07
+8,Glantz,83,F,L,robot,79,-4,4,16,"Writer Margo Glantz, in 2013",ageguess08
+9,Honey,24,M,L,robot,35,11,11,121,"Fugitive Quade Ross Honey, in 2012",ageguess09
+10,Lawson,34,F,R,robot,28,-6,6,36,"Actress Bianca Lawson, in 2013",ageguess10
