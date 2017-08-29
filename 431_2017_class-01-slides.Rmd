@@ -1,0 +1,331 @@
+---
+title: "431 Class 01"
+author: "Thomas E. Love"
+date: "2017-08-29"
+output:
+  beamer_presentation:
+    theme: "Madrid"
+    fonttheme: "structurebold"
+    colortheme: "whale"
+    fig_caption: false
+---
+
+```{r set-options, echo=FALSE, cache=FALSE}
+knitr::opts_chunk$set(comment=NA)
+options(width = 55)
+```
+
+## This is PQHS 431 / CRSP 431 / MPHP 431
+
+![http://imgs.xkcd.com/comics/correlation.png](images/correlation.png)
+
+Please take a copy of the survey and an index card from the teaching assistants. 
+
+Wait for further instructions before writing anything down.
+
+## Instructions for the Survey
+
+Please read these instructions carefully before writing anything down.
+
+1. Introduce yourself to someone that you don't know.
+2. Record the survey answers **for that other person**, while they record your responses.
+3. Be sure to complete all 15 questions (both sides of the paper).
+4. Also, write YOUR answer to question \#4 on the index card, and keep that, for now. You'll need it later.
+5. When you are finished, thank your partner and raise your hand. Someone will come to collect your survey.
+
+Regarding Question 4, Professor Love is the large fellow standing in the front of the room.
+
+## Course Details
+
+Instructor: Thomas E. Love, Ph.D.
+
+Email (best way to reach me): \color{blue} `Thomas.Love@case.edu` \color{black}
+
+Our web site: \color{blue} https://github.com/THOMASELOVE/431 \color{black}
+
+Links there to:
+
+- Syllabus (like everything, in progress)
+- Presentations (slides as PDF and R Markdown)
+- Class Notes (essentially a textbook - Part A available now)
+- Software Details (R and R Studio, primarily, installation and R Basics)
+- Data and Code
+- Assignments (there are 7), Quizzes (there are 3) and Project (after Labor Day)
+
+How to Get Help: \color{red} `431-help@case.edu` \color{black}
+
+## What is this course about?
+
+![](images/describing-431-gears.png)
+
+## What is this course about?
+
+a. Exploratory Data Analysis, Visualization
+b. Statistical Inference, Making Comparisons
+c. Linear Regression and related Models
+
+The course is about biostatistics, replicable research, using state-of-the-art tools (R, R Studio, R Markdown), and thinking about how science is most effectively done.
+
+- It is more a course in **how** to do things (highly applied) rather than a theoretical/mathematical justification for **why** we do them. We focus here on practical work.
+- It's mostly about getting you doing data science projects for biological, medical and health applications.
+
+## What is Data Science about?
+
+![](images/data-science.png)
+
+Source: \color{blue} http://r4ds.had.co.nz/introduction.html
+
+## Teaching Assistants (email `431-help@case.edu`)
+
+![](images/TAs-2017.png)
+
+- All TAs work with PQHS/CRSP/MPHP students and both Sections.
+- TA **office hours** start on Tuesday 2017-09-05 in Wood WG-56 (Computing Lab). Details to come.
+
+To get help at any time starting now, email \color{blue} `431-help@case.edu`
+
+## What will we be reading?
+
+Details in the Syllabus.
+
+Dr. Love's [Class Notes](https://thomaselove.github.io/431notes/)
+
+- Part A is more than 200 pages (in PDF) as it is.
+- There's a Part B and Part C coming, too, before the semester is over.
+
+Our web site: \color{blue} https://github.com/THOMASELOVE/431 \color{black}
+
+## What will we be BUYING and reading? (1 of 2)
+
+![](images/thesignalandthenoise.jpg) (at [\color{blue}{Amazon}](http://goo.gl/lS9LQ2) in various forms)
+
+## What will we be BUYING and reading? (2 of 2)
+
+![](images/thelementsofdataanalyticstyle.png) (e-book at [\color{blue}{LeanPub}](https://leanpub.com/datastyle) or for Kindle at [\color{blue}{Amazon}](http://goo.gl/fKhsM0))
+
+## Great Statisticians in History
+
+![](images/tukey2.jpg)
+
+Photo Source: \color{blue} http://www.azquotes.com/author/14847-John_Tukey
+
+John \color{red} **Tukey** \color{black} (1915-2000)
+
+## Your First Task (Do Today, Please)
+
+Visit \color{blue} https://goo.gl/QTSGYu \color{black} and give me your preferred name and email.
+
+![](images/googlesheet-names.png)
+
+You'll need to **log in to Google via CWRU** to see the form.
+
+## Gathering Some Data: Age Guessing Activity
+
+- You will join one of ten groups, with 4-5 students in each group.
+- Your group will receive a sheet to keep track of your guesses (estimated ages.)
+- Your group will then receive one of a series of cards, with a photo of a person on it.
+- For each card your group receives...
+    + estimate the age of the person on the card
+    + write your (group) guess in the table on the sheet in the row corresponding to that numbered card
+- Later, you will be told the true ages and will be able to compute errors.
+
+## Scientists Gather Their Own Data
+
+If you have a little time between cards, make sure everyone in your group ...
+
+1. knows the name and field of everyone else in the group, and knows your group's letter.
+2. writes down a new guess as to my age on their index card, now that you know me better.
+
+So if your initial guess was that I was 18, but now you think I'm 19, your card should read `18/19`.
+
+## Age Guessing Robots?
+
+Well, yes, of course, there's a tool online to do this. More than one, in fact. 
+
+Visit \color{blue} https://how-old.net/ \color{black} 
+
+Your mileage may vary, but that site's AI was 5 years too high on this black-and-white headshot of me. Do you think you did that well?
+
+![](images/tel-b.jpg)
+
+## Card 1
+
+![](images/ageguess01.jpg)
+
+Card 1: Eric Chong, Master Chef Canada winner, in April 2014, age \color{red} 21
+
+## Card 2
+
+![](images/ageguess02.jpg)
+
+Card 2: Katherine Archuleta, former U.S. OPM Director, in 2013, age \color{red} 64
+
+## Card 3
+
+![](images/ageguess03.jpg)
+
+Card 3: Elise Mayfield, Chef, http://elisemayfield.com in 2014, age \color{red} 28
+
+## Card 4
+
+![](images/ageguess04.jpg)
+
+Card 4: Kevin Love, taken June 2014, age \color{red} 14
+
+## No, not THAT Kevin Love
+
+![](images/kevin-love.jpg)
+
+## THIS Kevin Love, on the right here
+
+![](images/love-family-2017.jpg)
+
+He's now 18, and his brother is 15. Incidentally, I'm \color{red} 50
+
+## Card 5
+
+![](images/ageguess05.jpg)
+
+Card 5: Rosemary McGinn, in July 2013, age \color{red} 54
+
+## Card 6
+
+![](images/ageguess06.jpg)
+
+Card 6: Basketball Coach John Chaney, in 2006, age \color{red} 74
+
+## Card 7
+
+![](images/ageguess07.jpg)
+
+Card 7: David Storm, in August 2014 age \color{red} 44
+
+## Card 8
+
+![](images/ageguess08.jpg)
+
+Card 8: Writer Margo Glantz, in 2013, age \color{red} 83
+
+## Card 9
+
+![](images/ageguess09.jpg)
+
+Card 9: Fugitive Quade Ross Honey, in 2012, age \color{red} 24
+
+## Card 10
+
+![](images/ageguess10.jpg)
+
+Card 10: Actress Bianca Lawson, in 2013, age \color{red} 34
+
+## So, How did we do?
+
+![](images/agesandphotos.png)
+
+## Collecting the Results
+
+We'll collect some key results in a Google sheet, that you should be able to reach when logged into CWRU for Google. \color{blue} https://goo.gl/ccgUS3
+
+![](images/googlesheet-empty.png)
+
+## And how did the AI at https://how-old.net do?
+
+![](images/agesandphotoswithai.png)
+
+Robot consulted on 2016-08-27. Algorithm continues to evolve.
+
+## ageguesshistory.csv Data Set (excerpt)
+
+```{r get age guess data from history file, message=FALSE, echo=FALSE}
+library(viridis); library(tidyverse)
+ageguess <- read_csv("data/age-guess-history.csv")
+```
+
+```{r show age guess tibble, echo=FALSE}
+knitr::kable(ageguess[1:12,1:8])
+```
+
+## Scatterplot of Prior Results, 1
+
+```{r scatterplot of guess vs true age, by year, echo=FALSE}
+ggplot(ageguess, aes(x = true.age, y = mean.estimate, col = year)) +
+  geom_point(size = 3) +
+  theme(axis.text = element_text(size = 14),
+        axis.title = element_text(size = 14, face = "bold"),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 12, face = "bold"))
+```
+
+## Scatterplot of Prior Results, 2
+
+```{r scatterplot of guess vs true age, by year, augmented, echo=FALSE}
+ggplot(ageguess, aes(x = true.age, y = mean.estimate, col = year)) +
+  geom_point(position = "jitter", size = 3) +
+  geom_abline(intercept = 0, slope = 1) + 
+  scale_color_viridis(discrete=TRUE, end = 0.75) +
+  theme(axis.text = element_text(size = 14),
+        axis.title = element_text(size = 14, face = "bold"),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 12, face = "bold")) +
+  labs(title = "Age Guessing in Previous Years",
+       x = "True Age", y = "Mean Class-Wide Estimate")
+```
+
+## Mean Class-Wide Guesses (2014-16 combined)
+
+![](images/ages-and-photos-with-2014-2016-mean-guesses.png)
+
+
+## Mean Class-Wide Errors (2014-16 combined)
+
+![](images/ages-and-photos-with-2014-2016-mean-errors.png)
+
+## Scatterplot of Prior Results, 3
+
+```{r scatterplot of error vs true age, by year, labeled, echo = FALSE}
+ggplot(filter(ageguess, year == 2016), aes(x = true.age, y = error, fill = sex)) +
+  geom_label(aes(label = label)) +
+  geom_hline(yintercept = 0) + 
+    guides(fill = FALSE) +
+  theme(axis.text = element_text(size = 14),
+        axis.title = element_text(size = 14, face = "bold"),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 12, face = "bold")) +
+  labs(title = "Errors in 2016 Age Guessing, by Subject's Sex",
+       x = "True Age", y = "Error in Class-Wide Estimate") + 
+    theme_bw() + 
+    facet_wrap(~ sex)
+```
+
+
+## Hans Rosling and "The Joy of Stats"
+
+200 countries over 200 years using 120,000 numbers, in about 4 minutes.
+
+\color{blue} https://www.youtube.com/watch?v=jbkSRLYSojo \color{black}
+
+### And if you liked that ...
+
+- The 20 minute version (from 2007): \color{blue} https://www.youtube.com/watch?v=RUwS1uAdUcI \color{black}
+
+- The full documentary from the BBC: \color{blue} https://www.gapminder.org/videos/the-joy-of-stats/ \color{black}
+
+- Video playlist from Gapminder: \color{blue} https://www.gapminder.org/videos/ \color{black}
+
+
+## What's next?
+
+![](images/next-up-2017.png)
+
+## What's next?
+
+0. \color{red} Turn in your index card \color{black} with your two guesses of my age, please.
+1. Visit \color{blue} https://goo.gl/QTSGYu \color{black} and give us your preferred name and email.
+2. Follow the [\color{blue}{software installation instructions}](https://github.com/THOMASELOVE/431/blob/master/software-installation-431.md) to get R, R Studio, R Packages and 431 Data on your computer.
+3. Obtain Jeff Leek's [\color{blue}{The Elements of Data Analytic Style}](https://leanpub.com/datastyle).
+4. Obtain Nate Silver's [\color{blue}{The Signal and the Noise}](http://goo.gl/lS9LQ2).
+5. Read the syllabus and look at the rest of the website. Make sure you view the Course Notes.
+6. Ask us questions. TA office hours start next week, but email is available now.
+
+- Course Web Site: \color{blue} https://github.com/thomaselove/431 \color{black}
+- Want help? Email \color{blue} `431-help@case.edu` \color{black}
