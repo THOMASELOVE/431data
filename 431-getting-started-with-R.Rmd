@@ -9,6 +9,10 @@ output:
 linkcolor: blue
 ---
 
+## Link to Markdown file
+
+The link to the plain text R Markdown version of this document is at [our data and code page](https://raw.githubusercontent.com/THOMASELOVE/431data/master/431-getting-started-with-R.Rmd)
+
 \newpage
 
 # Purpose of this Document
@@ -70,7 +74,7 @@ To learn more about using R Markdown, we recommend working through some of the t
 
 To begin, we'll load the packages (libraries) and set up options that we will use in our analyses. 
 
-```{r set-options and load packages, message=FALSE}
+```{r set-options-and-load-packages, message=FALSE}
 knitr::opts_chunk$set(comment=NA)
 
 library(magrittr); library(tidyverse)
@@ -82,7 +86,7 @@ The `chickwts` data, available as part of the base installation of R (in the `da
 
 We'll begin by placing the data in a tibble called `chick`.
 
-```{r place chickwts data frams into a tibble called chick}
+```{r place-chickwts-data-into-a-tibble-called-chick}
 chick <- tbl_df(chickwts)
 chick
 ```
@@ -94,7 +98,7 @@ chick
 
 The regular `summary` function can provide some useful results.
 
-```{r summary for feed data}
+```{r summary-for-feed}
 chick %>% 
     select(feed) %>% 
     summary()
@@ -102,7 +106,7 @@ chick %>%
 
 There are lots of ways to generate a table for a factor (categorical variable) like this.
 
-```{r table for feed}
+```{r table-for-feed}
 chick %>%
   select(feed) %>%
     table() %>%
@@ -113,7 +117,7 @@ chick %>%
 
 The regular `summary` function provides a five-number summary, plus the mean. We can do this with ...
 
-```{r numerical-summary-for-weight-approach-1}
+```{r numerical-summary-for-weight-1}
 chick %>%
     select(weight) %>%
     summary()
@@ -121,26 +125,26 @@ chick %>%
 
 Or, we can use a different pipe than the usual `%>%` - here `%$%` exposes the pieces of the `chick` tibble (the variables) to the function `summary()`.
 
-```{r numerical summary for weight data}
+```{r numerical-summary-for-weight-2}
 chick %$% summary(weight)
 ```
 
 The `favstats` function from the `mosaic` package produces a more extensive set of numerical summaries. Here, we are forced to use the new pipe `%$%` to identify the variables for the function `favstats` in `mosaic`.
 
-```{r favstats summary for weight data}
+```{r favstats-summary-for-weight-1}
 chick %$%
     mosaic::favstats(weight)
 ```
 
 Another way to accomplish the same end is
 
-```{r favstats summary for weight data 2}
+```{r favstats-summary-for-weight-2}
 mosaic::favstats(chick$weight)
 ```
 
 Here is a smaller numerical summary of the weights broken down by feed category.
 
-```{r summary of weights by feed category}
+```{r summary-weights-by-feed}
 chick %>%
   group_by(feed) %>%
   summarize(mean(weight), sd(weight), median(weight))
@@ -151,7 +155,7 @@ chick %>%
 ## Drawing an attractive histogram of the `weight` data
 
 Here is the default approach.
-```{r histogram 1 for weight data}
+```{r histogram-1-for-weight}
 ggplot(chick, aes(x = weight)) +
   geom_histogram()
 ```
@@ -160,7 +164,7 @@ ggplot(chick, aes(x = weight)) +
 
 Let's make that slightly more attractive, revise the labels, and place a title.
 
-```{r histogram 2 for weight data}
+```{r histogram-2-for-weight}
 ggplot(chick, aes(x = weight)) +
   geom_histogram(bins = 10, color = "black", fill = "turquoise") + 
   labs(x = "Chick's Weight", y = "Number of Chicks", 
@@ -171,7 +175,7 @@ ggplot(chick, aes(x = weight)) +
 
 Another option would be to plot the density function, rather than the raw counts, and compare it directly to what we would expect from a Normal model with the same mean and standard deviation as the weights in the `chick` data.
 
-```{r histogram 3 for weight data}
+```{r histogram-3-for-weight}
 ggplot(chick, aes(x = weight)) +
   geom_histogram(aes(y = ..density..), bins = 12, color = "white", fill = "turquoise") + 
   stat_function(fun = dnorm,
@@ -188,7 +192,7 @@ ggplot(chick, aes(x = weight)) +
 
 A boxplot might, for instance, compare the weight distributions for each of the various types of feed.
 
-```{r boxplot for weight by feed}
+```{r boxplot-for-weight-by-feed}
 ggplot(chick, aes(x = feed, y = weight, fill = feed)) +
     geom_boxplot() +
     labs(title = "Weight by Feed Type in the Chickwts data")
@@ -202,7 +206,7 @@ We could drop the labels on the right hand side by adding `guides(fill = FALSE) 
 
 A Normal Q-Q plot of the weights is probably most easily obtained using base graphics, rather than ggplot. For example, 
 
-```{r qq plot of the weight data}
+```{r qq-plot-of-weight}
 qqnorm(chick$weight, main = "Normal Q-Q plot of Chick Weights")
 qqline(chick$weight, col = "red")
 ```
@@ -213,7 +217,7 @@ qqline(chick$weight, col = "red")
 
 The Orange data frame has 35 rows and 3 columns of records of the growth of orange trees. Let's get the data into a tibble.
 
-```{r place Orange data frams into a tibble called orange}
+```{r Orange-data-frame-into-a-tibble-called-orange}
 orange <- tbl_df(Orange)
 orange
 ```
@@ -226,35 +230,36 @@ orange
 
 And here's the standard numerical summary for the full data set. 
 
-```{r numerical summary for orange tibble}
+```{r numerical-summary-orange}
 summary(orange)
 ```
 
 Next, we'll look at the mean age and circumference, within each of the seven measurements per tree.
 
-```{r numerical summary for age and circumference by tree}
+```{r summary-age-circumference-by-tree}
 orange %>%
   group_by(Tree) %>%
   summarize(mean(age), mean(circumference))
 ```
 It looks like each of the trees was measured at exactly the same time (age).
 
-```{r table of age by tree}
+```{r table-age-by-tree}
 table(orange$age, orange$Tree) 
 ```
+
 Yes, each tree was measured at precisely the same five times.
 
 ## Correlation between Age and Circumference
 
 Here's another case that calls for the `%$%` pipe.
 
-```{r correlation of age and circumference 1}
+```{r correlation-age-circ-method1}
 orange %$% cor(age, circumference)
 ```
 
 Or, obtain the identical result with...
 
-```{r correlation of age and circumference 2}
+```{r correlation-age-circ-method2}
 cor(orange$age, orange$circumference)
 ```
 
@@ -264,7 +269,7 @@ The Pearson correlation of age and circumference is `r signif(cor(orange$age, or
 
 ## Scatterplot predicting Circumference using Age across all Trees
 
-```{r scatterplot 1 for orange}
+```{r orange_scatter_1}
 ggplot(orange, aes(x = age, y = circumference)) +
   geom_point()
 ```
@@ -275,7 +280,7 @@ OK. Let's add a linear model to this plot, as well as some better labels, and we
 
 ## Scatterplot with Linear Fit predicting Circumference using Age across all Trees
 
-```{r scatterplot 2 for orange}
+```{r orange_scatter_2}
 ggplot(orange, aes(x = age, y = circumference)) +
     geom_jitter(width = 20, height = 0) + 
     geom_smooth(method = "lm", col = "orange") +
@@ -291,7 +296,7 @@ ggplot(orange, aes(x = age, y = circumference)) +
 
 The linear model fitted here is summarized below:
 
-```{r fit linear model to orange circumference as a function of age}
+```{r orange_model_1}
 model1 <- lm(circumference ~ age, data = orange)
 summary(model1)
 ```
@@ -306,7 +311,7 @@ So our predicted circumference for a tree of age 1000 days is `r signif(coef(mod
 
 As a third option, let's fit separate smooth (`loess`) curves to each of the five individual trees, and plot each of them in different colors.
 
-```{r scatterplot 3 for orange}
+```{r orange_scatter_3}
 ggplot(orange, aes(x = age, y = circumference, col = Tree)) +
   geom_point() + 
   geom_smooth(method = "loess", se = FALSE) +
@@ -318,7 +323,7 @@ ggplot(orange, aes(x = age, y = circumference, col = Tree)) +
 
 Or we could facet the plots, showing multiple scatterplots, one for each Tree.
 
-```{r scatterplot 4 for orange}
+```{r orange_scatter_4}
 ggplot(orange, aes(x = age, y = circumference, col = Tree)) +
   geom_point() + 
   geom_smooth(method = "loess", se = FALSE) +
