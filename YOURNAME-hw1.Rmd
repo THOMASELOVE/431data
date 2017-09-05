@@ -3,23 +3,24 @@ title: "YOURNAME-hw1"
 author: "YOUR NAME"
 date: "Due 2017-09-15 at noon. Generated `r Sys.Date()`"
 output:
+  html_document:
+    toc: yes
   word_document:
     toc: yes
   pdf_document:
     toc: yes
-  html_document:
-    toc: yes
 ---
 
-```{r setup R to load needed libraries, message=FALSE}
+```{r setup, message=FALSE}
 knitr::opts_chunk$set(comment=NA)
 options(width = 70)
 
 library(MASS); library(tidyverse)
 ## make sure these libraries are installed in R
+## always need tidyverse, also need MASS for HW 1
 ```
 
-```{r load the data file for questions 1-10 into the hw1 tibble}
+```{r create_hw1_tibble}
 hw1 <- tbl_df(faithful)
 hw1
 ```
@@ -30,7 +31,7 @@ Begin typing your answer to Question 1 here. Use complete sentences.
 
 If you need to build some code to answer a question, create a chunk of code like the one below, which looks at eruption times, rather than waiting times, so it's not helpful to us. It's also not very attractive, and not labeled effectively.
 
-```{r question 1}
+```{r q01_histogram}
 ggplot(hw1, aes(x = eruptions)) +
   geom_histogram()
 ```
@@ -39,7 +40,7 @@ ggplot(hw1, aes(x = eruptions)) +
 
 Here's where you should type in your answer to Question 2. You might want to include some code again. Here's an approach that yields the mean of the middle 80% of the eruption durations (also not useful to us directly, of course.)
 
-```{r question 2 calculate trimmed mean for eruption durations}
+```{r q02_trimmed_mean_durations}
 mean(hw1$eruptions, trim = 0.1)
 ```
 
@@ -59,7 +60,7 @@ Answer to Question 3 goes here.
 
 Now, you need to build a scatterplot. I'm looking for you to use the ggplot2 library again, so that might start out as something like this chunk.
 
-```{r question 8}
+```{r q08_scatterplot_draft}
 ggplot(hw1, aes(x = eruptions, y = waiting)) +
   geom_point()
 ```
@@ -70,7 +71,7 @@ And that's a reasonable start, although it could use a title and some more meani
 
 To get a correlation of waiting time with eruption duration, you would probably use a function like the one shown in the chunk below. 
 
-```{r question 9 get Pearson correlation}
+```{r q09_correlation}
 cor(hw1$waiting, hw1$eruptions)
 ```
 
