@@ -1,4 +1,4 @@
-student,sex,english,statsofar,ageguess,smoke,h.left,h.right,handedness,statfuture,haircut,lecture,alone,height.in,hand.span,color,lastsleep,pulse,year,lovetrueage
+student,sex,english,statsofar,ageguess,smoke,h.left,h.right,handedness,statfuture,haircut,lecture,alone,height.in,hand.span,favcolor,lastsleep,pulse,year,lovetrueage
 201701,m,y,3,52,1,15,3,-0.666666667,5,20,2,2,71,22,orange,8.5,75,2017,50.5
 201702,m,y,5,48,1,12,5,-0.411764706,5,0,3,4,63,18,gray,6.5,68,2017,50.5
 201703,f,y,3,55,1,0,20,1,7,20,3,1,65,20.5,pink,6,80,2017,50.5
