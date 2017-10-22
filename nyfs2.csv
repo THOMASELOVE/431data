@@ -1,0 +1,281 @@
+subject.id,sex,age.exam,race.eth,english,income.cat3,income.detail,inc.to.pov,weight.kg,height.cm,bmi,bmi.group,bmi.cat,arm.length,arm.circ,waist.circ,calf.circ,calf.skinfold,triceps.skinfold,subscap.skinfold,GMQ
+73228,Male,4,5 Other or Multi-Race,1,Low (below 25K),0 to 4999,0,17,103.9,15.7,2,Normal weight,19.5,16.9,49.5,21.8,6,6.6,4.2,103
+72393,Male,4,2 Non-Hispanic Black,1,Low (below 25K),0 to 4999,0,16.4,101.7,15.9,2,Normal weight,21,16.8,49.2,22.4,7.3,9.8,5.4,103
+73303,Male,3,2 Non-Hispanic Black,1,Low (below 25K),0 to 4999,0.16,16.4,98.7,16.8,2,Normal weight,19.2,17.1,51.5,23.1,7.8,7,5.3,91
+72786,Male,5,1 Non-Hispanic White,1,Low (below 25K),0 to 4999,0.04,19.1,113.6,14.8,2,Normal weight,22.3,17.5,48.8,22.6,8,7,5,94
+73048,Male,3,2 Non-Hispanic Black,1,Low (below 25K),0 to 4999,0.17,14,93.8,15.9,2,Normal weight,19.3,16,46.1,20.9,8.1,7.3,5.4,118
+72556,Female,4,2 Non-Hispanic Black,1,Low (below 25K),0 to 4999,0.06,20.8,105.9,18.5,4,Obese,21.8,19.4,55.7,26.6,9.6,9.7,7,118
+72580,Female,5,2 Non-Hispanic Black,1,Low (below 25K),0 to 4999,0.17,18,106.9,15.8,2,Normal weight,21.4,17.6,49.8,23.2,9.8,9.1,8.2,124
+72532,Female,4,4 Other Hispanic,0,Low (below 25K),0 to 4999,0.02,16.7,101.4,16.2,2,Normal weight,19.6,17,52.1,21.7,10.1,10.6,7.2,103
+73012,Male,4,1 Non-Hispanic White,1,Low (below 25K),0 to 4999,0.21,19.8,106.3,17.5,3,Overweight,22.5,19.2,53.8,22.9,10.3,8.7,9.1,64
+72099,Male,6,1 Non-Hispanic White,1,Low (below 25K),0 to 4999,0.2,31.4,121.4,21.3,4,Obese,25.8,21.6,72.1,27.7,14.3,16,19.1,67
+73007,Female,3,4 Other Hispanic,0,Low (below 25K),0 to 4999,0,25.5,104.8,23.2,4,Obese,20.6,23.1,66.9,27.3,22,21.1,22.8,100
+72759,Female,5,4 Other Hispanic,1,Low (below 25K),5000 to 9999,0.22,17.7,102.4,16.9,3,Overweight,20.7,19.1,53,23,8.5,8.2,6.8,97
+72530,Male,4,2 Non-Hispanic Black,1,Low (below 25K),5000 to 9999,0.31,20.9,109.9,17.3,3,Overweight,21.8,20.2,52,25,8.8,10,6.6,112
+72605,Male,4,1 Non-Hispanic White,1,Low (below 25K),5000 to 9999,0.36,20,108.5,17,3,Overweight,22.6,18.4,56.8,23.9,9.8,9.6,6,88
+72679,Female,6,2 Non-Hispanic Black,1,Low (below 25K),5000 to 9999,0.42,29.5,129.3,17.6,3,Overweight,26.4,22,58.1,27.7,9.8,13.4,9.3,118
+73044,Female,3,4 Other Hispanic,1,Low (below 25K),5000 to 9999,0.31,15.5,99.6,15.6,2,Normal weight,19.1,15.8,48.1,21.5,10.5,10.4,6.8,88
+72612,Male,5,1 Non-Hispanic White,1,Low (below 25K),5000 to 9999,0,22.8,113,17.9,3,Overweight,23.2,18.6,54.8,26.3,12.2,14.2,6.6,94
+72865,Male,4,2 Non-Hispanic Black,1,Low (below 25K),5000 to 9999,0.59,25.3,116.5,18.6,4,Obese,25,18.6,60.5,26.4,12.4,11.2,9.2,109
+73470,Male,5,1 Non-Hispanic White,1,Low (below 25K),5000 to 9999,0.26,24.8,120.1,17.2,3,Overweight,25.2,21.2,59.8,25.8,13,13.1,9,127
+73334,Male,3,1 Non-Hispanic White,1,Low (below 25K),5000 to 9999,0.26,18,105.3,16.2,2,Normal weight,21.6,17.2,52.6,22.8,14,11.5,7.5,88
+73342,Male,3,3 Mexican American,0,Low (below 25K),5000 to 9999,0.3,21.6,103.4,20.2,4,Obese,22.1,19.7,61.2,25.6,14.2,11.4,7.6,121
+72591,Female,3,2 Non-Hispanic Black,1,Low (below 25K),5000 to 9999,0.23,20.7,103.1,19.5,4,Obese,19.8,21.2,59,24.7,15.2,10,13.2,94
+71931,Male,4,3 Mexican American,1,Low (below 25K),5000 to 9999,0.26,25.1,112.7,19.8,4,Obese,23.5,22.1,62.2,26.8,16.4,18.1,13.1,109
+73047,Male,4,2 Non-Hispanic Black,1,Low (below 25K),10000 to 14999,0.43,19.7,114.8,14.9,2,Normal weight,22.8,17,49.2,24.2,5.8,6.6,5.3,61
+72290,Male,3,3 Mexican American,1,Low (below 25K),10000 to 14999,0.69,15,99,15.3,2,Normal weight,19.8,16.4,49.7,20.6,5.9,6.8,5.4,109
+73448,Male,5,3 Mexican American,0,Low (below 25K),10000 to 14999,0.39,22,117.8,15.9,2,Normal weight,24.3,18.3,54.4,23.1,6.8,9.3,5.4,124
+72899,Male,5,2 Non-Hispanic Black,1,Low (below 25K),10000 to 14999,0.32,23,119.5,16.1,2,Normal weight,25.4,17.6,54,24.4,6.8,5.6,5,100
+72633,Female,5,4 Other Hispanic,0,Low (below 25K),10000 to 14999,0.37,17.8,108.5,15.1,2,Normal weight,21.1,16.8,49.1,22.1,7,8.2,4.2,97
+72550,Male,5,3 Mexican American,0,Low (below 25K),10000 to 14999,0.39,19.5,112.1,15.5,2,Normal weight,23.4,17.6,54.4,22.5,7.4,8,5.4,106
+71932,Female,3,2 Non-Hispanic Black,1,Low (below 25K),10000 to 14999,0.43,15.9,102.2,15.2,2,Normal weight,20.5,17.5,46.9,22.8,7.8,8.4,6.1,97
+72388,Female,4,3 Mexican American,1,Low (below 25K),10000 to 14999,0.44,20.1,108.9,16.9,3,Overweight,22.2,18.8,55.4,23.3,7.8,9.1,5.6,115
+73414,Male,5,4 Other Hispanic,1,Low (below 25K),10000 to 14999,0.48,26,113.6,20.1,4,Obese,23.8,20.4,63.3,26.2,8,10.4,14,88
+72233,Male,4,3 Mexican American,1,Low (below 25K),10000 to 14999,0.45,17.3,98.3,17.9,4,Obese,19.9,17.4,55,21.6,8.2,10.2,7.4,85
+72031,Female,3,3 Mexican American,0,Low (below 25K),10000 to 14999,0.43,16.6,101,16.3,2,Normal weight,19.5,16.5,53.1,23.2,9.4,8,5.8,88
+73094,Female,5,4 Other Hispanic,0,Low (below 25K),10000 to 14999,0.52,17.8,109.4,14.9,2,Normal weight,22.6,15.9,55.8,22,9.8,7.8,6,94
+72197,Male,5,3 Mexican American,1,Low (below 25K),10000 to 14999,0.48,19.8,110.4,16.2,2,Normal weight,23,18,52.8,23.5,10.2,11.2,7.8,103
+72258,Male,5,3 Mexican American,1,Low (below 25K),10000 to 14999,0.43,21.1,111.8,16.9,3,Overweight,23.3,19.1,58,24.3,10.2,10.3,9.1,94
+72492,Male,3,5 Other or Multi-Race,1,Low (below 25K),10000 to 14999,0.93,14.6,95.5,16,2,Normal weight,18,16.8,47.8,20.7,10.4,11.1,6,88
+72738,Female,5,3 Mexican American,1,Low (below 25K),10000 to 14999,0.46,18.5,107.1,16.1,2,Normal weight,22.4,18.6,54.1,23.7,10.4,10.6,5.4,112
+73103,Male,4,1 Non-Hispanic White,1,Low (below 25K),10000 to 14999,0.43,21.1,108.3,18,4,Obese,22.9,20,54.4,26.1,10.6,12.6,5.3,100
+72086,Male,4,4 Other Hispanic,0,Low (below 25K),10000 to 14999,0.31,18.5,109.4,15.5,2,Normal weight,21.8,16.8,50,22.4,11.7,11,6.2,88
+72428,Female,4,1 Non-Hispanic White,1,Low (below 25K),10000 to 14999,0.48,17.1,106.4,15.1,2,Normal weight,21.3,16,49,22.3,12.4,12,6.2,94
+72379,Female,5,1 Non-Hispanic White,1,Low (below 25K),10000 to 14999,0.68,21.5,114.1,16.5,2,Normal weight,24,18.5,49.9,25.4,12.5,10.8,5.5,94
+73474,Female,4,1 Non-Hispanic White,1,Low (below 25K),10000 to 14999,0.52,26.8,112.4,21.2,4,Obese,23.4,22.3,69.1,28.1,13.3,17.4,18.3,100
+73197,Male,5,4 Other Hispanic,0,Low (below 25K),10000 to 14999,0.44,22.9,117.5,16.6,2,Normal weight,23.5,19.1,60.2,24.1,13.8,15.4,11.2,97
+72210,Male,5,3 Mexican American,0,Low (below 25K),10000 to 14999,0.43,22.4,111.4,18.1,3,Overweight,22.4,18.9,60.7,23.7,14.4,13.4,7.6,91
+72520,Female,5,1 Non-Hispanic White,1,Low (below 25K),10000 to 14999,0.44,27.2,117.5,19.7,4,Obese,23.5,21.3,62,27.7,17,16.1,14.8,100
+72165,Male,5,4 Other Hispanic,1,Low (below 25K),10000 to 14999,0.56,26.6,113,20.8,4,Obese,23,21.2,65.8,27.4,17.1,17.4,12.2,85
+72971,Male,5,2 Non-Hispanic Black,1,Low (below 25K),15000 to 19999,0.59,23,118,16.5,2,Normal weight,25,19.2,54.3,25.8,5.2,7.1,5.6,112
+72307,Male,4,4 Other Hispanic,0,Low (below 25K),15000 to 19999,0.46,18,107.2,15.7,2,Normal weight,21.4,17.3,51.5,22.7,6,8,5.1,112
+72418,Female,4,1 Non-Hispanic White,1,Low (below 25K),15000 to 19999,0.69,16.4,103,15.5,2,Normal weight,20.6,17.2,49.6,22.6,6.8,8.6,5.2,91
+72856,Male,5,1 Non-Hispanic White,1,Low (below 25K),15000 to 19999,0.78,15.4,105.2,13.9,2,Normal weight,21.7,15.2,49.2,20.5,7,6.7,4.2,100
+72238,Female,5,2 Non-Hispanic Black,1,Low (below 25K),15000 to 19999,0.56,14.9,103.9,13.8,2,Normal weight,19,15.5,45.9,20.2,7.4,8,5.4,79
+72678,Male,5,3 Mexican American,1,Low (below 25K),15000 to 19999,0.69,19.9,114.9,15.1,2,Normal weight,22.4,16.5,53.8,22,7.8,8.2,4.6,94
+73218,Male,3,3 Mexican American,0,Low (below 25K),15000 to 19999,0.55,17.4,101,17.1,3,Overweight,21.3,17.7,52.1,22.8,8,9.1,6,100
+73093,Male,6,1 Non-Hispanic White,1,Low (below 25K),15000 to 19999,0.79,17.8,111.6,14.3,2,Normal weight,23.7,17.8,50.2,21.2,9,11,5.2,94
+73229,Male,4,4 Other Hispanic,1,Low (below 25K),15000 to 19999,0.69,21.4,114,16.5,2,Normal weight,23.9,18.9,53.8,25.2,9.1,12.4,6.4,94
+72036,Female,5,4 Other Hispanic,0,Low (below 25K),15000 to 19999,0.52,14.9,102.7,14.1,2,Normal weight,21.5,15.1,49.2,21.2,10.2,10,8.9,109
+73075,Male,5,3 Mexican American,0,Low (below 25K),15000 to 19999,0.68,25.9,116.2,19.2,4,Obese,24,20.8,62.2,26.2,10.4,12,9,100
+73299,Female,4,5 Other or Multi-Race,1,Low (below 25K),15000 to 19999,0.82,17.3,109.2,14.5,2,Normal weight,20.2,17.1,52,23.5,10.7,13.6,7,94
+73188,Female,6,4 Other Hispanic,0,Low (below 25K),15000 to 19999,0.65,22,117.4,16,2,Normal weight,23,18.9,53.8,25.8,11.8,11.2,6.2,88
+72051,Female,3,3 Mexican American,0,Low (below 25K),15000 to 19999,0.63,16.9,98,17.6,3,Overweight,19.1,17.7,51.6,25.4,11.9,10.2,9.9,100
+72501,Female,3,5 Other or Multi-Race,1,Low (below 25K),15000 to 19999,0.56,16.8,100.2,16.7,2,Normal weight,19.4,17.2,50.8,23.1,12.8,11.6,7.2,106
+72645,Female,6,1 Non-Hispanic White,1,Low (below 25K),15000 to 19999,0.62,19,111.1,15.4,2,Normal weight,23,17.8,56,22.5,13,12.8,8.2,61
+73122,Female,4,1 Non-Hispanic White,1,Low (below 25K),15000 to 19999,0.65,23.8,116.9,17.4,3,Overweight,24.2,19.3,63.4,25.4,13.2,13.2,9.9,109
+72933,Male,5,4 Other Hispanic,0,Low (below 25K),15000 to 19999,0.61,18.6,105.4,16.7,2,Normal weight,21.4,16.5,52.2,23.2,13.8,11.2,6.8,97
+72201,Male,3,4 Other Hispanic,0,Low (below 25K),15000 to 19999,0.83,17.7,97.8,18.5,4,Obese,20.2,18.5,58.7,23.7,14.2,13.4,10.2,100
+71945,Male,4,3 Mexican American,1,Low (below 25K),15000 to 19999,0.67,33.3,114.9,25.2,4,Obese,23.3,24.1,75.1,31.1,23.1,21,18.6,121
+72188,Male,3,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,0.87,13.9,93.9,15.8,2,Normal weight,19,15.7,44.8,21.1,6,7.5,6.2,112
+73174,Female,5,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,0.87,19.3,112.2,15.3,2,Normal weight,23.2,16.9,51.6,22.5,6.4,7.8,7.8,100
+72617,Male,3,3 Mexican American,0,Low (below 25K),20000 to 24999,1.52,15.1,98.8,15.5,2,Normal weight,19.4,16.7,51.2,21.7,7,8,5.2,100
+71957,Female,5,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,1.32,18.5,110,15.3,2,Normal weight,22.6,16.5,50.9,23.8,7.4,9.6,7.8,88
+72252,Female,5,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,0.74,17.9,107.7,15.4,2,Normal weight,21.4,17.2,51.5,21.5,7.8,9.8,6.8,97
+73056,Male,3,4 Other Hispanic,0,Low (below 25K),20000 to 24999,0.39,15.4,97.3,16.3,2,Normal weight,20.4,16.9,48.4,22.6,7.8,7,5.4,94
+72212,Female,4,4 Other Hispanic,1,Low (below 25K),20000 to 24999,0.56,15.4,101.7,14.9,2,Normal weight,20.9,16,50.9,21.2,7.9,10.1,7.8,97
+73216,Male,5,1 Non-Hispanic White,1,Low (below 25K),20000 to 24999,0.95,18.8,111.3,15.2,2,Normal weight,23.6,17,49.8,23.9,8.2,8,6,103
+71975,Female,4,1 Non-Hispanic White,1,Low (below 25K),20000 to 24999,0.74,14.9,103.3,14,2,Normal weight,22,16.1,47.8,22.2,8.4,9.2,6,64
+73280,Female,5,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,0.87,19.3,110,16,2,Normal weight,21,17.3,50.3,23.5,8.6,9,6.3,94
+72713,Female,5,4 Other Hispanic,0,Low (below 25K),20000 to 24999,0.39,18.5,115.5,13.9,2,Normal weight,23,15.5,53,23.1,8.8,10.4,6.8,109
+72554,Female,5,3 Mexican American,0,Low (below 25K),20000 to 24999,0.74,21.5,116.5,15.8,2,Normal weight,23.2,17.2,58.7,23.7,8.8,10.5,7.7,76
+72562,Male,3,3 Mexican American,1,Low (below 25K),20000 to 24999,1.26,16.2,98.5,16.7,2,Normal weight,20.2,17.4,49.4,22,8.8,8,7.6,97
+72539,Male,4,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,0.63,18.9,110.5,15.5,2,Normal weight,22.2,19,49.1,24.4,9,8.8,5.6,115
+72849,Female,5,3 Mexican American,0,Low (below 25K),20000 to 24999,0.65,20.8,109.8,17.3,3,Overweight,22,17.9,56.1,23.8,9.5,10.2,7.8,91
+72355,Male,3,3 Mexican American,1,Low (below 25K),20000 to 24999,0.57,12.8,92.8,14.9,2,Normal weight,17.3,16,45.1,18.3,9.8,11.2,7.5,88
+73389,Female,3,3 Mexican American,0,Low (below 25K),20000 to 24999,0.65,15.2,96,16.5,2,Normal weight,19.1,16.9,49.5,21,9.9,9.8,7.1,109
+72363,Male,5,1 Non-Hispanic White,1,Low (below 25K),20000 to 24999,0.74,17.7,111,14.4,2,Normal weight,21.4,15.9,50.4,22.4,10.2,11,6.4,55
+72299,Male,4,4 Other Hispanic,0,Low (below 25K),20000 to 24999,1.05,19.2,105.7,17.2,3,Overweight,20.2,19.5,55.2,22.6,10.4,11.9,8.8,67
+72531,Female,3,4 Other Hispanic,1,Low (below 25K),20000 to 24999,0.56,15.9,94,18,3,Overweight,18.5,18.1,52.8,23,10.8,8.8,7,91
+73415,Male,4,3 Mexican American,0,Low (below 25K),20000 to 24999,0.74,19.8,103.4,18.5,4,Obese,21.1,19,52.1,23.4,11.3,9.8,6.8,64
+72012,Male,4,4 Other Hispanic,1,Low (below 25K),20000 to 24999,1.32,23.3,111.7,18.7,4,Obese,23.7,20.5,59.4,26.7,11.3,14.3,7,97
+71994,Male,4,1 Non-Hispanic White,1,Low (below 25K),20000 to 24999,0.95,19.6,106,17.4,3,Overweight,22.2,19.1,57.1,24.2,11.8,10.8,7.8,97
+73464,Male,4,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,1.05,24.6,117.7,17.8,3,Overweight,24.5,19.1,58.6,26.7,12,11.4,7.9,130
+72181,Male,4,3 Mexican American,1,Low (below 25K),20000 to 24999,0.87,19.5,105.5,17.5,3,Overweight,20.2,18.8,54.5,23.6,12.3,13.6,7.5,97
+73021,Female,4,2 Non-Hispanic Black,1,Low (below 25K),20000 to 24999,0.74,25.8,114.7,19.6,4,Obese,24.2,20.6,61.2,27.7,12.5,11.5,12.8,103
+72048,Female,3,1 Non-Hispanic White,1,Low (below 25K),20000 to 24999,1.04,17.7,98.6,18.2,4,Obese,20.1,18.9,55.4,22.5,13.8,15.8,7,85
+72221,Male,3,3 Mexican American,0,Low (below 25K),20000 to 24999,1.04,20.9,98.4,21.6,4,Obese,20.3,19.8,60.7,20.5,14.6,12.2,9,106
+73170,Female,4,4 Other Hispanic,0,Low (below 25K),20000 to 24999,0.81,29.9,115.7,22.3,4,Obese,25.6,24.2,68.4,29.8,22.4,24.5,16.2,100
+73172,Female,4,1 Non-Hispanic White,1,Low (below 25K),20000 to 24999,0.65,31.5,117.5,22.8,4,Obese,24.4,23.9,75.5,29.2,24.2,25.4,21.2,82
+72329,Male,4,4 Other Hispanic,1,Middle (25 - 64K),25000 to 34999,1.78,19.2,108.5,16.3,2,Normal weight,22.5,17.1,52.4,23.3,6.1,7,5,112
+73298,Male,5,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,1.21,17.8,112.4,14.1,2,Normal weight,21.4,17,48.1,22.5,7,10,4.6,124
+72921,Female,4,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,1.26,16.9,106.6,14.9,2,Normal weight,21.8,17.3,53.1,22.3,7,8,6.7,82
+73091,Male,4,3 Mexican American,0,Middle (25 - 64K),25000 to 34999,1.11,17,105.5,15.3,2,Normal weight,21.6,15.8,52.5,22,7,7.3,5.9,109
+72081,Male,5,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.11,17.5,111.4,14.1,2,Normal weight,22.2,16.9,49.5,21.1,7.5,7.5,5.1,85
+73332,Male,4,4 Other Hispanic,0,Middle (25 - 64K),25000 to 34999,0.93,16.2,100.8,15.9,2,Normal weight,20.4,16.6,49.3,21,7.9,9.2,6.2,97
+72694,Female,5,4 Other Hispanic,0,Middle (25 - 64K),25000 to 34999,0.93,21,112.7,16.5,2,Normal weight,24.2,18.3,53.5,25,7.9,9.6,5.1,97
+72351,Female,4,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.3,13.4,98.9,13.7,2,Normal weight,20.6,15.8,44.1,19.5,8,7.9,5.6,103
+73098,Male,4,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.78,19.6,111.2,15.9,2,Normal weight,23,17.2,53.2,23,8,7.2,4.2,106
+72439,Male,5,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.25,22,119.8,15.3,2,Normal weight,24,17.3,54.1,24,8.2,8.1,4.6,76
+72879,Female,3,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,1.73,14.1,95.6,15.4,2,Normal weight,19.1,15.8,46.5,19.6,8.6,7,7.9,85
+72812,Male,5,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,1.3,19.4,110.5,15.9,2,Normal weight,21.5,17.5,50.8,20.5,8.6,9.1,6.1,85
+73060,Male,4,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.3,15.9,98.9,16.3,2,Normal weight,19.7,16.8,50.9,21.3,9.1,8.4,9,73
+72381,Female,3,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,1.3,16.4,101.9,15.8,2,Normal weight,19.5,16.7,49.3,23.1,9.7,10.6,8.6,109
+72391,Female,5,4 Other Hispanic,1,Middle (25 - 64K),25000 to 34999,1.78,20.1,114.4,15.4,2,Normal weight,22.6,17.3,54.6,25.3,9.9,10.9,6.7,91
+72211,Female,4,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,0.86,16.3,102.6,15.5,2,Normal weight,20.3,17,48.6,21.1,9.9,10.1,5.7,112
+73469,Male,4,4 Other Hispanic,1,Middle (25 - 64K),25000 to 34999,1.48,18.4,103.4,17.2,3,Overweight,21.6,17.1,54.6,22.1,10,10.2,6.6,103
+72779,Female,5,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,0.96,21.1,112.5,16.7,2,Normal weight,23.7,18.3,55.8,25.1,10.1,10.8,7.3,106
+73491,Male,3,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.43,18,104.4,16.5,2,Normal weight,20.4,17.4,51.1,23.5,10.8,14.2,10,73
+71935,Female,5,3 Mexican American,1,Middle (25 - 64K),25000 to 34999,0.87,17.9,111.6,14.4,2,Normal weight,22,17,50.4,23.9,11,9.2,5,109
+73287,Male,5,4 Other Hispanic,1,Middle (25 - 64K),25000 to 34999,1.08,22.2,114,17.1,3,Overweight,23.8,17.9,59.1,24.6,11,11.8,7.2,94
+73347,Female,5,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.98,21.4,120.1,14.8,2,Normal weight,22.4,17.5,53.9,25.4,11.1,9.5,5.9,91
+72682,Female,4,3 Mexican American,1,Middle (25 - 64K),25000 to 34999,0.87,20.5,107.5,17.7,3,Overweight,21.6,19.6,57.6,25.3,11.3,11.4,7.4,100
+72805,Male,5,3 Mexican American,1,Middle (25 - 64K),25000 to 34999,0.87,19.4,116,14.4,2,Normal weight,24.2,15.5,49.6,21.7,12,6.4,6.4,70
+73354,Female,5,4 Other Hispanic,1,Middle (25 - 64K),25000 to 34999,1.3,24.2,119.4,17,3,Overweight,23.5,19,57.7,25.9,12.7,13.1,6.5,85
+72498,Female,3,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,0.96,17.2,101.5,16.7,2,Normal weight,20.5,17.2,53.6,23.2,13.2,13.9,8.2,88
+72536,Male,6,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,0.97,31.7,125.1,20.3,4,Obese,27,21.7,63.3,30.1,13.8,17.2,11.7,94
+72445,Female,5,4 Other Hispanic,1,Middle (25 - 64K),25000 to 34999,1.3,22.5,118.9,15.9,2,Normal weight,23.2,18.6,57.4,24.4,13.9,9.1,7.2,88
+72368,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),25000 to 34999,0.97,20.2,110.7,16.5,2,Normal weight,21.4,18.5,50.4,25.5,14.1,17.4,7.6,67
+72446,Male,4,4 Other Hispanic,0,Middle (25 - 64K),25000 to 34999,1.08,14.8,101.3,14.4,2,Normal weight,21.4,15.2,47.5,20.8,14.8,10,7,91
+73320,Female,3,3 Mexican American,1,Middle (25 - 64K),25000 to 34999,1.34,21.1,100.3,21,4,Obese,21,19.1,64.7,24.4,15.2,16.9,19.1,100
+72834,Female,3,3 Mexican American,1,Middle (25 - 64K),25000 to 34999,1.26,19.9,101.2,19.4,4,Obese,20.2,20.4,61.2,24.7,16.4,14.9,11.2,91
+72650,Female,5,1 Non-Hispanic White,1,Middle (25 - 64K),25000 to 34999,1.57,29,115.4,21.8,4,Obese,24.5,24.4,67,29.5,25.2,25.8,20.2,85
+72541,Female,4,1 Non-Hispanic White,1,Middle (25 - 64K),35000 to 44999,1.52,13.3,95.1,14.7,2,Normal weight,18.2,14.1,47.7,18.4,4.6,6.2,4.6,94
+72142,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,1.74,18.6,113.2,14.5,2,Normal weight,21.6,17,48.5,22.9,5.5,7.2,7.5,88
+72843,Female,3,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,1.48,16.3,99,16.6,2,Normal weight,20.6,17.1,49.9,22.3,6.3,8.4,5.8,85
+73077,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,2.81,18.9,111.5,15.2,2,Normal weight,21.6,17,53.5,22.7,6.5,9.4,6,94
+72159,Male,3,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,1.23,16.8,100.6,16.6,2,Normal weight,21.6,17.8,47.9,21.2,6.5,5.9,5.7,97
+72785,Male,5,5 Other or Multi-Race,1,Middle (25 - 64K),35000 to 44999,1.16,20,110.9,16.3,2,Normal weight,23,17.8,52.1,23,7,7.4,6.2,70
+73105,Male,3,1 Non-Hispanic White,1,Middle (25 - 64K),35000 to 44999,1.52,14.8,95.3,16.3,2,Normal weight,18.6,16.6,52.1,21.1,7.2,7.4,4.9,88
+72835,Male,4,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,1.99,17.6,103.3,16.5,2,Normal weight,20.5,18.4,50,23.2,7.3,10.4,7.2,79
+72982,Male,4,1 Non-Hispanic White,1,Middle (25 - 64K),35000 to 44999,1.52,16.6,100.9,16.3,2,Normal weight,20.6,17.2,51.5,22.3,7.5,9.2,6.6,127
+73275,Male,3,1 Non-Hispanic White,1,Middle (25 - 64K),35000 to 44999,1.48,14.8,95.8,16.1,2,Normal weight,18.8,14.9,51.9,21.3,8.3,9.7,8.1,88
+73296,Female,3,3 Mexican American,1,Middle (25 - 64K),35000 to 44999,2.1,14.2,95.9,15.4,2,Normal weight,19.1,15.6,49.8,20.2,8.6,10.3,6.4,94
+72060,Female,3,1 Non-Hispanic White,1,Middle (25 - 64K),35000 to 44999,1.82,17.6,101.5,17.1,3,Overweight,20.6,17.5,50.5,22.6,8.9,11.5,7.6,88
+73428,Male,5,3 Mexican American,1,Middle (25 - 64K),35000 to 44999,1.36,20.1,114.7,15.3,2,Normal weight,22.4,16.9,50.2,23.8,9.8,8.8,6.2,103
+73355,Male,5,3 Mexican American,0,Middle (25 - 64K),35000 to 44999,0.75,18.3,105.3,16.5,2,Normal weight,22.4,17.9,49.1,21.8,9.9,9.1,5.3,97
+72613,Male,4,1 Non-Hispanic White,1,Middle (25 - 64K),35000 to 44999,1.3,20.4,109.9,16.9,3,Overweight,22.2,19.1,55.8,24,11,13.3,7.2,97
+73070,Female,3,1 Non-Hispanic White,1,Middle (25 - 64K),35000 to 44999,1.74,18.1,103.4,16.9,3,Overweight,20,17,56.5,22.6,12.6,11.2,9.8,97
+73309,Male,4,4 Other Hispanic,1,Middle (25 - 64K),35000 to 44999,1.83,22.7,102.6,21.6,4,Obese,21.5,21.1,61.6,26.4,16.4,15.2,11.8,76
+72508,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,1.3,28,121.2,19.1,4,Obese,27.4,22.1,69.5,27.1,17,20,15.4,82
+73038,Male,5,4 Other Hispanic,0,Middle (25 - 64K),35000 to 44999,1.74,31.5,119.7,22,4,Obese,24.9,22.4,67.7,28.6,17,17.9,13.1,85
+72827,Male,3,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,1.29,19.4,104.5,17.8,3,Overweight,21,18.7,53,24,17.8,14.2,7,118
+72552,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),35000 to 44999,2.31,40.4,129.6,24.1,4,Obese,27.5,24.1,77.1,31.9,20.8,20.8,25.2,118
+72753,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),45000 to 54999,2.04,17.7,112.8,13.9,2,Normal weight,22.5,15.9,48.6,22.6,5.2,6.6,5,85
+72449,Male,5,4 Other Hispanic,0,Middle (25 - 64K),45000 to 54999,1.95,18.4,106.3,16.3,2,Normal weight,21.4,17.3,52.4,23.2,6.6,10.2,6,109
+73256,Female,3,2 Non-Hispanic Black,1,Middle (25 - 64K),45000 to 54999,1.55,15,104,13.9,2,Normal weight,20.7,15.5,49,20.6,7.2,7,5.8,112
+72939,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),45000 to 54999,1.17,19.6,117.5,14.2,2,Normal weight,23.6,17.6,48.9,23.2,7.8,8,6.6,85
+72483,Female,4,4 Other Hispanic,0,Middle (25 - 64K),45000 to 54999,1.43,15.4,100.9,15.1,2,Normal weight,20,16.7,47.4,22.3,8.2,8.3,6.1,106
+72523,Male,5,4 Other Hispanic,0,Middle (25 - 64K),45000 to 54999,2.62,19,109.2,15.9,2,Normal weight,23.6,17.8,56.8,23.2,8.2,6.6,6.9,100
+72374,Female,5,4 Other Hispanic,1,Middle (25 - 64K),45000 to 54999,1.95,21.1,113.4,16.4,2,Normal weight,23.3,18.7,54.6,24.7,8.4,10.1,6.1,85
+72708,Male,3,1 Non-Hispanic White,1,Middle (25 - 64K),45000 to 54999,1.61,13.8,93.2,15.9,2,Normal weight,19.4,16.8,48.2,20.4,8.6,8.8,6.8,109
+72294,Male,3,3 Mexican American,0,Middle (25 - 64K),45000 to 54999,1.45,16.7,98.5,17.2,3,Overweight,19.4,17,49.5,23.6,9,9.8,6,76
+72434,Female,3,4 Other Hispanic,1,Middle (25 - 64K),45000 to 54999,1.95,15,98.7,15.4,2,Normal weight,20.1,16.7,48.4,22.3,9.2,8.2,6.1,88
+73418,Female,5,4 Other Hispanic,0,Middle (25 - 64K),45000 to 54999,1.07,22.4,113,17.5,3,Overweight,22,20.8,58.6,26.6,9.8,13.8,7.8,94
+73292,Female,3,1 Non-Hispanic White,1,Middle (25 - 64K),45000 to 54999,1.43,14,96.2,15.1,2,Normal weight,18.6,15.6,47.9,21.6,10.5,10.4,4.9,97
+73043,Male,4,1 Non-Hispanic White,1,Middle (25 - 64K),45000 to 54999,1.67,15.6,98.8,16,2,Normal weight,19,15.7,49.8,21.4,10.8,10.2,7,73
+73005,Female,3,1 Non-Hispanic White,1,Middle (25 - 64K),45000 to 54999,1.95,17.7,98.5,18.2,4,Obese,20.6,17.9,53.8,23.5,11.5,11.1,8.4,91
+72624,Female,4,2 Non-Hispanic Black,1,Middle (25 - 64K),45000 to 54999,1.95,20.2,108,17.3,3,Overweight,22.4,19.1,53.1,25.5,12.6,13,6.6,106
+72171,Female,6,1 Non-Hispanic White,1,Middle (25 - 64K),45000 to 54999,1.29,24.1,115.5,18.1,3,Overweight,23.7,20.2,57.6,25.8,17.1,18,6.4,121
+73408,Male,4,2 Non-Hispanic Black,1,Middle (25 - 64K),55000 to 64999,3.14,17.2,105,15.6,2,Normal weight,22,17.1,50,22,4,7.6,4.7,115
+72033,Male,4,2 Non-Hispanic Black,1,Middle (25 - 64K),55000 to 64999,1.57,13.6,95.2,15,2,Normal weight,20.6,15.8,44.8,19.8,4.4,4.6,5,136
+73468,Male,3,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.22,17.6,108.3,15,2,Normal weight,21.2,16.1,51.8,22.8,6.4,9.4,4.9,97
+72980,Male,3,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,3.3,14.5,96.6,15.5,2,Normal weight,19.2,16.4,52,20.6,8,9.2,4.8,82
+72538,Female,6,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.69,19.1,117,14,2,Normal weight,23,17.1,55,22.5,8.2,12,6,103
+73178,Male,4,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.22,17.1,104,15.8,2,Normal weight,21,16.5,52.3,22.2,8.2,8.2,5.5,97
+73460,Male,4,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.6,17.3,102.9,16.3,2,Normal weight,21.4,17,54,21.1,8.3,9.4,6.9,103
+72224,Female,5,5 Other or Multi-Race,1,Middle (25 - 64K),55000 to 64999,2.22,22.9,123.6,15,2,Normal weight,25.8,18.3,57.4,24.2,9,10.2,5.2,121
+73236,Female,4,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,1.78,18.3,109,15.4,2,Normal weight,20.3,16.6,50,23.9,9.2,11.9,6,94
+72494,Female,4,5 Other or Multi-Race,1,Middle (25 - 64K),55000 to 64999,1.17,15.5,103.3,14.5,2,Normal weight,19.9,15.8,50.1,22.4,9.3,10.4,8.3,73
+72098,Female,4,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.43,17.4,106.9,15.2,2,Normal weight,22,17,54,22,9.4,10,6,112
+73148,Female,4,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.39,14.5,99.2,14.7,2,Normal weight,19,15.4,51.9,19.5,9.6,7.8,9.2,109
+72908,Female,3,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.39,15.1,97.2,16,2,Normal weight,19.1,17.1,54.4,21.9,9.9,12.1,8.8,85
+72283,Female,4,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.22,18.6,105.7,16.6,2,Normal weight,21.2,17.9,52.4,23.6,9.9,12.4,7.3,109
+72254,Female,3,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.22,14.9,95.6,16.3,2,Normal weight,19.8,16.5,52.8,21.6,10.4,9.8,6.1,94
+73316,Male,5,2 Non-Hispanic Black,1,Middle (25 - 64K),55000 to 64999,2.6,26.5,123.6,17.3,3,Overweight,24.7,18.5,55.1,25.4,10.4,9.8,5.6,82
+72122,Female,4,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.43,16.8,104.4,15.4,2,Normal weight,19.5,17.3,51.4,21.9,10.8,11.7,7.3,91
+73378,Female,5,2 Non-Hispanic Black,1,Middle (25 - 64K),55000 to 64999,2.39,19.4,107.4,16.8,2,Normal weight,22.2,17.9,54.8,22.8,12.1,11.3,10.2,115
+72020,Female,3,3 Mexican American,1,Middle (25 - 64K),55000 to 64999,2.65,16,94,18.1,3,Overweight,19,18.2,57.6,22.9,17,16.6,12.4,97
+72916,Male,5,1 Non-Hispanic White,1,Middle (25 - 64K),55000 to 64999,2.04,23.1,111.5,18.6,4,Obese,22.3,21,60.8,25.9,17.5,19.1,10.8,85
+71971,Male,5,2 Non-Hispanic Black,1,High (65K or more),65000 to 74999,2.36,25,123.8,16.3,2,Normal weight,25.1,18.6,53.3,26.2,6.2,11.1,6.3,85
+73370,Male,3,2 Non-Hispanic Black,1,High (65K or more),65000 to 74999,2.44,16.1,95.8,17.5,3,Overweight,19,17.1,49.3,22.3,6.3,7.2,5.9,85
+72080,Female,4,5 Other or Multi-Race,1,High (65K or more),65000 to 74999,3.4,14.6,102.8,13.8,2,Normal weight,19.1,15.3,48.4,20.2,6.5,9.3,7.1,82
+72986,Female,4,1 Non-Hispanic White,1,High (65K or more),65000 to 74999,3.04,15.3,103.3,14.3,2,Normal weight,21.2,15.9,50.5,21.7,7.8,10.5,10.4,106
+72857,Male,3,1 Non-Hispanic White,1,High (65K or more),65000 to 74999,2.95,18.3,103.6,17.1,2,Normal weight,20.7,18,55.2,21.7,8.9,9,6,97
+72423,Female,4,3 Mexican American,1,High (65K or more),65000 to 74999,2.82,17.1,103.4,16,2,Normal weight,20.7,16.9,54.8,21.6,9,9,6.7,145
+72063,Male,3,1 Non-Hispanic White,1,High (65K or more),65000 to 74999,3.04,16,101.6,15.5,2,Normal weight,19.1,16.4,50.4,21,9.2,8.9,6,76
+73041,Male,5,1 Non-Hispanic White,1,High (65K or more),65000 to 74999,2.59,18,110.1,14.8,2,Normal weight,22.3,16.2,52.9,21.8,9.9,11.1,5.5,106
+72609,Male,3,1 Non-Hispanic White,1,High (65K or more),65000 to 74999,3.67,15.4,93.8,17.5,3,Overweight,18.2,17.1,51.2,20.6,9.9,8.4,7,85
+72628,Female,3,2 Non-Hispanic Black,1,High (65K or more),65000 to 74999,2.36,18.3,103.2,17.2,3,Overweight,20.6,17.4,53.2,23.8,10.4,10.6,9.6,109
+72155,Female,4,1 Non-Hispanic White,1,High (65K or more),65000 to 74999,3.67,17.2,104,15.9,2,Normal weight,22,17.6,54,22.5,13.3,15.4,5.8,103
+73151,Female,5,1 Non-Hispanic White,1,High (65K or more),65000 to 74999,2.59,16.7,106.4,14.8,2,Normal weight,22,16.3,50.2,21.7,13.6,14.8,6.5,100
+73277,Male,4,2 Non-Hispanic Black,1,High (65K or more),65000 to 74999,3.4,22,110.9,17.9,4,Obese,23.2,19.6,58.4,25.2,15,14.7,9.9,100
+72057,Female,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.9,22.2,117.7,16,2,Normal weight,24.6,18,57.1,25.5,5.9,6.8,3.7,94
+72811,Male,3,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,4.98,13.3,94.7,14.8,2,Normal weight,18.9,14.1,46.2,20,6.2,6.4,4.9,94
+72375,Male,5,4 Other Hispanic,1,High (65K or more),75000 to 99999,3.25,22.1,119.2,15.6,2,Normal weight,23.2,17.4,51.5,25.4,6.2,7.6,5.2,70
+73357,Male,3,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.04,15.1,99.5,15.3,2,Normal weight,19.2,15.4,51.1,20.7,6.3,6.4,4.2,118
+71972,Female,4,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.52,15.9,104.4,14.6,2,Normal weight,20.6,15.9,49.8,21.4,6.6,7.6,5.1,88
+72509,Male,3,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.47,12.6,90.3,15.5,2,Normal weight,18.1,14.3,46.4,19.1,6.6,7.7,4.9,100
+72077,Male,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.04,22.8,114.9,17.3,3,Overweight,23.7,19.4,56.2,23.9,6.7,10.2,5.8,112
+72256,Male,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.04,15,103.4,14,2,Normal weight,20.5,15.3,50.6,20.4,6.8,7.7,4.5,103
+72332,Female,4,3 Mexican American,1,High (65K or more),75000 to 99999,3.25,14.6,100.8,14.4,2,Normal weight,21,15.2,48.2,20.3,7.1,9.6,5.9,79
+72589,Female,3,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.25,17,102.4,16.2,2,Normal weight,20.8,16.5,51.4,22.7,7.4,8,6,103
+72970,Female,4,4 Other Hispanic,1,High (65K or more),75000 to 99999,3.25,20.5,110.3,16.9,3,Overweight,22.6,18.3,56.5,23.1,7.9,11.7,11.1,97
+72023,Male,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.25,20.6,113,16.1,2,Normal weight,22.8,17.7,54.7,23.1,8,12,8.3,97
+73052,Male,3,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.9,18.8,105.7,16.8,2,Normal weight,21.3,17.5,56.5,23.5,8,6.2,4.4,100
+73377,Female,4,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.9,14.8,103.2,13.9,2,Normal weight,18.9,14.8,52.1,19.7,8.2,5.5,4.9,136
+72291,Male,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.47,19.1,111.5,15.4,2,Normal weight,22.6,17.1,53.1,23.1,8.2,7.6,5,91
+72017,Male,4,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,2.78,19.3,111.2,15.6,2,Normal weight,21.8,17.1,55.8,24.1,8.2,9,6.2,106
+73027,Female,4,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,2.78,16.5,103.2,15.5,2,Normal weight,20.4,18,51.2,21.8,8.4,12.5,6.7,97
+73452,Male,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.69,19.6,109.1,16.5,2,Normal weight,22,17.8,56.8,24,8.8,10.4,5.8,97
+73283,Male,4,2 Non-Hispanic Black,1,High (65K or more),75000 to 99999,2.96,17.8,107.1,15.5,2,Normal weight,21,17.2,50.1,22.5,9,11,6.1,76
+72594,Male,3,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.93,17.4,101.8,16.8,2,Normal weight,19.1,17.4,55.3,23.4,9.1,14.4,9.3,88
+72236,Female,5,5 Other or Multi-Race,1,High (65K or more),75000 to 99999,3.47,15.7,101,15.4,2,Normal weight,19.9,16.1,49.5,23,9.8,12.8,8,85
+71963,Female,5,2 Non-Hispanic Black,1,High (65K or more),75000 to 99999,3.47,23,119.3,16.2,2,Normal weight,23.4,17.8,54.1,26.7,9.9,8.8,7.8,106
+73390,Male,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.18,20,110,16.5,2,Normal weight,22.6,18.7,57.4,23.7,9.9,11.8,4.9,97
+72693,Female,4,2 Non-Hispanic Black,1,High (65K or more),75000 to 99999,3.69,17.3,108.1,14.8,2,Normal weight,23.6,17,47.4,22.8,10.1,10.6,6.4,70
+73239,Female,4,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.25,18,104.8,16.4,2,Normal weight,21,18.8,53.4,22.6,11,12.5,7.5,94
+73150,Female,4,3 Mexican American,1,High (65K or more),75000 to 99999,2.94,17.1,104.9,15.5,2,Normal weight,20.2,17,51.1,21.8,11.9,12,7.8,121
+72473,Male,4,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.25,26.8,110.9,21.8,4,Obese,22.3,22.2,69.8,26.3,13,13.7,14.2,85
+72596,Male,5,2 Non-Hispanic Black,1,High (65K or more),75000 to 99999,2.74,28.2,122.3,18.9,4,Obese,25.9,21.8,62.5,28.3,14.3,13.2,9.3,103
+73429,Female,5,3 Mexican American,1,High (65K or more),75000 to 99999,3.47,20.1,109.8,16.7,2,Normal weight,23,18.9,54.2,24,15.2,13.4,7.2,79
+73343,Male,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.25,23.1,122.8,15.3,2,Normal weight,24,18.5,58.2,24.5,16,11.4,5.8,112
+72168,Female,4,5 Other or Multi-Race,1,High (65K or more),75000 to 99999,5,19.2,109.5,16,2,Normal weight,22.8,18.7,58.8,25,16,13.8,6.2,85
+73204,Female,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.47,24.5,112.4,19.4,4,Obese,22.8,21.3,61.4,27.2,16,16.6,7.8,127
+72790,Female,5,1 Non-Hispanic White,1,High (65K or more),75000 to 99999,3.15,28.5,120,19.8,4,Obese,24,21.9,72.5,27.4,20.8,20.8,17.8,106
+72345,Male,5,2 Non-Hispanic Black,1,High (65K or more),100000 and over,3.7,15.7,105.4,14.1,2,Normal weight,21.8,15.2,48.8,19.4,5,5.7,5.1,91
+72718,Female,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.34,19.4,110.7,15.8,2,Normal weight,23.1,18.8,52,23.5,5.5,8.3,6.6,97
+72068,Female,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,3.7,17.9,113.1,14,2,Normal weight,23.3,15.1,51.1,21.9,5.6,7.4,4.3,100
+72143,Female,6,4 Other Hispanic,1,High (65K or more),100000 and over,5,18.5,109,15.6,2,Normal weight,21.8,17.2,50.2,22.4,5.8,8.2,6.3,121
+73272,Female,4,2 Non-Hispanic Black,1,High (65K or more),100000 and over,5,14.6,98.1,15.2,2,Normal weight,19.1,15.7,47.6,22,6.9,7.1,5.4,97
+73257,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,3.7,19.6,113.7,15.2,2,Normal weight,23.8,17.8,53.6,22.5,6.9,7.3,5,106
+72666,Female,5,2 Non-Hispanic Black,1,High (65K or more),100000 and over,5,17.1,110.3,14.1,2,Normal weight,21.6,16.3,49.1,21,7.2,12,5.6,91
+73164,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,3.7,18.7,114.6,14.2,2,Normal weight,24.3,16.3,51.9,22.6,7.6,6.4,3.7,79
+72474,Female,4,2 Non-Hispanic Black,1,High (65K or more),100000 and over,5,20.5,108.2,17.5,3,Overweight,21.1,17.5,54.4,24,7.6,8.8,6.5,100
+72151,Male,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,17.4,108.3,14.8,2,Normal weight,21.4,15.9,52.2,21.9,7.7,6.4,4.2,94
+72504,Male,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,18.6,109,15.7,2,Normal weight,21.4,17.1,50.5,23.5,7.8,8.2,5.3,85
+72920,Male,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,18.8,113,14.7,2,Normal weight,22.8,16.6,51.6,22.3,8,7.8,4,85
+72985,Female,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.52,16.9,103.9,15.7,2,Normal weight,20.7,16.2,54.3,22.9,8.1,8.5,6.8,100
+71921,Male,3,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.34,12.4,90.2,15.2,2,Normal weight,18.3,15.1,46.8,19.4,8.4,8.6,5.7,103
+72062,Male,5,5 Other or Multi-Race,1,High (65K or more),100000 and over,4.34,20.3,113.6,15.7,2,Normal weight,23.8,17.2,52.1,22.9,8.4,10.2,5.4,73
+72587,Female,3,3 Mexican American,1,High (65K or more),100000 and over,5,15.7,102.9,14.8,2,Normal weight,19.8,15.9,51.4,21.2,8.5,9.3,6.8,103
+72830,Male,3,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,17.3,99.8,17.4,3,Overweight,20.8,17.4,52.8,22.2,8.6,8,5.6,88
+73449,Female,6,2 Non-Hispanic Black,1,High (65K or more),100000 and over,5,23.5,123,15.5,2,Normal weight,24.8,19.2,51.5,25.1,8.8,10.7,7,112
+72037,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,23.1,117,16.9,2,Normal weight,23.5,19.6,56.7,25.3,9,13.8,7,94
+72557,Female,3,5 Other or Multi-Race,1,High (65K or more),100000 and over,5,13.8,92.9,16,2,Normal weight,18.4,16.4,47,21.5,9.1,11.6,9,103
+72190,Female,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,0,15,100.5,14.9,2,Normal weight,19.8,15.3,52.8,20.8,9.4,11.9,5.4,97
+72471,Male,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,17.5,106.2,15.5,2,Normal weight,20.5,17,52,23.3,9.5,10.2,5.1,121
+73423,Male,3,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.34,15.3,98.8,15.7,2,Normal weight,19.8,16.8,49.6,22,9.7,9,8,94
+72416,Female,4,2 Non-Hispanic Black,1,High (65K or more),100000 and over,4.29,21.6,117.4,15.7,2,Normal weight,26.5,19,53.9,23.9,9.8,12.6,6.8,112
+72302,Female,3,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.52,14.3,95.9,15.5,2,Normal weight,19.6,16.4,48,21.3,10,7.7,7.1,106
+72305,Female,4,2 Non-Hispanic Black,1,High (65K or more),100000 and over,4.84,19.2,109.4,16,2,Normal weight,22,18,55.8,23.2,10.1,11,8.2,88
+72066,Male,4,5 Other or Multi-Race,1,High (65K or more),100000 and over,5,20.6,109.3,17.2,3,Overweight,21.5,17.6,57,24.9,10.3,9.9,6.3,109
+72173,Female,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,3.7,21.3,117.4,15.5,2,Normal weight,23.4,18,55.5,26.2,10.4,13.6,5.1,97
+72686,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.44,30.4,123.6,19.9,4,Obese,25.6,23.2,68.2,28.3,10.8,12.3,12,79
+72495,Female,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,3.7,20.5,112.2,16.3,2,Normal weight,22.4,19,53.5,25.3,11,13.6,13.4,76
+73466,Male,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,17.7,101.3,17.2,3,Overweight,22,17.5,53.2,23.1,11.2,16.2,6.1,91
+72981,Female,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,3.23,18.8,109.1,15.8,2,Normal weight,22.2,17.6,50.9,23.4,11.6,9.1,7.2,88
+73179,Male,4,2 Non-Hispanic Black,1,High (65K or more),100000 and over,5,27.2,116.4,20.1,4,Obese,24.2,22.1,60.5,28.2,11.8,13.2,10.3,88
+72195,Male,3,5 Other or Multi-Race,1,High (65K or more),100000 and over,5,20.1,107.7,17.3,3,Overweight,21.7,18.3,51.5,24.9,12,11.2,6.1,67
+72787,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.77,25.7,122,17.3,3,Overweight,25,19.4,57.5,26.1,12,12,5.2,88
+72484,Female,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,3.7,19.9,103.8,18.5,4,Obese,20.3,19.3,58.2,25.2,12.1,8.7,7.4,64
+72384,Female,3,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,13.9,93.5,15.9,2,Normal weight,18.5,15.8,46,21.9,12.2,12.5,7.7,82
+72621,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,19,107.2,16.5,2,Normal weight,22,17.5,55.4,22.8,12.2,9.4,6.7,88
+73192,Female,3,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.69,15.3,101.5,14.9,2,Normal weight,23,15,46,22.5,12.6,7.8,5.5,88
+73053,Male,4,2 Non-Hispanic Black,1,High (65K or more),100000 and over,3.44,22,109.5,18.3,4,Obese,23.8,19.6,56.9,24.6,12.6,13.7,9.6,85
+72148,Female,4,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,20.1,104,18.6,4,Obese,21.8,19.5,57.5,24.6,13.1,15.3,12.8,100
+73243,Female,3,2 Non-Hispanic Black,1,High (65K or more),100000 and over,5,20.4,101.3,19.9,4,Obese,21,20.2,55.4,26,13.4,16,11,88
+71938,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,4.34,17.2,105.6,15.4,2,Normal weight,23.5,16.7,51,22.4,13.6,13.6,5.5,73
+72018,Male,4,3 Mexican American,1,High (65K or more),100000 and over,3.81,17.4,97.1,18.5,4,Obese,20.5,18.5,55.9,24,17.2,19.8,10.2,103
+72894,Male,5,1 Non-Hispanic White,1,High (65K or more),100000 and over,5,29,125.1,18.5,4,Obese,25.4,21.5,62.6,28.1,17.8,16.4,7,109
+72526,Female,5,2 Non-Hispanic Black,1,High (65K or more),100000 and over,5,29.4,121.4,19.9,4,Obese,23.8,23.1,65.4,27.6,19.1,16.9,20.2,109
