@@ -1,0 +1,1000 @@
+pid,bmi,age,gender,employed,married,alcohol,education
+22,20.81,58,male,1,1,heavy drinker,4 college grad or higher
+41,21.37,76,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+52,20.94,66,female,1,1,heavy drinker,1 elem school grad or lower
+82,23.67,67,male,1,1,alcohol dependent,2 middle school grad
+112,25.48,63,female,0,1,heavy drinker,1 elem school grad or lower
+181,20.5,51,female,1,1,heavy drinker,3 high school grad
+182,25.26,51,male,1,1,alcohol dependent,3 high school grad
+411,20.81,66,female,1,1,normal drinker or non-drinker,2 middle school grad
+491,20.81,64,female,0,1,normal drinker or non-drinker,3 high school grad
+531,24.32,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+552,24.92,51,female,1,1,normal drinker or non-drinker,3 high school grad
+561,25.39,76,male,0,1,heavy drinker,2 middle school grad
+621,18.13,54,female,0,1,normal drinker or non-drinker,3 high school grad
+652,23.03,60,male,1,1,alcohol dependent,3 high school grad
+751,22.49,52,male,1,1,heavy drinker,4 college grad or higher
+752,17.58,51,female,0,1,heavy drinker,4 college grad or higher
+792,23.31,52,male,1,1,heavy drinker,4 college grad or higher
+794,23.62,76,female,0,1,normal drinker or non-drinker,2 middle school grad
+812,22.89,72,female,0,1,normal drinker or non-drinker,2 middle school grad
+1121,24.44,71,female,0,1,normal drinker or non-drinker,3 high school grad
+1132,21.22,60,male,0,1,heavy drinker,1 elem school grad or lower
+1162,23.39,60,male,0,1,heavy drinker,3 high school grad
+1302,28.69,65,male,1,1,normal drinker or non-drinker,3 high school grad
+1351,23.44,84,female,0,0,heavy drinker,1 elem school grad or lower
+1491,21.37,57,female,1,1,normal drinker or non-drinker,3 high school grad
+1681,20.5,69,female,0,1,alcohol dependent,4 college grad or higher
+1821,22.83,75,female,0,0,heavy drinker,1 elem school grad or lower
+2031,24.84,58,female,0,0,alcohol dependent,2 middle school grad
+2151,23.74,85,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+2182,26.14,66,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+2351,21.45,78,male,0,1,heavy drinker,4 college grad or higher
+2352,24.78,73,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+2392,23.12,69,male,0,1,heavy drinker,2 middle school grad
+2582,19.4,60,female,1,1,normal drinker or non-drinker,3 high school grad
+2591,22.48,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+2602,25,68,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+2651,21.72,74,male,1,1,heavy drinker,2 middle school grad
+2711,22.04,57,female,1,0,normal drinker or non-drinker,2 middle school grad
+2792,28.04,65,female,0,1,normal drinker or non-drinker,2 middle school grad
+2841,26.37,76,male,0,1,heavy drinker,1 elem school grad or lower
+2882,24.69,56,male,1,1,heavy drinker,3 high school grad
+2961,19.23,55,male,0,0,heavy drinker,3 high school grad
+2982,24.62,52,male,1,1,heavy drinker,4 college grad or higher
+3091,19.15,76,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+3162,24.09,74,male,0,1,heavy drinker,3 high school grad
+3301,31.11,58,female,1,0,normal drinker or non-drinker,2 middle school grad
+3311,24.44,63,female,1,1,heavy drinker,2 middle school grad
+3341,21.71,67,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+3361,18.82,77,male,1,0,normal drinker or non-drinker,1 elem school grad or lower
+3462,21.91,51,female,1,1,normal drinker or non-drinker,3 high school grad
+3511,21.23,62,female,0,1,normal drinker or non-drinker,3 high school grad
+3541,27.04,74,male,0,1,heavy drinker,2 middle school grad
+3571,26.37,68,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+3692,24.01,59,male,0,1,heavy drinker,3 high school grad
+3821,28.13,65,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+3861,28.13,59,female,0,0,normal drinker or non-drinker,3 high school grad
+3931,24.66,57,male,1,1,heavy drinker,3 high school grad
+3932,21.78,55,female,0,1,normal drinker or non-drinker,3 high school grad
+3942,24.22,52,male,1,1,heavy drinker,3 high school grad
+4022,26.84,75,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+4041,21.78,76,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+4072,21.72,72,male,0,1,heavy drinker,2 middle school grad
+4081,27.56,55,female,0,1,normal drinker or non-drinker,3 high school grad
+4092,21.3,69,male,0,1,heavy drinker,4 college grad or higher
+4293,21.26,55,male,1,1,heavy drinker,3 high school grad
+4332,23.44,76,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+4361,24.34,51,female,0,1,heavy drinker,3 high school grad
+4452,22.48,53,female,0,1,normal drinker or non-drinker,3 high school grad
+4511,20.89,64,female,0,1,normal drinker or non-drinker,3 high school grad
+4591,22.89,60,female,0,1,normal drinker or non-drinker,3 high school grad
+4731,21.33,58,female,0,1,normal drinker or non-drinker,3 high school grad
+4772,22.72,64,male,0,1,normal drinker or non-drinker,4 college grad or higher
+4791,23.24,68,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+4833,21.36,63,female,0,1,heavy drinker,3 high school grad
+4841,24.77,68,female,0,0,heavy drinker,NA
+4872,22.86,57,male,1,1,heavy drinker,4 college grad or higher
+4901,24.03,88,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+4931,21.23,51,female,1,1,normal drinker or non-drinker,4 college grad or higher
+5251,23.88,77,male,0,1,normal drinker or non-drinker,3 high school grad
+5262,23.31,69,female,0,0,normal drinker or non-drinker,3 high school grad
+5311,23.23,54,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+5332,27.28,69,male,0,1,heavy drinker,3 high school grad
+5432,24.22,69,male,1,1,normal drinker or non-drinker,2 middle school grad
+5472,25.86,67,male,1,1,heavy drinker,3 high school grad
+5541,20.57,76,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+5552,22.83,58,female,1,1,normal drinker or non-drinker,3 high school grad
+5562,26.04,80,male,0,1,normal drinker or non-drinker,2 middle school grad
+5601,20.07,73,male,0,1,normal drinker or non-drinker,3 high school grad
+5671,26.03,80,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+5891,22.23,65,male,1,1,heavy drinker,1 elem school grad or lower
+6011,23.44,52,female,0,1,normal drinker or non-drinker,3 high school grad
+6021,23.53,73,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+6041,26.04,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+6051,27.31,64,male,1,0,heavy drinker,4 college grad or higher
+6252,22.83,62,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+6301,21.36,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+6482,26.67,72,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+6541,24.22,56,female,0,0,normal drinker or non-drinker,3 high school grad
+6762,21.3,60,male,1,1,heavy drinker,2 middle school grad
+6841,24.39,71,male,1,1,normal drinker or non-drinker,4 college grad or higher
+6991,25.32,65,female,0,1,normal drinker or non-drinker,2 middle school grad
+7101,21.8,52,male,1,1,heavy drinker,3 high school grad
+7172,18.75,53,female,0,1,normal drinker or non-drinker,3 high school grad
+7231,23.12,63,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+7312,20.45,56,female,1,1,normal drinker or non-drinker,2 middle school grad
+7632,22.06,52,female,1,1,normal drinker or non-drinker,3 high school grad
+7771,18.67,80,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+7792,16.22,72,male,0,0,normal drinker or non-drinker,3 high school grad
+7811,15.6,82,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+8022,24.01,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+8072,22.27,56,male,1,1,normal drinker or non-drinker,2 middle school grad
+8131,26.5,56,male,1,0,heavy drinker,2 middle school grad
+8191,25.61,67,male,1,1,heavy drinker,3 high school grad
+8311,24.49,54,male,1,1,normal drinker or non-drinker,4 college grad or higher
+8332,23.19,59,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+8351,27.68,80,male,0,0,heavy drinker,4 college grad or higher
+8492,23.88,53,male,1,1,normal drinker or non-drinker,4 college grad or higher
+8511,33.5,79,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+8651,26.04,70,female,1,0,heavy drinker,1 elem school grad or lower
+8693,26.49,57,female,0,1,heavy drinker,1 elem school grad or lower
+8911,21.72,60,female,0,1,normal drinker or non-drinker,4 college grad or higher
+8912,21.8,62,male,1,1,heavy drinker,4 college grad or higher
+9121,24.98,64,male,1,1,alcohol dependent,3 high school grad
+9132,22.41,80,male,0,1,heavy drinker,1 elem school grad or lower
+9133,24.61,79,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+9291,22.89,82,female,0,0,normal drinker or non-drinker,2 middle school grad
+9401,26.64,83,female,0,0,normal drinker or non-drinker,3 high school grad
+9571,23.51,56,male,1,1,alcohol dependent,4 college grad or higher
+9591,25.25,56,male,1,1,heavy drinker,4 college grad or higher
+9662,20.81,68,female,0,1,normal drinker or non-drinker,3 high school grad
+9722,23.34,52,female,1,1,normal drinker or non-drinker,2 middle school grad
+9731,24.46,52,female,1,1,heavy drinker,3 high school grad
+9812,23.88,64,female,0,1,normal drinker or non-drinker,4 college grad or higher
+10141,18.61,87,female,0,0,normal drinker or non-drinker,3 high school grad
+10171,21.5,86,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+10201,20.11,82,male,0,1,normal drinker or non-drinker,4 college grad or higher
+10321,20.28,71,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+10381,21.01,65,male,1,0,alcohol dependent,3 high school grad
+10412,16.87,75,female,0,1,normal drinker or non-drinker,2 middle school grad
+10552,21.1,55,female,0,1,normal drinker or non-drinker,3 high school grad
+10592,21.45,61,male,1,1,heavy drinker,3 high school grad
+10671,23.31,75,male,0,1,normal drinker or non-drinker,3 high school grad
+10692,22.49,58,male,1,1,heavy drinker,3 high school grad
+10791,22.06,79,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+10851,19.37,83,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+10941,23.51,62,male,0,1,heavy drinker,3 high school grad
+11092,23.44,69,female,0,1,normal drinker or non-drinker,3 high school grad
+11102,26.5,69,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+11211,21.37,77,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+11241,24.44,83,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+11341,26.03,52,male,1,1,heavy drinker,3 high school grad
+11352,19.38,54,male,1,1,alcohol dependent,2 middle school grad
+11501,18.13,77,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+11552,23.53,52,male,1,1,heavy drinker,3 high school grad
+11581,27.43,70,male,1,1,normal drinker or non-drinker,2 middle school grad
+11622,24.98,77,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+11691,26.04,55,female,0,0,heavy drinker,1 elem school grad or lower
+11731,18.59,51,male,0,0,alcohol dependent,4 college grad or higher
+11791,22.86,69,male,1,1,normal drinker or non-drinker,3 high school grad
+11811,20.81,71,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+11821,23.44,69,male,0,1,alcohol dependent,1 elem school grad or lower
+11822,21.91,64,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+11861,23.83,75,female,0,0,normal drinker or non-drinker,2 middle school grad
+11951,22.43,51,female,1,1,normal drinker or non-drinker,2 middle school grad
+12001,21.1,62,female,0,1,normal drinker or non-drinker,2 middle school grad
+12071,22.66,58,female,0,1,heavy drinker,3 high school grad
+12122,27.89,60,female,0,1,normal drinker or non-drinker,3 high school grad
+12161,22.1,52,female,1,1,heavy drinker,2 middle school grad
+12251,26.12,54,male,1,1,heavy drinker,3 high school grad
+12271,19.61,60,male,0,1,normal drinker or non-drinker,3 high school grad
+12321,22.04,65,male,0,1,normal drinker or non-drinker,2 middle school grad
+12331,25.46,63,female,0,1,normal drinker or non-drinker,3 high school grad
+12342,23.24,65,female,0,1,normal drinker or non-drinker,3 high school grad
+12471,23.83,80,female,0,0,normal drinker or non-drinker,3 high school grad
+12531,20.66,72,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+12781,22.67,53,female,0,1,normal drinker or non-drinker,3 high school grad
+12792,23.44,60,male,1,1,normal drinker or non-drinker,3 high school grad
+12931,23.39,77,male,0,1,normal drinker or non-drinker,2 middle school grad
+13091,25,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+13151,19.53,51,female,1,1,normal drinker or non-drinker,2 middle school grad
+13162,23.88,71,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+13191,21.47,53,male,1,1,heavy drinker,3 high school grad
+13391,23.23,64,female,0,1,normal drinker or non-drinker,2 middle school grad
+13421,28.23,66,male,0,1,normal drinker or non-drinker,3 high school grad
+13461,25.48,51,female,1,1,normal drinker or non-drinker,3 high school grad
+13472,19.15,52,female,0,1,normal drinker or non-drinker,2 middle school grad
+13512,22.15,59,female,1,1,normal drinker or non-drinker,2 middle school grad
+13571,22.27,77,female,0,0,heavy drinker,1 elem school grad or lower
+13581,21.51,63,male,1,1,heavy drinker,1 elem school grad or lower
+13591,28.62,62,female,0,1,normal drinker or non-drinker,2 middle school grad
+13592,22.04,67,male,0,1,normal drinker or non-drinker,3 high school grad
+13611,23.53,53,female,1,1,normal drinker or non-drinker,3 high school grad
+13651,24.78,54,female,1,1,normal drinker or non-drinker,2 middle school grad
+13723,22.49,81,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+13761,24.78,65,female,0,0,normal drinker or non-drinker,3 high school grad
+13782,24.57,59,male,1,1,heavy drinker,3 high school grad
+13822,21.37,57,female,1,0,heavy drinker,1 elem school grad or lower
+13851,24.69,66,male,0,1,heavy drinker,1 elem school grad or lower
+13861,20.03,53,female,0,1,normal drinker or non-drinker,3 high school grad
+14041,22.14,73,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+14061,23.78,68,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+14072,25.28,62,male,1,1,heavy drinker,1 elem school grad or lower
+14202,28.65,79,male,0,1,normal drinker or non-drinker,4 college grad or higher
+14221,29.3,59,female,0,1,normal drinker or non-drinker,3 high school grad
+14271,23.39,56,male,1,1,heavy drinker,3 high school grad
+14462,22.15,64,male,1,1,normal drinker or non-drinker,3 high school grad
+14472,27.06,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+14501,23.31,64,female,0,1,heavy drinker,2 middle school grad
+14531,25.71,62,male,1,1,normal drinker or non-drinker,3 high school grad
+14601,22.41,59,male,1,1,heavy drinker,3 high school grad
+14611,22.43,59,female,0,1,normal drinker or non-drinker,3 high school grad
+14653,23.31,79,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+14691,22.66,54,male,1,1,heavy drinker,1 elem school grad or lower
+14692,23.01,58,female,0,1,heavy drinker,2 middle school grad
+14741,23.67,56,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+14862,23.44,59,male,1,1,heavy drinker,1 elem school grad or lower
+14891,23.42,53,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+14981,28.33,51,female,0,1,normal drinker or non-drinker,3 high school grad
+15022,18,74,male,0,1,alcohol dependent,3 high school grad
+15071,25.81,54,female,1,1,heavy drinker,1 elem school grad or lower
+15152,23.63,65,female,0,1,normal drinker or non-drinker,2 middle school grad
+15161,19.03,57,male,1,1,normal drinker or non-drinker,2 middle school grad
+15171,19.98,85,female,0,0,normal drinker or non-drinker,3 high school grad
+15242,23.59,57,male,1,1,heavy drinker,3 high school grad
+15251,24.61,54,male,1,1,heavy drinker,2 middle school grad
+15271,23.03,71,male,1,1,heavy drinker,3 high school grad
+15292,21.22,66,female,1,1,normal drinker or non-drinker,3 high school grad
+15381,25.48,71,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+15461,19.83,67,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+15471,23.61,71,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+15512,22.49,87,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+15571,23.53,75,male,0,0,alcohol dependent,3 high school grad
+15681,28.44,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+15731,29.3,54,male,1,1,normal drinker or non-drinker,4 college grad or higher
+15742,20.83,73,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+15771,22.96,77,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+15831,21.88,71,female,0,1,normal drinker or non-drinker,2 middle school grad
+15891,24.44,72,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+15941,24.46,68,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+15951,26.67,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+15971,17.22,76,female,0,0,normal drinker or non-drinker,2 middle school grad
+15991,20.55,51,female,0,1,normal drinker or non-drinker,4 college grad or higher
+16111,27.68,57,male,1,1,normal drinker or non-drinker,2 middle school grad
+16122,22.04,59,male,1,1,normal drinker or non-drinker,4 college grad or higher
+16161,20.76,86,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+16331,29.64,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+16372,21.8,58,male,1,1,heavy drinker,3 high school grad
+16531,23.18,57,male,1,1,heavy drinker,1 elem school grad or lower
+16601,23.53,57,male,1,1,heavy drinker,3 high school grad
+16621,23.83,59,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+16721,22.68,57,male,1,1,heavy drinker,2 middle school grad
+16812,22.48,64,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+16871,20.2,60,male,0,1,heavy drinker,2 middle school grad
+16892,23.94,55,male,1,1,heavy drinker,3 high school grad
+16961,24.44,73,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+16981,22.03,73,female,0,0,normal drinker or non-drinker,2 middle school grad
+17012,25.65,54,male,1,1,heavy drinker,4 college grad or higher
+17062,22.86,74,male,0,1,heavy drinker,3 high school grad
+17081,23.62,74,female,0,1,normal drinker or non-drinker,3 high school grad
+17171,23.63,54,female,0,1,normal drinker or non-drinker,3 high school grad
+17172,23.94,52,male,0,1,heavy drinker,3 high school grad
+17201,22.49,74,male,1,1,heavy drinker,3 high school grad
+17212,25.1,69,male,0,1,heavy drinker,4 college grad or higher
+17221,23.05,76,female,0,0,heavy drinker,3 high school grad
+17282,24.44,82,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+17401,25.25,58,male,0,1,heavy drinker,3 high school grad
+17432,25.01,55,male,1,1,heavy drinker,3 high school grad
+17441,23.53,71,female,0,0,heavy drinker,1 elem school grad or lower
+17561,22.68,54,female,1,1,normal drinker or non-drinker,2 middle school grad
+17582,24.68,66,male,1,1,heavy drinker,2 middle school grad
+17692,21.64,52,female,0,1,alcohol dependent,1 elem school grad or lower
+17701,22.19,58,female,1,1,normal drinker or non-drinker,2 middle school grad
+17761,29.14,66,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+17791,21.11,62,male,1,1,normal drinker or non-drinker,3 high school grad
+17792,22.76,59,female,0,1,normal drinker or non-drinker,2 middle school grad
+17902,24.22,58,male,0,1,heavy drinker,4 college grad or higher
+17982,22.49,76,male,0,1,normal drinker or non-drinker,2 middle school grad
+18021,21.93,52,female,1,1,normal drinker or non-drinker,4 college grad or higher
+18071,25.64,54,female,0,1,heavy drinker,1 elem school grad or lower
+18102,24.22,64,male,1,1,heavy drinker,1 elem school grad or lower
+18113,21.3,88,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+18121,22.43,64,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+18202,22.67,74,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+18251,20.52,70,male,1,1,heavy drinker,1 elem school grad or lower
+18272,20.34,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+18291,21.72,63,female,0,1,normal drinker or non-drinker,3 high school grad
+18472,21.8,59,male,1,1,heavy drinker,4 college grad or higher
+18491,22.49,55,male,1,1,alcohol dependent,2 middle school grad
+18522,27.12,77,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+18551,22.22,86,female,0,0,heavy drinker,1 elem school grad or lower
+18581,30.86,69,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+18602,25,59,female,0,1,normal drinker or non-drinker,2 middle school grad
+18622,21.1,52,female,1,1,normal drinker or non-drinker,3 high school grad
+19061,26.51,84,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+19111,24.46,59,male,1,1,heavy drinker,3 high school grad
+19161,24,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+19371,22.94,83,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+19421,26.67,76,female,0,0,heavy drinker,1 elem school grad or lower
+19611,20.7,76,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+19841,25.8,71,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+19971,23.78,73,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+20071,20.28,83,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+20111,24.14,57,female,0,1,heavy drinker,3 high school grad
+20112,26.12,59,male,0,1,heavy drinker,4 college grad or higher
+20261,20.03,74,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+20292,21.47,57,male,0,1,heavy drinker,1 elem school grad or lower
+20331,27.03,64,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+20381,22.83,77,female,0,0,heavy drinker,1 elem school grad or lower
+20411,22.49,60,male,0,1,alcohol dependent,1 elem school grad or lower
+20501,20.96,65,male,0,0,heavy drinker,3 high school grad
+20641,23.42,71,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+20731,22.22,61,female,0,1,normal drinker or non-drinker,2 middle school grad
+20752,22.83,67,male,0,1,heavy drinker,1 elem school grad or lower
+20821,23.42,79,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+20901,22.22,83,female,0,0,heavy drinker,1 elem school grad or lower
+20951,20.76,62,male,0,1,alcohol dependent,3 high school grad
+21012,28.44,70,female,0,1,alcohol dependent,1 elem school grad or lower
+21091,21.48,67,female,0,0,heavy drinker,1 elem school grad or lower
+21111,24.24,61,female,0,0,normal drinker or non-drinker,3 high school grad
+21222,26.64,54,female,0,1,normal drinker or non-drinker,3 high school grad
+21252,24.39,66,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+21261,26.22,72,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+21281,23.88,75,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+21431,29.09,68,female,0,0,normal drinker or non-drinker,2 middle school grad
+21461,26.64,61,male,0,1,heavy drinker,3 high school grad
+21491,22.49,66,male,0,1,heavy drinker,2 middle school grad
+21562,22.06,52,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+21701,24.46,52,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+21762,24.22,82,male,0,1,normal drinker or non-drinker,3 high school grad
+21872,29.75,67,male,0,1,normal drinker or non-drinker,3 high school grad
+21991,25.71,53,female,0,1,normal drinker or non-drinker,2 middle school grad
+22011,22.2,54,male,1,1,heavy drinker,3 high school grad
+22164,21.3,63,male,1,1,normal drinker or non-drinker,2 middle school grad
+22222,20.69,51,female,0,1,normal drinker or non-drinker,3 high school grad
+22291,28,83,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+22301,23.62,67,male,0,1,normal drinker or non-drinker,2 middle school grad
+22501,22.5,67,male,1,0,heavy drinker,3 high school grad
+22541,23.31,62,male,1,1,heavy drinker,3 high school grad
+22591,20.17,72,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+22621,25.78,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+22782,20.43,69,male,0,1,normal drinker or non-drinker,3 high school grad
+22841,21.37,58,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+22922,24.3,86,male,0,1,normal drinker or non-drinker,4 college grad or higher
+22932,21.23,65,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+22933,21.33,82,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+22942,25,77,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+23011,23.34,61,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+23031,22.03,78,female,0,1,normal drinker or non-drinker,4 college grad or higher
+23051,21.91,52,female,0,1,normal drinker or non-drinker,4 college grad or higher
+23131,23.83,69,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+23171,21.21,80,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+23241,23.39,58,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+23242,24.03,55,female,0,1,normal drinker or non-drinker,2 middle school grad
+23251,20.76,71,male,0,1,normal drinker or non-drinker,2 middle school grad
+23332,22.6,51,female,1,1,heavy drinker,3 high school grad
+23452,20.45,58,female,1,1,normal drinker or non-drinker,3 high school grad
+23502,21.45,71,male,0,1,normal drinker or non-drinker,4 college grad or higher
+23561,22.89,53,female,1,1,normal drinker or non-drinker,2 middle school grad
+23572,22.96,57,male,1,1,normal drinker or non-drinker,4 college grad or higher
+23592,23.44,67,female,0,1,heavy drinker,3 high school grad
+23621,20.44,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+23641,23.05,51,female,0,1,normal drinker or non-drinker,3 high school grad
+23661,24.84,71,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+23673,27.77,92,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+23781,22.77,69,female,0,1,normal drinker or non-drinker,3 high school grad
+23822,20.83,58,female,0,1,heavy drinker,2 middle school grad
+23841,19.38,55,male,1,1,heavy drinker,1 elem school grad or lower
+23902,28.09,66,male,1,1,alcohol dependent,1 elem school grad or lower
+23992,23.34,69,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+24041,22.77,60,female,1,1,normal drinker or non-drinker,3 high school grad
+24133,16.53,95,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+24223,23.11,87,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+24241,22.6,83,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+24461,27.55,65,male,1,1,normal drinker or non-drinker,3 high school grad
+24502,26.12,64,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+24521,22.51,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+24523,19.65,54,female,1,1,normal drinker or non-drinker,4 college grad or higher
+24551,24.96,54,male,1,1,heavy drinker,4 college grad or higher
+24641,26.18,64,male,1,1,heavy drinker,3 high school grad
+24671,26.26,53,male,1,1,heavy drinker,3 high school grad
+24691,24.97,65,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+24731,22.65,57,male,1,1,heavy drinker,2 middle school grad
+24781,20.06,78,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+24791,24.91,53,male,1,1,normal drinker or non-drinker,3 high school grad
+24891,19.72,85,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+25071,25.47,57,male,1,1,heavy drinker,4 college grad or higher
+25101,24.44,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+25222,20.81,60,female,1,1,normal drinker or non-drinker,2 middle school grad
+25241,26.67,61,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+25361,26.91,71,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+25372,26.67,60,female,0,1,normal drinker or non-drinker,2 middle school grad
+25442,27.24,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+25472,23.59,52,male,1,1,heavy drinker,3 high school grad
+25521,24.56,71,female,0,1,normal drinker or non-drinker,2 middle school grad
+25532,22.04,55,female,0,1,normal drinker or non-drinker,NA
+25771,23.81,76,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+25913,26.73,67,male,1,1,heavy drinker,1 elem school grad or lower
+26052,24.46,63,female,0,1,normal drinker or non-drinker,3 high school grad
+26131,19.59,79,male,0,1,normal drinker or non-drinker,4 college grad or higher
+26142,23.71,51,female,1,1,normal drinker or non-drinker,3 high school grad
+26171,24.98,78,male,0,1,heavy drinker,2 middle school grad
+26172,27.56,73,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+26192,22.76,58,male,1,1,normal drinker or non-drinker,3 high school grad
+26211,27.59,59,female,0,1,normal drinker or non-drinker,2 middle school grad
+26231,23.53,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+26241,17.9,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+26292,21.76,69,female,0,1,normal drinker or non-drinker,2 middle school grad
+26481,23.51,67,male,1,1,heavy drinker,3 high school grad
+26521,23.51,76,male,0,0,heavy drinker,4 college grad or higher
+26691,20.31,53,female,0,1,normal drinker or non-drinker,4 college grad or higher
+26731,21.8,76,male,1,0,heavy drinker,2 middle school grad
+26781,22.58,57,female,1,0,normal drinker or non-drinker,3 high school grad
+26951,19.63,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+26971,24.06,57,male,1,1,normal drinker or non-drinker,4 college grad or higher
+27072,25.24,73,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+27172,21.64,79,female,0,1,normal drinker or non-drinker,3 high school grad
+27232,20.96,51,female,1,1,heavy drinker,3 high school grad
+27242,23.84,63,male,1,1,heavy drinker,4 college grad or higher
+27262,25.71,54,female,1,1,normal drinker or non-drinker,2 middle school grad
+27282,24.22,56,male,1,1,alcohol dependent,2 middle school grad
+27311,23.88,75,male,0,1,heavy drinker,1 elem school grad or lower
+27312,23.44,75,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+27521,23.83,60,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+27551,24.78,54,female,0,1,normal drinker or non-drinker,2 middle school grad
+27571,26.04,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+27731,24.54,62,male,0,1,heavy drinker,2 middle school grad
+27732,24.98,59,female,0,1,normal drinker or non-drinker,2 middle school grad
+27802,24.75,51,female,1,1,heavy drinker,3 high school grad
+27881,20.55,60,female,1,1,heavy drinker,2 middle school grad
+27971,24.97,62,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+28061,21.51,53,female,1,1,heavy drinker,3 high school grad
+28121,21.21,66,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+28152,23.53,54,male,1,1,heavy drinker,3 high school grad
+28161,21.67,60,male,1,0,heavy drinker,3 high school grad
+28281,25.91,65,male,0,1,normal drinker or non-drinker,2 middle school grad
+28311,24.22,68,female,0,0,heavy drinker,1 elem school grad or lower
+28381,21.08,58,female,0,1,normal drinker or non-drinker,3 high school grad
+28441,26.22,60,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+28452,24.51,63,male,1,1,heavy drinker,1 elem school grad or lower
+28501,20.76,63,male,1,1,heavy drinker,1 elem school grad or lower
+28571,21.93,53,female,1,1,normal drinker or non-drinker,2 middle school grad
+28592,25.95,61,male,1,1,heavy drinker,3 high school grad
+28631,22.22,63,female,0,1,normal drinker or non-drinker,2 middle school grad
+28702,17.99,60,male,1,1,alcohol dependent,3 high school grad
+28831,24.69,70,male,0,1,alcohol dependent,1 elem school grad or lower
+28832,20.2,62,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+28961,22.84,80,male,1,1,heavy drinker,1 elem school grad or lower
+28992,23.78,61,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+29021,26.56,64,female,0,0,normal drinker or non-drinker,3 high school grad
+29061,24.03,65,female,1,1,normal drinker or non-drinker,3 high school grad
+29071,24.03,64,female,0,1,normal drinker or non-drinker,3 high school grad
+29202,20.2,77,male,1,1,heavy drinker,1 elem school grad or lower
+29212,19.47,62,female,1,1,normal drinker or non-drinker,2 middle school grad
+29221,22.35,73,female,1,0,heavy drinker,1 elem school grad or lower
+29321,21,73,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+29352,24.14,82,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+29372,22.22,73,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+29432,23.53,67,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+29621,23.18,58,male,1,1,heavy drinker,3 high school grad
+29622,23.53,62,female,0,1,normal drinker or non-drinker,2 middle school grad
+29641,24.39,52,male,1,1,heavy drinker,4 college grad or higher
+29721,19.22,77,female,0,1,normal drinker or non-drinker,2 middle school grad
+29722,21.61,83,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+29862,21.08,64,female,1,1,normal drinker or non-drinker,3 high school grad
+29943,27.18,63,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+30072,23.53,75,male,1,1,heavy drinker,3 high school grad
+30141,25.01,62,male,0,1,alcohol dependent,2 middle school grad
+30151,27.76,53,male,1,1,normal drinker or non-drinker,4 college grad or higher
+30152,23.92,51,female,1,1,normal drinker or non-drinker,3 high school grad
+30172,25.78,73,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+30262,20.54,80,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+30271,25.1,61,male,0,1,heavy drinker,3 high school grad
+30341,24.97,62,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+30401,22.43,63,male,1,1,heavy drinker,3 high school grad
+30552,24.78,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+30562,23.84,64,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+30592,24.97,53,female,1,1,normal drinker or non-drinker,3 high school grad
+30593,18.22,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+30602,27.34,52,female,1,1,heavy drinker,3 high school grad
+30811,25,56,female,0,1,normal drinker or non-drinker,3 high school grad
+30901,24.01,75,female,0,0,normal drinker or non-drinker,4 college grad or higher
+31101,22.89,52,female,1,1,normal drinker or non-drinker,3 high school grad
+31141,23.56,90,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+31171,20.96,78,male,0,1,normal drinker or non-drinker,4 college grad or higher
+31221,22.95,67,male,1,1,heavy drinker,3 high school grad
+31232,24.78,66,female,0,1,normal drinker or non-drinker,2 middle school grad
+31322,24.49,68,male,1,1,heavy drinker,3 high school grad
+31342,20.28,55,male,1,0,heavy drinker,2 middle school grad
+31391,24.22,68,male,0,0,normal drinker or non-drinker,4 college grad or higher
+31421,22.49,66,male,0,1,heavy drinker,2 middle school grad
+31422,27.34,60,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+31521,23.18,56,male,1,0,heavy drinker,3 high school grad
+31582,21.48,75,male,1,1,heavy drinker,3 high school grad
+31592,19.47,72,male,1,1,alcohol dependent,2 middle school grad
+31601,24.34,64,male,1,1,normal drinker or non-drinker,3 high school grad
+31602,21.5,57,female,1,1,normal drinker or non-drinker,3 high school grad
+31621,22.21,70,female,0,0,heavy drinker,1 elem school grad or lower
+31751,23.39,67,male,1,1,heavy drinker,2 middle school grad
+31752,23.56,66,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+31761,20.81,82,female,0,0,normal drinker or non-drinker,3 high school grad
+31991,23.88,88,male,0,0,normal drinker or non-drinker,2 middle school grad
+32112,22.89,54,female,0,1,normal drinker or non-drinker,4 college grad or higher
+32141,21.23,53,female,1,0,heavy drinker,3 high school grad
+32172,24.46,54,female,0,1,normal drinker or non-drinker,3 high school grad
+32292,24.51,55,male,1,1,heavy drinker,3 high school grad
+32391,23.53,61,male,0,1,heavy drinker,3 high school grad
+32421,24.06,55,male,0,1,heavy drinker,4 college grad or higher
+32661,27.34,76,male,0,0,normal drinker or non-drinker,2 middle school grad
+32731,22.49,73,male,0,1,heavy drinker,3 high school grad
+32761,20.2,81,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+32811,22.31,62,female,0,0,heavy drinker,1 elem school grad or lower
+33001,21.36,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+33131,21.63,62,female,0,1,normal drinker or non-drinker,3 high school grad
+33213,23.11,82,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+33231,27.06,58,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+33241,22.49,64,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+33331,28,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+33391,26.78,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+33431,26.64,74,female,0,0,heavy drinker,1 elem school grad or lower
+33542,25.33,74,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+33652,23.44,51,female,0,1,heavy drinker,3 high school grad
+33701,21.09,59,female,0,1,heavy drinker,1 elem school grad or lower
+33801,24.38,73,male,1,1,heavy drinker,3 high school grad
+33822,21.72,73,male,0,1,normal drinker or non-drinker,3 high school grad
+33921,23.12,53,female,0,1,normal drinker or non-drinker,3 high school grad
+34181,17.78,57,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+34211,21.4,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+34251,19.72,82,male,0,1,normal drinker or non-drinker,2 middle school grad
+34291,22.97,77,female,0,0,normal drinker or non-drinker,3 high school grad
+34341,23.37,64,female,1,1,normal drinker or non-drinker,2 middle school grad
+34392,27.34,82,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+34421,18.59,72,male,0,1,normal drinker or non-drinker,3 high school grad
+34422,23.01,63,female,NA,1,normal drinker or non-drinker,3 high school grad
+34452,22.04,69,male,0,1,normal drinker or non-drinker,4 college grad or higher
+34462,21.64,56,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+34482,22.04,54,male,1,1,alcohol dependent,3 high school grad
+34632,21.63,64,female,0,1,heavy drinker,1 elem school grad or lower
+34682,25.39,78,female,0,0,normal drinker or non-drinker,2 middle school grad
+34771,25.1,52,female,0,1,normal drinker or non-drinker,2 middle school grad
+34821,23.07,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+34831,28.31,68,female,0,1,normal drinker or non-drinker,2 middle school grad
+34921,22.53,53,male,1,1,normal drinker or non-drinker,4 college grad or higher
+34922,21.23,52,female,1,1,heavy drinker,NA
+35072,25.78,58,female,0,1,normal drinker or non-drinker,3 high school grad
+35102,23.83,75,male,0,1,heavy drinker,1 elem school grad or lower
+35182,23.44,59,female,0,1,heavy drinker,2 middle school grad
+35431,25.01,68,male,0,1,alcohol dependent,3 high school grad
+35562,23.53,54,male,1,1,normal drinker or non-drinker,4 college grad or higher
+35652,32.05,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+35701,23.88,77,male,0,1,normal drinker or non-drinker,4 college grad or higher
+35712,21.63,74,female,0,1,normal drinker or non-drinker,2 middle school grad
+35762,25.78,81,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+35891,20.13,54,female,1,1,heavy drinker,4 college grad or higher
+35931,17.04,79,male,0,1,normal drinker or non-drinker,3 high school grad
+36061,25.08,76,male,0,1,normal drinker or non-drinker,3 high school grad
+36091,18.26,92,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+36102,23.66,76,male,0,1,normal drinker or non-drinker,3 high school grad
+36352,23.94,53,male,1,1,heavy drinker,4 college grad or higher
+36411,24.91,70,male,1,1,heavy drinker,2 middle school grad
+36482,16.9,52,female,0,1,heavy drinker,3 high school grad
+36763,21.64,51,female,0,1,normal drinker or non-drinker,2 middle school grad
+36782,23.11,69,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+36831,24.78,69,female,0,1,heavy drinker,2 middle school grad
+36961,24.78,63,female,1,1,heavy drinker,3 high school grad
+36971,19.13,75,male,1,1,normal drinker or non-drinker,4 college grad or higher
+36981,25.39,60,male,0,0,heavy drinker,3 high school grad
+36992,22.03,55,female,1,1,normal drinker or non-drinker,3 high school grad
+37071,22.59,65,female,1,1,heavy drinker,4 college grad or higher
+37131,25.77,52,male,1,1,heavy drinker,3 high school grad
+37232,23.62,51,female,1,1,heavy drinker,3 high school grad
+37261,21.3,81,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+37321,22.31,76,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+37371,24.44,80,female,0,0,heavy drinker,1 elem school grad or lower
+37583,23.73,69,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+37781,26.04,64,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+37812,25.15,69,female,0,1,normal drinker or non-drinker,3 high school grad
+37921,23.53,60,male,0,1,normal drinker or non-drinker,3 high school grad
+37941,25.51,71,male,1,1,heavy drinker,NA
+38011,20.81,56,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+38041,23.12,53,female,1,1,heavy drinker,4 college grad or higher
+38072,27.01,51,female,1,1,normal drinker or non-drinker,4 college grad or higher
+38152,19.98,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+38162,26.3,68,male,0,1,normal drinker or non-drinker,3 high school grad
+38181,21.11,62,male,1,1,normal drinker or non-drinker,2 middle school grad
+38222,22.06,67,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+38251,22.34,52,male,1,1,heavy drinker,4 college grad or higher
+38291,22.41,69,male,0,1,normal drinker or non-drinker,3 high school grad
+38331,23.88,81,male,0,1,normal drinker or non-drinker,4 college grad or higher
+38342,21.3,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+38382,21.48,53,female,0,1,alcohol dependent,3 high school grad
+38431,23.34,68,female,0,1,normal drinker or non-drinker,3 high school grad
+38511,19.13,70,male,0,1,heavy drinker,4 college grad or higher
+38521,23.31,82,male,0,0,normal drinker or non-drinker,3 high school grad
+38612,22.27,69,female,0,1,normal drinker or non-drinker,3 high school grad
+38622,19.98,62,female,0,1,normal drinker or non-drinker,4 college grad or higher
+38653,16.87,83,female,0,0,normal drinker or non-drinker,3 high school grad
+38701,26.73,66,male,0,1,heavy drinker,3 high school grad
+38721,24.98,82,female,0,0,heavy drinker,1 elem school grad or lower
+38801,27.55,90,male,0,1,normal drinker or non-drinker,4 college grad or higher
+38821,25.99,63,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+38871,20.05,75,male,0,1,normal drinker or non-drinker,3 high school grad
+39041,24.73,65,male,1,1,alcohol dependent,3 high school grad
+39091,23.03,70,male,1,1,normal drinker or non-drinker,2 middle school grad
+39092,26.22,69,female,0,1,normal drinker or non-drinker,2 middle school grad
+39152,24.22,72,male,0,1,normal drinker or non-drinker,2 middle school grad
+39281,26.9,67,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+39331,24.97,68,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+39402,24.91,54,male,1,1,alcohol dependent,3 high school grad
+39431,24.97,88,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+39511,23.88,74,male,0,1,normal drinker or non-drinker,2 middle school grad
+39541,23.31,74,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+39551,22.49,82,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+39611,23.15,75,male,1,1,alcohol dependent,4 college grad or higher
+39982,24.65,66,female,0,1,normal drinker or non-drinker,2 middle school grad
+40011,24.09,51,male,0,1,heavy drinker,4 college grad or higher
+40042,17.78,73,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+40061,22.04,69,male,0,1,heavy drinker,4 college grad or higher
+40082,20.55,89,male,0,1,normal drinker or non-drinker,4 college grad or higher
+40102,23.07,67,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+40161,20.7,79,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+40182,23.83,71,male,1,1,normal drinker or non-drinker,2 middle school grad
+40321,21.26,80,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+40411,18.78,90,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+40413,19.38,62,male,1,1,normal drinker or non-drinker,3 high school grad
+40422,21.14,55,male,1,1,heavy drinker,3 high school grad
+40492,19.72,77,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+40541,24.24,66,male,0,1,heavy drinker,2 middle school grad
+40692,24.8,55,male,1,1,normal drinker or non-drinker,4 college grad or higher
+40723,22.31,53,female,1,1,normal drinker or non-drinker,2 middle school grad
+40731,24.74,69,male,1,0,heavy drinker,1 elem school grad or lower
+40821,24.65,76,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+40933,24.09,69,male,1,1,normal drinker or non-drinker,3 high school grad
+41141,21.64,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+41191,25.91,87,male,0,1,normal drinker or non-drinker,3 high school grad
+41211,25.78,69,female,0,1,heavy drinker,1 elem school grad or lower
+41221,20,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+41312,16.86,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+41382,24.44,71,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+41424,21.48,61,female,0,0,heavy drinker,1 elem school grad or lower
+41441,24.09,52,male,1,1,heavy drinker,4 college grad or higher
+41472,23.18,55,male,1,1,heavy drinker,3 high school grad
+41602,20.07,55,male,1,1,normal drinker or non-drinker,3 high school grad
+41631,28.06,66,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+41652,21.08,58,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+41732,20.7,77,male,0,1,heavy drinker,4 college grad or higher
+41832,22.67,64,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+42051,29.07,55,male,1,1,normal drinker or non-drinker,3 high school grad
+42081,34.67,72,female,0,0,normal drinker or non-drinker,2 middle school grad
+42091,26.81,68,male,0,1,heavy drinker,1 elem school grad or lower
+42092,23.14,68,female,0,1,heavy drinker,1 elem school grad or lower
+42102,25.1,58,male,1,1,heavy drinker,3 high school grad
+42132,24.46,52,male,1,1,heavy drinker,1 elem school grad or lower
+42203,15.63,51,female,0,0,normal drinker or non-drinker,4 college grad or higher
+42251,19.03,53,female,1,1,heavy drinker,4 college grad or higher
+42362,24,69,female,0,1,heavy drinker,1 elem school grad or lower
+42492,25.86,73,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+42502,20.76,60,male,1,1,heavy drinker,2 middle school grad
+42531,24.22,54,female,1,1,heavy drinker,1 elem school grad or lower
+42542,18.07,82,male,0,1,normal drinker or non-drinker,3 high school grad
+42611,24.22,88,male,0,1,heavy drinker,1 elem school grad or lower
+42711,21.1,68,male,0,1,heavy drinker,1 elem school grad or lower
+42722,23.31,56,female,1,1,heavy drinker,1 elem school grad or lower
+42731,23.23,73,male,1,1,normal drinker or non-drinker,3 high school grad
+42742,21.33,75,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+42772,22.6,61,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+42802,27.18,67,female,1,1,heavy drinker,1 elem school grad or lower
+42821,30.04,79,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+42871,24.34,75,male,1,1,alcohol dependent,3 high school grad
+42921,24.61,72,male,0,1,heavy drinker,2 middle school grad
+42952,25.11,68,female,1,1,heavy drinker,1 elem school grad or lower
+43022,24.49,54,male,1,0,heavy drinker,2 middle school grad
+43041,24.77,83,male,0,0,heavy drinker,3 high school grad
+43061,23.03,78,male,1,1,normal drinker or non-drinker,3 high school grad
+43091,22.6,79,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+43101,22.66,74,female,0,1,heavy drinker,1 elem school grad or lower
+43192,21.48,65,female,0,1,normal drinker or non-drinker,2 middle school grad
+43201,21.51,86,male,1,1,normal drinker or non-drinker,3 high school grad
+43281,19.49,68,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+43312,28.89,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+43331,26.56,66,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+43332,24.02,69,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+43341,22.6,65,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+43342,24.09,70,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+43401,26.03,68,male,0,1,heavy drinker,2 middle school grad
+43402,25.59,64,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+43412,24.84,75,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+43511,25.95,57,male,1,1,heavy drinker,3 high school grad
+43513,20.31,88,male,0,1,heavy drinker,1 elem school grad or lower
+43822,27.34,68,female,0,1,normal drinker or non-drinker,3 high school grad
+44001,20.28,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+44041,26.22,53,female,0,1,heavy drinker,3 high school grad
+44091,23.11,66,male,0,1,heavy drinker,3 high school grad
+44101,22.77,72,male,0,1,heavy drinker,3 high school grad
+44102,23.23,71,female,0,1,normal drinker or non-drinker,2 middle school grad
+44112,26.04,63,female,0,1,normal drinker or non-drinker,3 high school grad
+44152,20.2,54,female,0,1,normal drinker or non-drinker,3 high school grad
+44162,23.66,56,male,1,0,normal drinker or non-drinker,4 college grad or higher
+44221,24.22,72,male,1,1,heavy drinker,1 elem school grad or lower
+44302,25.26,52,male,1,1,normal drinker or non-drinker,3 high school grad
+44332,23.23,58,female,0,1,normal drinker or non-drinker,2 middle school grad
+44371,22.41,52,male,1,1,heavy drinker,3 high school grad
+44451,22.1,67,female,1,0,normal drinker or non-drinker,2 middle school grad
+44512,23.12,59,female,0,1,normal drinker or non-drinker,3 high school grad
+44521,18.97,55,female,0,1,normal drinker or non-drinker,4 college grad or higher
+44612,22.86,58,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+44671,23.88,79,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+44731,26.22,73,male,0,1,heavy drinker,1 elem school grad or lower
+44742,26.71,73,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+44911,22.86,86,male,0,1,heavy drinker,2 middle school grad
+44922,23.44,52,female,1,1,normal drinker or non-drinker,3 high school grad
+44992,22.31,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+45041,23.03,74,male,1,1,heavy drinker,1 elem school grad or lower
+45051,26.57,66,male,1,0,heavy drinker,1 elem school grad or lower
+45081,26.57,77,male,0,1,heavy drinker,1 elem school grad or lower
+45082,22.89,79,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+45121,23.92,58,female,1,1,normal drinker or non-drinker,3 high school grad
+45172,26.84,53,female,0,1,normal drinker or non-drinker,2 middle school grad
+45252,20.7,76,female,0,1,heavy drinker,1 elem school grad or lower
+45282,19.36,66,female,1,1,normal drinker or non-drinker,2 middle school grad
+45331,21.63,73,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+45381,22.76,55,male,1,0,normal drinker or non-drinker,2 middle school grad
+45391,22.31,66,female,0,0,heavy drinker,1 elem school grad or lower
+45492,23.83,56,female,1,1,normal drinker or non-drinker,3 high school grad
+45511,21.26,67,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+45571,26.73,56,male,1,1,heavy drinker,4 college grad or higher
+45621,26.67,65,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+45622,23.66,71,male,1,1,heavy drinker,3 high school grad
+45662,25.95,73,male,0,1,heavy drinker,1 elem school grad or lower
+45682,22.66,65,female,0,1,normal drinker or non-drinker,2 middle school grad
+45752,27.11,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+46161,17.26,87,male,0,0,heavy drinker,1 elem school grad or lower
+46202,23.05,64,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+46242,22.03,54,female,0,1,heavy drinker,3 high school grad
+46282,23.23,54,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+46294,22.06,81,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+46303,24.22,57,female,0,1,normal drinker or non-drinker,2 middle school grad
+46332,23.39,52,male,1,1,normal drinker or non-drinker,3 high school grad
+46371,25.53,66,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+46432,27.34,60,female,0,1,normal drinker or non-drinker,2 middle school grad
+46481,22.31,58,male,1,1,normal drinker or non-drinker,2 middle school grad
+46532,22.06,60,female,1,1,normal drinker or non-drinker,2 middle school grad
+46552,19.48,73,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+46621,24.88,57,female,1,0,normal drinker or non-drinker,3 high school grad
+46691,23.59,70,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+46711,23.03,55,male,1,1,normal drinker or non-drinker,2 middle school grad
+46801,20.03,80,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+46842,20.81,66,female,0,1,normal drinker or non-drinker,2 middle school grad
+46861,21.48,57,female,0,0,normal drinker or non-drinker,3 high school grad
+46892,22.86,57,female,1,1,normal drinker or non-drinker,3 high school grad
+46912,23.39,62,male,0,1,heavy drinker,4 college grad or higher
+46951,20.76,65,male,1,1,normal drinker or non-drinker,2 middle school grad
+47061,26.57,66,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+47082,20.7,56,female,1,1,normal drinker or non-drinker,3 high school grad
+47092,25,75,male,0,1,heavy drinker,1 elem school grad or lower
+47102,21.51,66,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+47191,23.66,57,male,1,1,normal drinker or non-drinker,3 high school grad
+47252,23.5,60,female,1,1,normal drinker or non-drinker,2 middle school grad
+47302,22.49,51,male,1,0,normal drinker or non-drinker,3 high school grad
+47322,22.22,77,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+47331,19.03,76,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+47421,20.81,85,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+47451,24.78,80,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+47484,23.31,77,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+47561,23.44,55,female,0,1,normal drinker or non-drinker,3 high school grad
+47562,25.95,59,male,1,1,normal drinker or non-drinker,4 college grad or higher
+47572,27.94,52,female,0,1,alcohol dependent,3 high school grad
+47601,24.38,79,male,0,1,heavy drinker,1 elem school grad or lower
+47632,26.37,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+47671,23.12,81,female,0,0,heavy drinker,1 elem school grad or lower
+47712,23.53,70,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+47734,22.19,87,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+47751,23.81,80,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+47771,23.81,78,male,1,1,heavy drinker,2 middle school grad
+47802,24.61,68,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+47812,22.48,76,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+47931,23.53,52,female,1,1,heavy drinker,2 middle school grad
+47962,20,82,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+48021,26.99,76,male,1,1,heavy drinker,1 elem school grad or lower
+48071,23.83,83,male,1,1,heavy drinker,1 elem school grad or lower
+48201,23.18,79,male,1,1,heavy drinker,3 high school grad
+48232,22.15,54,male,1,1,alcohol dependent,3 high school grad
+48283,19.63,79,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+48291,23.88,67,male,1,1,normal drinker or non-drinker,2 middle school grad
+48301,23.18,62,male,1,1,normal drinker or non-drinker,2 middle school grad
+48303,22.6,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+48362,22.83,60,female,1,1,normal drinker or non-drinker,2 middle school grad
+48373,17.78,93,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+48401,20.96,72,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+48451,20.69,64,female,1,0,normal drinker or non-drinker,2 middle school grad
+48551,22.77,79,male,0,1,heavy drinker,1 elem school grad or lower
+48781,21.46,67,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+48782,23.24,71,male,1,1,NA,1 elem school grad or lower
+48811,23.88,80,male,0,1,alcohol dependent,1 elem school grad or lower
+48872,22.66,78,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+48941,23.78,66,male,0,1,heavy drinker,3 high school grad
+48952,26.12,53,female,1,1,normal drinker or non-drinker,2 middle school grad
+49021,19.66,56,male,1,1,heavy drinker,1 elem school grad or lower
+49031,21.88,69,male,0,1,normal drinker or non-drinker,3 high school grad
+49192,25.39,61,female,0,1,normal drinker or non-drinker,2 middle school grad
+49281,22.23,65,male,1,1,alcohol dependent,3 high school grad
+49301,25.95,73,male,0,1,normal drinker or non-drinker,4 college grad or higher
+49391,21.88,83,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+49432,27.47,55,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+49451,21.26,70,male,0,1,normal drinker or non-drinker,3 high school grad
+49632,19.1,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+49682,23.71,70,male,1,1,normal drinker or non-drinker,3 high school grad
+49872,24.45,54,female,1,1,normal drinker or non-drinker,3 high school grad
+49881,23.14,67,female,1,1,normal drinker or non-drinker,2 middle school grad
+49961,25.97,NA,female,0,1,NA,2 middle school grad
+50011,25,58,male,1,1,normal drinker or non-drinker,4 college grad or higher
+50051,20.81,80,female,0,0,heavy drinker,3 high school grad
+50081,16.44,83,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+50142,22.91,54,male,1,1,heavy drinker,3 high school grad
+50162,24.69,58,male,1,1,normal drinker or non-drinker,4 college grad or higher
+50301,22.15,71,male,0,1,alcohol dependent,3 high school grad
+50331,23.57,59,male,1,1,heavy drinker,3 high school grad
+50551,18.82,54,female,0,1,normal drinker or non-drinker,3 high school grad
+50592,22.21,70,female,0,1,normal drinker or non-drinker,2 middle school grad
+50641,23.72,56,male,1,1,heavy drinker,2 middle school grad
+50681,22.67,57,female,0,1,heavy drinker,1 elem school grad or lower
+50721,21.51,81,male,0,1,heavy drinker,1 elem school grad or lower
+50732,23.19,71,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+50821,23.88,84,male,1,1,normal drinker or non-drinker,3 high school grad
+50861,24.22,72,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+50942,21.45,69,male,1,1,normal drinker or non-drinker,3 high school grad
+50961,23.73,60,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+51012,21.93,60,female,1,1,normal drinker or non-drinker,2 middle school grad
+51163,20.44,85,female,0,0,heavy drinker,1 elem school grad or lower
+51181,19.56,55,female,0,0,normal drinker or non-drinker,2 middle school grad
+51212,24.46,59,female,1,1,heavy drinker,3 high school grad
+51241,18.37,85,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+51302,27.34,66,female,0,1,normal drinker or non-drinker,3 high school grad
+51341,22.86,66,male,0,1,heavy drinker,1 elem school grad or lower
+51342,20.81,64,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+51452,23.05,62,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+51471,27.34,61,female,0,1,alcohol dependent,1 elem school grad or lower
+51492,25.78,68,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+51551,24.44,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+51671,24.38,57,male,1,1,alcohol dependent,3 high school grad
+51701,18.77,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+51711,22.86,65,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+51732,22.31,55,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+51782,20.2,55,male,1,1,heavy drinker,3 high school grad
+51811,20.78,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+51862,19.96,56,male,1,1,heavy drinker,1 elem school grad or lower
+51941,21.6,53,female,1,1,normal drinker or non-drinker,2 middle school grad
+51972,19.98,53,female,1,1,heavy drinker,4 college grad or higher
+52011,26.12,73,male,0,0,normal drinker or non-drinker,4 college grad or higher
+52032,26.5,59,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52142,25.71,73,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52202,23.88,77,male,0,1,alcohol dependent,1 elem school grad or lower
+52211,26.84,62,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52252,24.34,75,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52402,21.08,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+52411,26.22,51,female,1,1,normal drinker or non-drinker,4 college grad or higher
+52451,21.08,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+52501,24.57,69,male,1,1,heavy drinker,3 high school grad
+52502,25.39,62,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52582,22.94,54,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52612,26.72,54,male,1,1,heavy drinker,3 high school grad
+52651,21.71,76,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52762,22.09,60,male,1,1,normal drinker or non-drinker,2 middle school grad
+52811,23.01,58,female,1,1,normal drinker or non-drinker,3 high school grad
+52831,26.03,67,male,0,1,normal drinker or non-drinker,3 high school grad
+52921,19.26,72,male,1,1,heavy drinker,1 elem school grad or lower
+52942,22.22,64,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+52982,20.7,74,male,1,1,normal drinker or non-drinker,2 middle school grad
+53042,22.15,66,male,1,1,heavy drinker,4 college grad or higher
+53241,19.57,86,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+53242,19.23,82,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+53281,21.1,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+53291,29.38,65,male,1,0,normal drinker or non-drinker,2 middle school grad
+53301,20.2,56,male,1,1,normal drinker or non-drinker,3 high school grad
+53322,23.61,73,female,1,1,heavy drinker,1 elem school grad or lower
+53421,23.88,68,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+53442,25.24,53,female,1,1,heavy drinker,1 elem school grad or lower
+53471,23.81,78,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+53491,24.91,77,male,1,1,heavy drinker,1 elem school grad or lower
+53492,21.64,74,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+53562,23.19,64,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+53641,17.65,70,male,1,1,heavy drinker,3 high school grad
+53671,21.33,72,female,1,0,heavy drinker,1 elem school grad or lower
+53791,23.31,80,male,0,1,heavy drinker,2 middle school grad
+53872,26.38,58,female,0,1,normal drinker or non-drinker,NA
+53881,23.44,74,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+53992,24.92,74,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+54041,22.04,79,male,0,1,normal drinker or non-drinker,1 elem school grad or lower
+54131,26.04,54,female,0,0,heavy drinker,2 middle school grad
+54142,21.09,64,male,1,1,heavy drinker,2 middle school grad
+54182,20.83,71,female,1,1,heavy drinker,1 elem school grad or lower
+54232,22.86,62,male,0,1,heavy drinker,2 middle school grad
+54271,27.34,80,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+54281,24.21,74,male,0,1,alcohol dependent,2 middle school grad
+54282,19.82,73,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+54391,22.95,57,male,1,1,alcohol dependent,3 high school grad
+54422,24.39,77,male,0,0,normal drinker or non-drinker,1 elem school grad or lower
+54482,23.46,58,male,0,1,heavy drinker,3 high school grad
+54501,22.04,54,female,0,1,normal drinker or non-drinker,3 high school grad
+54621,19.83,69,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+54691,24.61,56,male,1,1,heavy drinker,1 elem school grad or lower
+54702,24.51,66,male,0,1,heavy drinker,3 high school grad
+54703,24.97,87,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+54742,22.06,65,female,0,1,normal drinker or non-drinker,3 high school grad
+54931,21.93,85,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+55041,23.01,56,female,1,1,heavy drinker,4 college grad or higher
+55181,20.7,77,female,0,0,normal drinker or non-drinker,3 high school grad
+55282,23.63,60,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+55421,23.78,81,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+55601,21.3,62,male,1,1,heavy drinker,2 middle school grad
+55632,21.63,62,male,1,1,normal drinker or non-drinker,2 middle school grad
+55741,27.7,59,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+55772,22.14,68,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+55781,23.44,65,female,1,1,normal drinker or non-drinker,3 high school grad
+55911,24.44,54,female,0,1,heavy drinker,3 high school grad
+55961,19.68,69,male,1,0,heavy drinker,4 college grad or higher
+56082,20.45,83,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+56112,18.99,75,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+56272,21.56,63,male,1,1,normal drinker or non-drinker,3 high school grad
+56321,21.3,70,male,1,1,heavy drinker,1 elem school grad or lower
+56351,21.11,76,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+56451,20.7,60,female,1,1,normal drinker or non-drinker,2 middle school grad
+56492,24.74,56,male,1,1,normal drinker or non-drinker,3 high school grad
+56502,24.8,57,male,1,1,heavy drinker,3 high school grad
+56721,25.65,56,male,1,1,heavy drinker,4 college grad or higher
+56932,21.87,53,male,1,1,heavy drinker,4 college grad or higher
+56992,24.65,63,female,1,1,normal drinker or non-drinker,2 middle school grad
+57031,22.84,57,male,1,1,normal drinker or non-drinker,3 high school grad
+57111,18.97,84,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+57152,19.53,69,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+57311,28.3,62,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+57442,24.22,51,female,1,1,heavy drinker,2 middle school grad
+57471,22.89,64,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+57572,21.87,72,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+57612,22.35,69,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+57631,24.97,76,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+57742,23.23,77,female,1,1,normal drinker or non-drinker,1 elem school grad or lower
+57783,24.02,55,male,0,1,heavy drinker,4 college grad or higher
+57831,23.53,70,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+57842,24.22,63,female,1,1,normal drinker or non-drinker,2 middle school grad
+57922,21.48,51,female,1,1,heavy drinker,2 middle school grad
+57951,22.31,56,female,0,1,normal drinker or non-drinker,2 middle school grad
+57952,26.13,58,male,1,1,heavy drinker,3 high school grad
+57971,22.15,76,male,0,1,normal drinker or non-drinker,2 middle school grad
+58082,22.89,79,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+58091,24.03,71,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+58162,23.42,57,female,0,1,normal drinker or non-drinker,2 middle school grad
+58262,25.06,58,male,1,1,heavy drinker,3 high school grad
+58311,27.16,51,male,1,0,heavy drinker,3 high school grad
+58422,19.53,51,female,1,1,normal drinker or non-drinker,3 high school grad
+58531,23.62,82,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+58572,25.1,81,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+58591,24.97,57,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+58681,24.57,56,male,1,1,heavy drinker,3 high school grad
+58711,28.4,59,female,0,1,normal drinker or non-drinker,2 middle school grad
+58722,22.05,56,male,1,0,normal drinker or non-drinker,3 high school grad
+58732,24.91,66,male,0,1,heavy drinker,3 high school grad
+58791,21.77,52,male,1,1,heavy drinker,3 high school grad
+58812,23.53,66,male,0,1,heavy drinker,4 college grad or higher
+58901,25.61,54,male,1,1,heavy drinker,3 high school grad
+59002,22.49,51,male,1,1,normal drinker or non-drinker,2 middle school grad
+59071,18.42,61,male,1,0,normal drinker or non-drinker,2 middle school grad
+59141,21.95,55,male,1,1,alcohol dependent,4 college grad or higher
+59401,21.5,59,female,0,1,normal drinker or non-drinker,3 high school grad
+59521,21.48,57,female,1,0,heavy drinker,2 middle school grad
+59531,19.95,63,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+59562,23.15,56,male,1,1,normal drinker or non-drinker,3 high school grad
+59681,23.42,54,female,1,1,heavy drinker,2 middle school grad
+59721,21.83,52,female,1,1,heavy drinker,4 college grad or higher
+59732,22.15,68,female,0,1,normal drinker or non-drinker,2 middle school grad
+59752,21.29,72,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+59951,18.91,74,male,1,1,heavy drinker,2 middle school grad
+60051,22.86,53,male,1,1,heavy drinker,4 college grad or higher
+60101,25.06,52,male,1,1,heavy drinker,4 college grad or higher
+60141,20.81,82,female,0,0,heavy drinker,3 high school grad
+60191,25.39,81,male,0,1,normal drinker or non-drinker,2 middle school grad
+60231,31.24,51,female,1,1,normal drinker or non-drinker,2 middle school grad
+60321,23.28,70,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+60432,25,59,female,1,1,normal drinker or non-drinker,3 high school grad
+60502,22.19,54,female,0,1,normal drinker or non-drinker,3 high school grad
+60601,28.04,81,male,0,1,heavy drinker,3 high school grad
+60602,23.81,81,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+60631,26.71,80,male,0,0,heavy drinker,1 elem school grad or lower
+60661,19.26,54,male,1,1,heavy drinker,3 high school grad
+60791,15.63,53,female,0,1,normal drinker or non-drinker,4 college grad or higher
+60922,22.86,57,male,1,NA,alcohol dependent,4 college grad or higher
+60972,26.67,72,female,0,0,heavy drinker,2 middle school grad
+61041,20.2,72,male,1,1,alcohol dependent,2 middle school grad
+61042,25.39,67,female,0,1,normal drinker or non-drinker,1 elem school grad or lower
+61131,24.61,59,male,1,1,normal drinker or non-drinker,1 elem school grad or lower
+61171,26.03,64,male,0,1,alcohol dependent,1 elem school grad or lower
+61201,23.34,58,female,1,1,normal drinker or non-drinker,3 high school grad
+61251,26.64,56,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
+61401,24.98,65,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+61431,18.03,84,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+61471,21.23,54,female,0,0,heavy drinker,2 middle school grad
+61481,21.23,61,female,1,0,normal drinker or non-drinker,1 elem school grad or lower
+61532,21.3,59,male,1,1,heavy drinker,3 high school grad
+61641,19.53,75,male,0,1,normal drinker or non-drinker,3 high school grad
+61691,21.64,75,female,0,0,normal drinker or non-drinker,1 elem school grad or lower
