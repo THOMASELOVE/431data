@@ -1,3 +1,6 @@
+## Updated 2017-11-26 to include eda.ksam as a 
+## replacement for eda.2sam
+
 `bootdif` <-
   function(y, g, conf.level=0.95, B.reps = 2000) {
     require(Hmisc)
@@ -208,6 +211,11 @@ gg_qq <- function(x, distribution = "norm", ..., line.estimate = NULL, conf = 0.
         
     }
 
+## eda.2sam has some problems and is now deprecated in favor of 
+## the new function eda.ksam. I retain it here until the end of
+## 2017 just to break as little old code as possible, but 
+## eda.ksam should be used in place of eda.2sam.
+
 `eda.2sam` <- 
     function(outcome, group,
              y.title = "", ov.title = "", 
@@ -271,6 +279,70 @@ gg_qq <- function(x, distribution = "norm", ..., line.estimate = NULL, conf = 0.
         
         
     }
+
+## New Code: eda.ksam
+## Added 2017-11-26
+
+`eda.ksam` <- 
+  function(outcome, group,
+           axis.title = "", main.title = "", 
+           boxplot.title = "Comparison Boxplot", 
+           hist.title = "Comparison Histograms",
+           notch = TRUE) {
+    
+    #requirements
+    require(tidyverse)
+    require(gridExtra)
+    
+    name_outcome <- 
+      ifelse(length(grep(pattern = "\\$", x = substitute(outcome))) > 0, 
+             as.character(substitute(outcome))[3], 
+             as.character(substitute(outcome))[1])
+    
+    name_group <- 
+      ifelse(length(grep(pattern = "\\$", x = substitute(group))) > 0, 
+             as.character(substitute(group))[3], 
+             as.character(substitute(group))[1])
+    
+    df <- 
+      tbl_df(data = 
+               data.frame(name_outcome = outcome, name_group = group))
+    
+    if(axis.title == ""){
+      axis.title <- name_outcome
+    }
+    
+    # binwidth
+    fd_bins <- function(x, na.rm = TRUE) {
+      bw <- 2 * IQR(x) / (length(x) ^ (1/3))
+      bins <- round((max(x) - min(x)) / bw, digits = 0)
+      return(bins)
+    }
+    
+    
+    hist_plot <- 
+      ggplot(df, aes(x = name_outcome, fill = name_group)) +
+      geom_histogram(aes(y = ..density..), bins = fd_bins(outcome), col = "white") + 
+      facet_grid(~ name_group) + 
+      labs(title = hist.title,
+           x = axis.title, y = "") + 
+      theme(legend.position = "none")
+    
+    boxplot_plot <-
+      ggplot(df, aes(x = name_group, y = name_outcome, fill = name_group)) +
+      geom_boxplot(notch = notch) +
+      coord_flip() + 
+      theme(legend.position = "none") +
+      labs(title = boxplot.title, x = "", y = axis.title)
+    
+    if(main.title == "") {
+      grid.arrange(boxplot_plot, hist_plot, nrow = 2, top = paste("Comparison of",name_outcome, "on", name_group))
+    } else {
+      grid.arrange(boxplot_plot, hist_plot, nrow = 2, top = main.title)
+    }
+    
+    
+  }
 
 # Code from Gelman and Carlin
 
